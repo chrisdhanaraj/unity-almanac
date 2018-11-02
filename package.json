@@ -1,0 +1,14 @@
+{
+  "name": "unity-almanac",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chrisdhanaraj <adhanaraj@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prisma": "^1.18.0"
+  },
+  "dependencies": {
+    "graphql": "0.13",
+    "prisma-client-lib": "^1.18.0"
+  }
+}

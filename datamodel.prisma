@@ -1,0 +1,65 @@
+enum AbilityType {
+  INVOCATION
+  CANTRIP
+  CHAKRA
+  ABILITY
+  FIGHTING_STYLE
+  CHAKRA
+  RUNE
+  TRADITION
+}
+
+type Element {
+  id: ID! @unique
+  description: String
+  name: String!
+  schools: [School!]!
+}
+
+type School {
+  id: ID! @unique
+  name: String!
+  description: String!
+  spells: [Spell!]!
+  element: Element!
+}
+
+type Spell {
+  id: ID! @unique
+  name: String!
+  description: String!
+  tier: TierFormat
+  attributes: [Attribute!]!
+  element: Element
+  school: School
+}
+
+type Attribute {
+  id: ID! @unique
+  name: String!
+  description: String
+}
+
+enum TierFormat {
+  NOVICE
+  ADEPT
+  EXPERT
+  MASTER
+}
+
+enum RangeFormat {
+  CASTER
+  MELEE
+  SPECIAL
+  RANGE
+  INCREMENT
+}
+
+enum DurationFormat {
+  MAINTAINED
+  INSTANT
+  MINUTES
+  HOURS
+  DAYS
+  ROUNDS
+}
