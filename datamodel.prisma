@@ -1,43 +1,60 @@
-enum AbilityType {
-  INVOCATION
-  CANTRIP
-  CHAKRA
-  ABILITY
-  FIGHTING_STYLE
-  CHAKRA
-  RUNE
-  TRADITION
-}
-
 type Element {
   id: ID! @unique
+  name: String! @unique
   description: String
-  name: String!
   schools: [School!]!
 }
 
 type School {
   id: ID! @unique
-  name: String!
+  name: String! @unique
   description: String!
-  spells: [Spell!]!
+  spells: [Ability!]!
   element: Element!
+  type: SchoolType!
 }
 
-type Spell {
+type Ability {
   id: ID! @unique
-  name: String!
+  name: String! @unique
   description: String!
-  tier: TierFormat
   attributes: [Attribute!]!
+  tier: TierFormat
   element: Element
   school: School
+  type: AbilityType
+  costType: CostType
+  costAmount: Int
+  maintainAmount: Int
+  rangeType: RangeType
+  rangeAmount: Int
+  rangeIncrement: Int
+  areaOfEffectType: AreaOfEffectType
+  areaOfEffectRadius: Int
+  areaOfEffectLine: String
+  durationType: DurationType
+  durationAmount: String
 }
 
 type Attribute {
   id: ID! @unique
-  name: String!
+  name: String! @unique
   description: String
+}
+
+enum SchoolType {
+  SPELL
+  CHAKRA
+  TRADITION
+  RUNE
+}
+
+enum AbilityType {
+  SPELL
+  CHAKRA
+  FIGHTING_STYLE
+  RUNE
+  TRADITION
 }
 
 enum TierFormat {
@@ -47,19 +64,33 @@ enum TierFormat {
   MASTER
 }
 
-enum RangeFormat {
+enum RangeType {
   CASTER
   MELEE
   SPECIAL
   RANGE
-  INCREMENT
+  RANGE_INCREMENT
 }
 
-enum DurationFormat {
+enum AreaOfEffectType {
+  RADIUS
+  SINGLE_TARGET
+  SPECIAL
+  LINE
+  CASTER
+}
+
+enum DurationType {
   MAINTAINED
   INSTANT
   MINUTES
   HOURS
   DAYS
   ROUNDS
+  VARIABLE
+}
+
+enum CostType {
+  AP
+  TIME
 }
