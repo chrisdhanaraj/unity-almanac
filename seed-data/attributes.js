@@ -1,45 +1,30 @@
-const { prisma } = require('../generated/prisma-client');
-
-const attributes = [
-  {
-    name: 'Cantrip'
-  },
-  {
-    name: 'Enchantment Spell'
-  },
-  {
-    name: 'Ranged Spell Attack'
-  },
-  {
-    name: 'Cloud Spell'
-  },
-  {
-    name: 'Spell Attack'
-  },
-  {
-    name: 'Summoning Spell'
-  },
-  {
-    name: 'Area Spell Attack'
-  },
-  {
-    name: 'Spell'
-  },
-  {
-    name: 'Ritual Spell'
-  },
-  {
-    name: 'Wall Spell'
-  }
-];
-
-const createAttributes = async () => {
-  const promiseArray = [];
-  attributes.forEach(attr => {
-    promiseArray.push(prisma.createAttribute(attr));
-  });
-
-  await Promise.all(promiseArray);
-};
-
-module.exports = createAttributes;
+[
+  "Enchantment Spell",
+  "Spell Attack",
+  "Summoning Spell",
+  "Area Spell Attack",
+  "Spell",
+  "Ranged Spell Attack",
+  "Cloud Spell",
+  "Ritual Spell",
+  "Wall Spell",
+  "Area Spell",
+  "Teleport Spell",
+  "Mind Spell Attack",
+  "Touch Spell Teleport Attack",
+  "Ritual Teleport Spell",
+  "Transformation Spell",
+  "Body Spell Attack",
+  "Ground Spell",
+  "Touch Spell Attack",
+  "Portal Spell",
+  "Reflex Spell Attack",
+  "Divination Spell",
+  "Cloud Enchantment Spell",
+  "1 Week",
+  "Transmutation Spell",
+  "Illusion Spell",
+  "Phantasm Spell",
+  "Ground Enchantment Spell",
+  "Spell Body Attack"
+]
