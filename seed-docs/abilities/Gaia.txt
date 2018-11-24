@@ -1,0 +1,166 @@
+﻿Gaia
+Core Element: Life
+
+
+Gaia Cantrips
+Sense Life (divination spell, 1 AP): This spell detects the presence of Beasts, Humanoids, and Primordials in a (casting check * 10)’ radius around the caster. She will gain a general sense of how many creatures (if any) are present, as well as their Types. If she scores 5+ hits on the check, she can determine specific creature species as well as Type.
+Speak with Nature (enchantment spell, 1 minute): This spell enchants the caster and allows her to speak the secret languages of animals, plants, and elementals for (casting check) hours; during this time she can communicate with these creatures normally and use Persuasive Skills on them. However, while enchanted, she loses the ability to speak human tongues. She can end this spell early by concentrating for 1 minute, if she desires.
+
+
+Incantation Summary
+(N) Blessed Berries: Creates magical fruit that heals anyone who eats it.
+(N) Charm Creature: Makes a natural creature more friendly to the caster.
+(N) Claws of the Beast: Causes a target to grow claws and fangs.
+(N) Entangle: Summons grasping roots from the earth to snare those passing by.
+(N) Photosynthesis: Allows the enchanted target to gain nourishment from the sun and earth.
+
+
+(A) Call Natural Allies: Summons small creatures to scout or deliver messages for the caster.
+(A) Lure: Attracts natural creatures to an area.
+(A) Plant Growth: Blesses an area to make plants within grow more quickly.
+(A) Predator’s Path: Grants the target preternatural skill at hunting and tracking.
+(A) Wall of Thorns: Creates an impassable wall of tangled and prickly vines.
+
+
+(E) Barkskin: Transforms a creature’s skin into impenetrable wood.
+(E) Enrapture Creature: Charms a natural creature to make them loyal to the caster.
+(E) Form of the Beast: Allows the caster to transform into an animal shape.
+(E) Kudzu: Fills an area with strangling plants that cover everything.
+(E) Woodland Retreat: Transforms plants into a temporary shelter.
+
+
+(M) Primal Fury: Fills an ally with unstoppable savagery.
+(M) Stampede: Summons a large number of angry beasts.
+(M) Wrath of the Woodlands: Animates a tree to attack nearby creatures.
+________________
+
+
+Novice Incantations
+Blessed Berries
+(summoning spell, 2 AP)
+Range: caster                Area of Effect: special                Duration: 1 day
+This spell summons (casting check) magical berries that persist for 1 day. Any creature can eat one of the berries (requires 1 AP) in order to restore 2 endurance or lose 1 metabolic ailment affecting them.
+
+
+Charm Creature
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: special
+This spell must be cast on a Beast or Primordial creature; that creature becomes charmed, increasing their Attitude towards the caster by (1 +/- net hits) steps, to a maximum of Loyal. Creatures engaged in combat (or some other life-or-death affair) are unaffected by this spell. Charm is permanent as long as the creature’s Attitude is not lowered towards the caster in any way; if their Attitude towards the caster is ever lowered, then charm and its Attitude improvement end instantly, meaning the target’s Attitude may drop 2 or more steps in a single moment. This spell cannot affect a given creature more than once, though once the effect ends on a given creature, the caster may attempt to charm them again. This spell is Subtle.
+
+
+Claws of the Beast
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell causes a touched creature to grow claws, fangs, hooves, antlers, or other dangerous animal implements that seem appropriate. This natural weapon has the following statistics and persists for the full duration of the spell: Attack: 0/4/6, Defense: 6, Damage: 7 (slash), Reach: 5’, Size: T. The target can use her Unarmed skill, or whatever skill was used to cast the spell, when attacking with her newfangled appendages; the attack checks are modified by Strength or Agility (whichever the character prefers) as normal for unarmed attacks. Whenever the character deals damage with the Claws of the Beast, she restores endurance based on the severity of the wound dealt: light - 1, moderate - 2, severe - 3, mortal - 4. The wielder cannot “sheathe” these natural weapons; she is stuck with them for the full duration of the spell, though they do not inhibit the use of items (though horns and antlers might make wearing a hat difficult…).
+
+
+Entangle
+(ground spell, 2 AP)
+Range: 30’ increment                Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell causes an overgrowth of angry roots and vines in the target area. Any creature entering the affected area becomes slowed, reducing their Speed by 50% as long as they remain there. Any creature knocked prone in the entangled area must make an (Athleticism + Strength) check or become grasped and unable to stand up or move for 1 round.
+
+
+Photosynthesis
+(enchantment spell, 1 minute)
+Range: melee                Area of Effect: single target        Duration: 1 day
+Casting this spell causes the caster to draw nutrients from the sun and earth. While this enchantment is active, she does not require food and water, instead requiring contact with the earth (treat as food) and daylight (treat as water). She does not suffer exposure from lack of food and water unless she lacks contact with the earth and/or daylight. While under this effect, she does not require traveling supplies and suffers no exposure from weather events other than storms, either.
+________________
+
+
+Adept Incantations
+Call Natural Allies
+(summoning spell, 2 AP)
+Range: caster                Area of Effect: special                Duration: (casting check) hours
+This spell summons forth a number of Small or Tiny animals  appropriate to the current biome, such as squirrels, birds, mice, and large insects. The animals will follow the caster’s orders for the duration of the spell, provided she can communicate with them. While they will not fight, the animal from this spell can be commanded to investigate nearby areas for the caster (the distance is largely dependent on the creatures in question). Once they are finished, the creatures will return to the caster; if she can speak with animals, she can ask them directly what they found. Otherwise, they only grant general impressions that stood out to them (such as “Danger!” “Food!” or “Lots of humans!”). Alternatively, she can have the creatures deliver a message (typically, a single rolled sheet of parchment) to a target up to 25 miles away; the animals will require the entire duration of the spell to travel this distance and will do nothing else if told to deliver a message. They can deliver messages even to creatures they have never met before. Unlike most summoning spells, creatures summoned with this spell do not gain the Summoned descriptor.
+
+
+Lure
+(enchantment spell, 1 minute)
+Range: caster                Area of Effect: 500’ radius                Duration: 1 day
+This spell, when cast, will attract natural creatures to a target location. All creatures of the Beast and Primordial types must make a Mind check against the casting check or become fixated on the Lure location, causing them to travel towards the center of the area and linger near there until the spell ends or until the creatures are attacked, startled, or otherwise distracted. Once the fixation effect ends, the animals are free to leave.
+
+
+Plant Growth
+(ritual spell, 1 day)
+Range: caster                Area of Effect: 500’ radius                Duration: 1 month
+This spell causes an area to become lush and filled with vegetation. If cast in a barren area, the area affected by the spell will sprout plants over the course of 1 day, coming to resemble a garden (the plants may not survive long if sprouted in the middle of a desert, however). If cast in a wild area that already contain plants, the affected area becomes overgrown over the period of a day; treat the overgrowth as difficult terrain. If cast on a field, farmland, or orchard, the plants within grow more quickly and bountifully, increasing the yield of the area by 25% when it is harvested. This spell can only affect a given area once per year. This ritual requires 1 gallon of pure spring water (can be found in any non-arid biome, but no closer than 50 miles to a Settlement) which must be sprinkled over the affected area.
+
+
+Predator’s Path
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: 1 day
+This spell gives a target incredible skill at hunting. For 1 day, they leave no track while in the wilderness (making it impossible to tail them without direct line of sight), gain a +4 bonus to Alertness, Bushcraft, and Investigation checks, move 100% faster overland, and can track at full speed with no penalty.
+
+
+Wall of Thorns
+(wall spell, 2 AP)
+Range: 15’        Area of Effect: special                Duration: (casting check) minutes
+This spell creates a giant tangle of thorny vines that is 5’ wide, 10’ high, and up to 100’ long; at least some part of the wall must be within the base range of the spell, but it can extend beyond this range. The wall cannot be seen through and blocks all normal ranged attacks, causing them to fail utterly; siege attacks are unaffected. All creatures who enter the wall or begin their turns there take 6 slashing damage and must succeed a (Athleticism + Strength) check against the casting check to force their way through; otherwise, they cannot pass through the wall. Each section (10’ x 10’) of the wall can be destroyed by taking at least 8 slashing or fire damage.
+________________
+
+
+Expert Incantations
+Barkskin
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell transforms a touched creature’s skin into thick tree bark. This suit of magical Heavy Armor has the following statistics: Resistance: 11/14/5/5, Encumbrance: 5. The wearer of the armor is also immune to all physical conditions, positive or negative, while wearing it; preexisting status effects are not removed by this spell. The target cannot dismiss her Barkskin if it proves cumbersome; she is stuck with it for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Enrapture Creature
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+If this spell hits the target, it dominates them for (1 + net hits) minutes, forcing them to obey the caster’s commands. They can still refuse obviously-suicidal behavior (such as “Jump off that cliff,”), but can be otherwise be commanded to perform any task the caster can dream up, no matter how degrading or menial. Only Beasts and Primordials can be affected by this spell.
+
+
+Form of the Beast
+(transformation spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) hours
+This spell transforms the caster into another form. The alternate form must be a non-swarm Beast of Large size or smaller. When she transforms, all of her equipment (up to a maximum of her normal carrying capacity) transforms with her and is restored when she returns to human shape. While transformed, she gains all of the beast’s movement modes, attacks, and special abilities, but not its skills. She also uses the beast’s Strength, Agility, Intuition, and Resistance. Her endurance changes to that of the targeted creature, but she retains any endurance loss and wounds she has taken both when she transforms to and from the form. While transformed, she cannot communicate normally, but can make all the sounds the beast can normally make; thus she can speak with other beasts, or anyone who can speak with animals. The caster must be familiar with the creature she turns into (e.g. she cannot turn into a kangaroo if she’s never seen one). By spending 2 AP, the caster can change into and out of the animal form for the duration of the spell; however, she can only swap between her natural form and the initial beast form chosen.
+
+
+Kudzu
+(ground spell, 2 AP)
+Range: 60’ increment                Area of Effect: 30’ radius                Duration: (casting check) minutes
+This spell fills a large area with leafy and tenacious vines that rapidly grow to cover everything. Creatures in the area are entangled, preventing them from moving until they succeed an (Athleticism + Strength) check against the casting check, or deal 5 slashing or fire damage to the vines around themselves to break free. Any creature within the Kudzu that is knocked prone or who does not move at least 15’ in a round becomes automatically entangled. The vines rapidly grow over objects and structures in the area as well, preventing items from being picked up, doors from being opened, etc, unless an (Athleticism + Strength) check against the casting check is made first. After the indicated duration, the vines cease their incredible growth and no longer entangle creatures, but they will continue to grow at a more normal rate. They persist indefinitely unless they were sprouted in an area inhospitable to plant life, in which case they will not grow and will die within a week. The Kudzu still regrows any lost sections within 1 day unless the entire growth is destroyed.
+
+
+Woodland Retreat
+(summoning spell, 1 minute)
+Range: melee                Area of Effect: special                Duration: 1 day
+This spell causes ambient plant life to entwine into a small shelter in an open space adjacent to the caster. The shelter is circular in shape, 5’ high, and has a radius of 15’. Up to 10 Medium Size creatures can take refuge within the shelter, which protects them from weather and extremes of temperature, and allows them to recover exposure if they are currently suffering from that effect. The shelter can be attacked; each 5’ section of the wall has 5 hardness and 10 Resistance. The Woodland Retreat can be made permanent as part of a ritual spell; this casting requires 1 day and a hand-crafted wooden statue in the vague shape of the structure to be created (Crafting: Woodworking check, Difficulty: 4). If made permanent, the caster can double the size of the retreat and add inner walls, doors, etc as she desires. Only one permanent Woodland Retreat can be active at a time.
+________________
+
+
+Master Incantations
+Primal Fury
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell drives the target into a bestial rage. They gain a +(casting check) bonus to Strength and Agility, deal +2 damage with all melee attacks that hit, gain +2 Resistance to all damage types, and suffer a -4 penalty to Block and Reflex checks. In addition, they ignore the effects of fatigue, the penalties from all wounds (within reason; a severed limb still cannot be used), and regain 1 endurance per round.
+
+
+Stampede
+(ritual spell, 1 hour)
+Range: caster                Area of Effect: special                Duration: (casting check) hours
+This spell calls forth a great stampede of herd animals appropriate to the current terrain (cows, wildebeests, moose, yaks, etc). Once the ritual is completed, the herd will stampede in a direction chosen by the caster, trampling everything in their path. Creatures in the path of the stampede must make a Reflex check (against the casting check) each round or be knocked prone and take 10 crushing damage. Structures in the affected area may be damaged as well, though the herd will attempt to avoid large buildings. The herd will continue its stampede for the duration of the spell and will not be deterred, even by being attacked; there are simply too many animals for anything short of a full artillery barrage to be effective. This spell requires a hand-crafted wooden horn used to call the herd (Crafting: Woodworking check, Difficulty: 4).
+
+
+Wrath of the Woodlands
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: one tree                Duration: (casting check) hours
+This spell animates a normal tree of Huge Size or larger within range of the caster. The tree comes to life and automatically attacks creatures within its considerable reach; it can be commanded like a normal follower. The caster can choose to exempt any creature (including herself) from being automatically attacked. The tree will remain animate for the full duration of the spell, after which it returns to being a normal tree.
+
+
+Animate Tree
+Primordial
+This tree, improbably, seems to be extremely angry.
+Str: 10        Agi: 0        Int: 1        Kno: 0        Wil: 6        Cha: 0        Mag: 0        Luck: 0        End: 25 + Str
+Init: 11                Speed: 0’                        Size: Huge (15’ x 15’)                
+Attacks: Slam         6 + Str        (6/6/6 attack, 6 defense, 10 crushing damage)        15’ Reach
+Defenses: Block +6, Reflex +0, Body +10, Mind +10
+Resistances: 11 c, 14 p, 5 s, 5 elemental
+Skills: n/a
+Items: n/a
+Abilities
+Canopy (passive): Whenever the tree makes a Slam attack, it can attack any number of creatures within its reach with the same action.
+Motion Sense (passive): The tree has a keen sense of movement. It knows the exact location of any creature within 15’ that moved on their last turn (forced-movement counts, but Teleports do not). Creatures it can detect via this ability do not benefit from Concealment, Invisibility, or Stealth.
+Rooted (passive): The tree is immune to forced movement, cannot be knocked prone, and cannot move for any reason, even if granted bonus movement speed. It’s a tree.

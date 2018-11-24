@@ -1,0 +1,156 @@
+﻿Transmutation
+Core Element: Water
+
+
+Transmutation Cantrips
+Flavor (transformation spell, 1 AP): This spell changes the taste of a small amount of edible food (about one meal’s worth of food, or one glass of liquid). While the nutritional value, if any, of the food does not change, it does allow it taste however the caster desires.
+Mending (spell, 1 AP): This spell repairs damage in a simple object of Small size or smaller. No materials are necessary for this repair, and no check is required. However, complex objects (such as clockwork) cannot be repaired; likewise, if a book is partially burned, the spell can restore the paper (simple), but not the words written upon it (complex). Objects that have lost more than 50% of their mass (such as a pot being shattered into many pieces) cannot be repaired by this spell.
+
+
+Incantation Summary
+(N) Alteration: Magically changes one substance or object into another.
+(N) Enhanced Vision: Grants a target Keen Vision or Darkvision.
+(N) Gecko’s Grip: Allows the target to climb up nearly anything.
+(N) Vigor: Greatly increases a creature’s athletic ability.
+(N) Water Breathing: Transforms an ally to make them able to breathe water.
+
+
+(A) Adaptive Armor: Creates magical armor that strengthens itself after taking damage.
+(A) Enlarge: Causes a creature or object to become much larger.
+(A) Erasure: Destroys writing, engraving, and runes.
+(A) Passwall: Opens a temporary gateway in a normally-solid object.
+(A) Shrink: Causes a creature or object to become much smaller.
+
+
+(E) Fabrication: Magically turns raw materials into worked goods.
+(E) Metamorphosis: Makes pronounced and possibly permanent physical changes to a creature.
+(E) Polymorph: Transforms one creature into another.
+(E) Skeleton Key: Opens a locked door without the key.
+(E) Vorpal Sword: Conjures up a magical sword adept at shearing through heads.
+
+
+(M) Mutable Fortress: Creates a magical dwelling that the caster can alter as she desires.
+(M) Petrification: Transforms a target into stone.
+(M) Shapechange: Allows the caster to rapidly change from one form to another.
+________________
+
+
+Novice Incantations
+Alteration
+(ritual spell, 1 minute)
+Range: melee        Area of Effect: one object                Duration: permanent
+This spell changes one material or substance into another. Up to (casting check) gallons of liquid can be affected, or up to (casting check) cubic feet of solid material; this spell cannot change states of matter (e.g. it cannot change liquid into solid or vice-versa). Living material (such as a live tree) cannot be affected, but dead natural material (such as wood cut from a tree) can. This spell does not change the shape of the affected material, nor can it retain fine detail or complexity (e.g. if the caster turns a wooden clock to steel with this spell, she will create a vaguely-clock-shaped blob of steel that does not function as a clock). Hazardous materials (such as acid or poison) cannot be created with this spell; valuable materials (such as gold) can be, but it is of extremely poor quality and essentially worthless to any trained observer ((Investigation + Intuition) vs. casting check). This ritual requires a handful of pure earthen clay (can be found in any terrain, but no closer than 50 miles to a Settlement).
+
+
+Enhanced Vision
+(transformation spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) hours
+This spell grants a touched creature either Keen Vision or Darkvision (chosen by the caster) for the duration of the spell.
+
+
+Gecko’s Grip
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) hours
+This spell grants a touched target a Climb speed equal to their normal Speed for the duration of the spell.
+
+
+Vigor
+(transformation spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) hours
+This spell greatly increases the athletic ability of the target. For the duration of the transformation, the target gains a +8 bonus to Athleticism checks, +5’ Speed, and doubles the time interval between endurance loss from strenuous running, sprinting, swimming, or diving. She also suffers no distance penalty to standing and/or vertical jumps.
+
+
+Water Breathing
+(transformation spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) hours
+For the duration of the transformation, the affected creature gains the ability to breathe water as well as air.
+________________
+
+
+Adept Incantations
+Adaptive Armor
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with aethereal armor of ever-shifting form. This suit of magical Medium Armor has the following statistics: Resistance: 4/4/4/4, Encumbrance: 5. Each time the target is hit by an attack whose damage is not reduced to 0 by Resistance, the armor’s Resistance towards that single damage type is increased by 2 for the remaining duration of the spell; track each individual Physical and Elemental damage type separately. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Enlarge
+(transformation spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell makes a targeted creature larger, roughly doubling their physical size and increasing their weight to 8x normal. While enchanted, the target’s Size Category increases by 1 step, granting them all the normal numerical effects for changing Size Categories (see the Bestiary for more details). All of their equipment changes size with them. The target also gains +1 Strength and -1 Agility for the duration of the spell. If the target’s Area is increased by this spell and they have insufficient space (such as a Medium creature becoming Large in a 5’ wide hallway), the spell fails and does nothing. If used on an object, its Size increases by 2 Categories (thus an Enlarged dagger (Tiny) would become the size of a greatsword (Medium), while an Enlarged marble (Diminutive) would become the size of a bowling ball (Small)).
+
+
+Erasure
+(spell, 2 AP)
+Range: 30’ increment        Area of Effect: one object                Duration: permanent
+This spell removes all trace of writing, drawing, and other man-made markings from (50 * casting check) pages of a book, or (5 * casting check) square feet of solid surface (such as a wall). This spell can also be used to destroy a single Artificing rune, glyph, or sigil; this use of the spell requires an opposed casting check with the creator of the rune. Permanent runes cannot be destroyed with this spell, but they can be suppressed for (1 + net hits) rounds if the caster wins her opposed check.
+
+
+Passwall
+(transformation spell, 2 AP/maintain 1 AP)
+Range: melee        Area of Effect: one object                Duration: special
+This spell creates a temporary open passage through a formerly-solid wall. The spell creates a doorway that is 6’ tall and 3’ wide; it has a maximum depth of (3 * casting check)”. If the wall is thicker than this, the spell fails and does nothing. Casting the spell requires physical contact with the wall, but once it has been cast, it can be maintained from a distance of up to 30’ away. If the caster ceases concentration or moves too far away, the doorway closes immediately. Any creature inside the door when it closes is shunted harmlessly to one side of the wall or the other (50% chance of each). Spells or materials that block Divinations cannot be ‘opened’ via this spell.
+
+
+Shrink
+(transformation spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell makes a targeted creature smaller, roughly halving their physical size and reducing their weight to ⅛ normal. While enchanted, the target’s Size Category decreases by 1 step, granting them all the normal numerical effects for changing Size Categories (see the Bestiary for more details). All of their equipment changes size with them. The target also gains +1 Agility and -1 Strength for the duration of the spell. If used on an object, its Size decreases by 2 Categories (thus a Shrunken greatsword (Medium) would become the size of a dagger (Tiny)).
+________________
+
+
+Expert Incantations
+Fabrication
+(ritual spell, 1 hour)
+Range: melee        Area of Effect: one object                Duration: permanent
+This spell changes one material or substance into another. Up to (casting check) gallons of liquid can be affected, or up to (casting check) cubic feet of solid material; this spell can change states of matter (e.g. it can change liquid into solid or vice-versa), but the smaller of the two affected volumes is used. Living material (such as a live tree) cannot be affected, but dead natural material (such as wood cut from a tree) can be. This spell can change the shape of the affected material, plus it can retain or create fine detail or complexity; however, the caster must have knowledge of the appropriate process (i.e. the appropriate Crafting skill) and must make said skill check to create or preserve the complexity of the object. In addition, this spell cannot produce quality above Average, no matter how skilled the caster may be. Hazardous materials (such as acid or poison) cannot be created with this spell; valuable materials (such as gold) can be, but it is of fairly poor quality and worth one-quarter the normal value to any trained observer ((Investigation + Intuition) vs. casting check). This ritual requires a handful of pure earthen clay (can be found in any terrain, but no closer than 50 miles to a Settlement).
+
+
+Metamorphosis
+(transformation spell, 2 AP)
+Range: melee        Area of Effect: single target                Duration: (casting check) hours
+This spell dramatically changes the target’s physical form. The target’s body is altered to that of any other humanoid creature of similar size and shape (any playable Race, basically). The target loses all racial traits of their own race, instead gaining those of their new form, including natural armor/weapons, movement modes, and other traits. Attributes are not adjusted. While transformed, the target is nearly unrecognizable as their former self; NPCs who already know them and interact with them can make an (Empathy + Intuition) vs. the target’s (Deceit + Charisma) to recognize them in their new form, however. This spell can also be cast as a ritual; this increases the casting time to 1 day and requires a pint of fresh blood from the species of creature into which the target will be turned; they cannot provide their own blood or use the caster’s, even if they plan to transform into either of those races. However, when cast as a ritual, the spell’s effects are permanent.
+
+
+Polymorph
+(transformation spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) hours
+This spell transforms the caster or a touched ally into another form. The alternate form must be a non-swarm Beast of Huge size or smaller.When she transforms, all of her equipment (up to a maximum of her normal carrying capacity) transforms with her and is restored when she returns to human shape. While transformed, she gains all of the beast’s movement modes, attacks, and special abilities, but not its skills. She also uses the beast’s Strength, Agility, Intuition, and Resistance. Her endurance changes to that of the targeted creature, but she retains any endurance loss and wounds she has taken both when she transforms to and from the form. While transformed, she cannot communicate normally, but can make all the sounds the beast can normally make; thus she can speak with other beasts, or anyone who can speak with animals. The caster must be familiar with the creature she turns into (e.g. she cannot turn into a kangaroo if she’s never seen one). This spell cannot be cast on an unwilling target.
+
+
+Skeleton Key
+(spell, 2 AP)
+Range: 30’ increment        Area of Effect: one lock                Duration: instant
+This spell magically opens a lock. The caster must make a casting check against the normal Difficulty to open the lock without a key (see the Engineering skill). If she succeeds, the lock falls open; if she fails, nothing happens. Barred doors, portcullises, and other methods of securing a portal that do not rely on locks are unaffected by this spell.
+
+
+Vorpal Sword
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical and impossibly sharp Medium Blade in the hand of a touched creature. The sword has the following statistics and persists for the full duration of the spell: Attack: 3/3/0, Defense: 3, Damage: 8 (slash), Reach: 5’, Size: S. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the vorpal sword; its attack checks are modified by Strength or Agility (depending on how it is wielded) as normal for a 1-handed weapon. All wounds inflicted by the Vorpal Sword have their severity increased by 1 step; if it deals a Mortal Wound, it will always sever the targeted limb if that option is available. The wielder can sheathe and draw the sword normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+________________
+
+
+Master Incantations
+Mutable Fortress
+(ritual spell, 1 week)
+Range: caster        Area of Effect: special                Duration: permanent
+This spell transmutes unworked earth, mud, stone, and wood into a huge dwelling the caster can shape as desired. The retreat is up to 10000 square feet (100’ square) in size and the caster can shape the building however she wishes, within reason; she is not required to make a perfectly square dwelling. She can form rooms, stairs, and doors within it as she desires; the doors will automatically open for the caster and anyone she designates as being allowed within. 5’ square sections of the Mutable Fortress (or its doors) can be attacked and destroyed (durability: 15), but destroyed sections will regenerate within 1 day unless the entire fortress is destroyed. Creatures within the retreat are immune to environmental effects, terrain hazards, and weather effects.
+
+
+The caster can recast this spell (1 hour casting time with no material components) in order to repair any damage caused to the fortress, or to reshape an existing Mutable Fortress. This allows her to reshape the fortress however she desires, including dramatic changing of the layout: she can add, move, or remove doors, rooms, hallways, courtyards, etc. However, any section of the fortress that contains living creatures (of at least Small size) cannot be altered; she is not allowed to trap people within her fortress and then crush them to death.
+
+
+In addition to the structural components, the fortress can furnished as desired by the caster, though the furniture is made of the same material (e.g. earth/stone) as the rest of the fortress and cannot be finely crafted (or particularly comfortable, most likely). The fortress is permanent, but the caster can only have one active at a time. This ritual requires a handful of pure earthen clay (must be gathered at least 50 miles away from any settlements) mixed with diamond dust (worth 25g).
+
+
+Petrification
+(body spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: permanent
+This spell targets one creature and, if it hits, turns them into immobile stone permanently. The target gains a bonus to their defense check equal to half their current endurance score. Alternatively, the spell can be cast on a petrified target within the caster’s reach to return them to life, though any damage done to them as a statue remains inflicted on their physical form.
+
+
+Shapechange
+(transformation spell, 2 AP)
+Range: caster        Area of Effect: caster                Duration: (casting check) minutes
+This spell functions like Polymorph, above, except it only affects the caster, has a shorter duration, and at any point while under its effects she can spend 2 AP to change her form into any other creature permissible within the limitations of the spell.

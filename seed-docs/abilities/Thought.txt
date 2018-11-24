@@ -1,0 +1,166 @@
+﻿Thought
+Core Element: Fire
+
+
+Thought Cantrips
+Encouragement (enchantment spell, 1 AP): This spell can be cast on an ally to grant them motivation, giving them a +(½ casting check) bonus to the next skill check they make. Attack and defense checks are unaffected, and a given creature cannot be affected by motivation more than once per day. The caster cannot use this ability on herself.
+Telepathic Message (spell, 2 AP): This spell allows the caster to send a mental message to a nearby creature. The message cannot be overheard or intercepted, but the caster must share a language with the target, otherwise it will be unintelligible to them. The target cannot reply via this spell unless they can cast it themselves. She must succeed a casting check with Difficulty: 3 to use this ability. This spell has a range increment of 30’ and is Subtle.
+
+
+Incantation Summary
+(N) Charm Person: Makes a creature more friendly towards the caster.
+(N) Disorientation: Causes creatures in an area to lose focus and coordination.
+(N) Heroism: Grants an ally bonuses to combat ability.
+(N) Suggestion: Compels a target to obey a stated request.
+(N) Vigilance: Instills allies with alertness towards their surroundings and potential danger.
+
+
+(A) Blood Rage: Fills a creature with rage, forcing them to recklessly attack anything nearby.
+(A) Confusion: Causes creatures in an area to act randomly.
+(A) Mental Fortress: Enchants an ally with magical armor that protects both mind and body.
+(A) Mind Reading: Allows the caster to read the surface thoughts of a nearby creature.
+(A) Pacifism: Prevents a creature from using any abilities.
+
+
+(E) Domination: Forces a creature to obey the caster’s commands.
+(E) Honesty: Makes a creature tell the truth when they speak, even if they wanted to lie.
+(E) Mind Dagger: Conjures a weapon that strikes at the mind, rather than the body.
+(E) Telepathic Web: Connects multiple allies to allow them to communicate telepathically.
+(E) Terror: Strikes fear into nearby enemies, forcing them to flee.
+
+
+(M) Compelled Reverence: Makes a creature permanently friendly towards the caster.
+(M) Geas: Compels a target to obey long-term behavior modification.
+(M) Standing Ovation: Grants many boons to a single target.
+________________
+
+
+Novice Incantations
+Charm Person
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: special
+This spell must be cast on a Humanoid creature; that creature becomes charmed, increasing their Attitude towards the caster by (1 +/- net hits) steps, to a maximum of Loyal. Creatures engaged in combat (or some other life-or-death affair) are unaffected by this spell. Charm is permanent as long as the creature’s Attitude is not lowered towards the caster in any way; if their Attitude towards the caster is ever lowered, then charm and its Attitude improvement end instantly, meaning the target’s Attitude may drop 2 or more steps in a single moment. This spell cannot affect a given creature more than once , though once the effect ends on a given creature, the caster may attempt to charm them again. This spell is Subtle.
+
+
+Disorientation
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: 5’ radius                Duration: instant
+This spell attacks all creatures in the target area, disorienting them for (4 +/- net hits) rounds. Disoriented creatures have their Engagements reduced by 2 and cannot make opportunity attacks.
+
+
+Heroism
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell grants heroism to a single ally, granting them a +(casting check) bonus to melee weapon attack, Block, and Reflex checks for the duration.
+
+
+Suggestion
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: special
+This spell compels a target nearby creature to obey a spoken request. The request is limited to approximately 6 seconds (1 round in length) and must be ‘reasonable.’ While this is open to interpretation, in general the subject will behave rationally, will not change their beliefs/convictions, and will not put themselves unnecessarily in harm’s way or obey obviously suicidal suggestions. Thus the caster could not tell a guard “I suggest you jump on the end of your own spear,” but she could say, “I suggest you check the other end of the wall for intruders,” and he would obey (thus allowing the caster’s allies to slip into the castle unseen). The creature will follow the nature of the suggestion for up to (casting check) minutes or until they complete the action. If this spell misses, it does nothing. Creatures engaged in combat (or some other life-or-death affair) are unaffected by this spell.
+
+
+Vigilance
+(enchantment spell, 1 minute)
+Range: caster        Area of Effect: 15’ radius                Duration: (casting check) hours
+This spell grants the caster and all allies within 15’ of her with a preternatural awareness of their surroundings. They gain a +(½ casting check) bonus to Alertness and Investigation checks and a +(½ casting check) bonus to Initiative.
+________________
+
+
+Adept Incantations
+Blood Rage
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell causes the target creature to become filled with unquenchable lust for blood, making them berserk for (4 +/- net hits) rounds. While berserk, the target must attack the nearest creature each round; if no creature is within reach, she must move toward the closest creature, attacking it if possible (otherwise getting as close as possible).
+
+
+Confusion
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: 5’ radius                Duration: instant
+This spell causes creatures in the affected area to become unable to process reality, causing them all to become confused for (4 +/- net hits) rounds. While confused, at the start of each of the target’s turns, roll a 1d6 to determine how they act that round (any forced action occurs before the target is allowed to act themselves, if they have AP remaining):
+        *1: Target can act normally.
+        *2: Target spends 1 AP moving in a random direction.
+        *3: Target spends 1 AP babbling, singing, or otherwise performing nothing useful.
+        *4: Target spends 1 AP making a basic attack against the nearest target (friend or foe).
+        *5: Target spends 2 AP moving in a random direction.
+        *6: Target spends 2 AP babbling, singing, or otherwise performing nothing useful.
+
+
+Mental Fortress
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with glowing armor formed of pure force of will. This suit of magical Medium Armor has the following statistics: Resistance: 7/7/7/0, Encumbrance: 6. The wearer of the armor is also immune to all mental conditions, positive or negative, while wearing it; preexisting status effects are not removed by this spell. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Mind Reading
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell attacks a creature within range and applies mental examination to them for (2 +/- net hits) minutes, allowing the caster to read their surface thoughts for the duration. Surface thoughts are defined as whatever the target is actively thinking of at the time; this spell does not allow examination of memories or beliefs. For example, if the caster wishes to determine whether or not a given priest is a heretic, this spell might not have any effect if the priest is currently engaged in cleaning the window hangings (as his thoughts are likely to be directed towards cleanliness); however, if she engaged him in conversation and brought up the topic of heresy, his thoughts might actively drift towards his opinion on heretical beliefs, potentially giving his true nature away. If the caster moves more than 30’ from the target, she cannot read its thoughts until she returns to within 30’. This spell is Subtle.
+
+
+Pacifism
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell attacks a single creature, pacifying them for (2 +/- net hits) minutes. While pacified, they cannot use any attack, spell, or shout ability and may be more inclined to listen to nonviolent alternatives. Maybe. If the target is attacked, it ends instantly.
+________________
+
+
+Expert Incantations
+Domination
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+If this spell hits the target, it dominates them for (1 + net hits) minutes, forcing them to obey the caster’s commands. They can still refuse obviously-suicidal behavior (such as “Jump off that cliff,”), but can be commanded to attack their own allies, hand over all their possessions, or perform any other degrading and menial task the caster’s twisted mind can think up. Only intelligent Humanoids can be affected by this spell.
+
+
+Honesty
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell forces a target to be honest for (2 +/- net hits) minutes, causing them to inadvertently tell the truth whenever they would try to lie. If the target tries to circumvent this restriction by being clever, dissembling, or otherwise deceitful, they end up blurting out the whole truth anyways. This spell is Subtle.
+
+
+Mind Dagger
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Light Blade coalesced from negative thought in the hand of a touched creature. The dagger has the following statistics and persists for the full duration of the spell: Attack: 0/3/6, Defense: 3, Damage: 5 (pierce), Reach: 5’, Size: T. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the Mind Dagger; its attack checks are modified by Strength or Agility (depending on how it is wielded) as normal for a 1-handed weapon. The Mind Dagger’s attacks target Mind rather than Block. The wielder can sheathe and draw the dagger normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Telepathic Web
+(enchantment spell, 1 minute)
+Range: caster        Area of Effect: 15’ radius                Duration: (casting check) hours
+This spell creates a mental network between creatures that allows them communicate telepathically. The caster and any number of creatures within 15’ of her can be connected to the web. While connected, all creatures can communicate telepathically with each other. While the communication via this spell is entirely mental and cannot be overheard, the presence of the enchantment can be detected normally. Once the spell has been cast, the creatures are free to move more than 15’ apart without breaking the web.
+
+
+Terror
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: 5’ radius                Duration: instant
+This spell attacks all creatures in the target area, striking them with terror for (4 +/- net hits) rounds. While terrified, they will attempt to flee from the caster as quickly as possible and take no actions except those that will expedite their retreat
+________________
+
+
+Master Incantations
+Compelled Reverence
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: permanent
+This spell causes a nearby creature to become utterly devoted to the caster, inflicting them with reverence. If the spell hits, the target’s Attitude towards the caster is raised to Devoted permanently, or until reverence is removed. Creatures engaged in combat or other life-or-death activity cannot be affected by this spell. This spell is Subtle.
+
+
+Geas
+(mind spell attack, 1 hour)
+Range: melee        Area of Effect: single target        Duration: special
+This ritual compels a target to obey long-term behavioral modification. If the spell hits, the target is compelled to act in some fashion (or refrain from acting in some way) specified by the caster. While the orders cannot be suicidal or certain to result in the target’s death, nearly any other command is permitted by the spell. The command must be short enough to be spoken in approximately 6 seconds (1 round). If the target fails to obey the terms of the geas, they suffer a stacking drain that reduces all their attributes by 1 (to a minimum of 0) for each day they fail to obey. Once they begin obeying the command again, the drain is reduced by 1 per day; this drain cannot otherwise be removed unless the geas is removed. The geas persists either until the target completes its given task or until (casting check) months pass; this effect is considered an enchantment and has a +4 bonus to resist being removed. Note that this spell enforces the letter of the command, rather than the spirit, meaning that a clever target can subvert poorly-worded orders.
+
+
+Standing Ovation
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell grants the target the following boons for the duration of the spell. If the enchantment or any of these boons are removed, they are all lost.
+        *Heroism: +4 bonus to weapon attack checks.
+        *Spellpower: +4 bonus to casting checks.
+        *Authority: +4 bonus to skill checks made to use shout abilities.
+        *Competence: +4 bonus to all standard non-attack and non-defense skill checks.
+        *Deflection: +4 Block.
+        *Evasion: +4 Reflex.
+        *Fortitude: +4 Body.
+        *Iron Will: +4 Mind.
+        *Quickness: +15’ Speed.
+        *Alacrity: +2 Initiative.

@@ -1,0 +1,150 @@
+﻿Benedictions
+Core Element: Metal
+
+
+Benediction Cantrips
+Courage (enchantment spell, 1 AP): This spell has a range increment of 15’ and removes one fright or terror effect from the target.
+Helping Hand (spell, 1 AP): This spell has a range increment of 15’ and allows a prone target to stand up for 0 AP cost. At least 3 hits on the casting check are needed to succeed.
+
+
+Incantation Summary
+(N) Amity: Makes a creature more open to negotiations.
+(N) Ease Burden: Grants a target the ability to ignore their wounds for a time.
+(N) Grace: Grants nearby creatures quickness and agility.
+(N) Pursuit of Truth: Causes a creature to make them more observant.
+(N) Stay of Execution: Protects a creature from death.
+
+
+(A) Aura of Inspiration: Conjures up a protective magical aura that empowers the wearer and their allies.
+(A) Empathy: Causes a creature to become more thoughtful and caring.
+(A) Friendship: Makes two targets more friendly towards each other.
+(A) Guiding Hand: Empowers an ally to grant them a bonus to skill checks.
+(A) Sanctuary: Grants allies in an area a bonus to resistances.
+
+
+(E) Benedictive Might: Grants allies in an area a bonus to accuracy.
+(E) Blessed Bulwark: Summons a magical shield that protects the wielder from evil magic.
+(E) Freedom: Allows nearby allies to move freely regardless of crippling effects.
+(E) Pacifism: Prevents enemies from attacking the caster.
+(E) Retribution: Enchants an ally to deal damage to anyone who attacks them.
+
+
+(M) Conciliation: Ends conflict peacefully in a small area.
+(M) Immaculation: Briefly prevents all harm done to a target.
+(M) Righteous Power: Grants the caster a large bonus to all checks.
+________________
+
+
+Novice Incantations
+Amity
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: 1 day
+This spell attacks one creature within 30’ of the caster. All creatures are treated as being (2 +/- net hits) Attitude levels higher with the target, to a maximum of Helpful, for the purposes of negotiating with that NPC for Tasks. If the NPC has already had a Task requested of them recently, this spell will not reset that timer. This spell is Subtle.
+
+
+Ease Burden
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) hours
+This spell relieves a target of the pain of their wounds. For the duration of the spell, they ignore all penalties they suffer because of wounds; this does not heal the wounds, nor does it restore their maximum endurance. Some critical injuries, such as the loss of a limb, cannot be remedied via this spell.
+
+
+Grace
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: (2 * casting check) rounds
+This spell enchants all allies within 15’ of the caster, granting them +5’ Speed, -2 Encumbrance reduction, a +2 bonus to Reflex, and a +4 bonus to Acrobatics checks for the duration of the enchantment.
+
+
+Pursuit of Truth
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: 1 day
+This spell makes a target more vigilant and aware. While enchanted, they gain a +4 bonus to all Intuition-based skill checks, gain Keen Vision, do not suffer fatigue penalties to Intuition-based skill checks, and do not suffer penalties for failing to Rest once per day.
+
+
+Stay of Execution
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) hours
+This spell prevents an ally from dying. While enchanted, though they can still become incapacitated normally, they will never enter the dying state, nor can they die regardless of how many wounds they suffer. This spell will prevent both standard death conditions and Deathblow effects. Note that any circumstance that would destroy 50% or more of the body (such as jumping into lava) supersedes this spell’s effects and kills the target normally.
+________________
+
+
+Adept Incantations
+Aura of Inspiration
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with armor that glows with righteous power. This suit of magical Medium Armor has the following statistics: Resistance: 4/4/4/6, Encumbrance: 5. While wearing the armor, the target and all allies within 15’ of her gain a +3 bonus to all defense checks and take no endurance damage from attacks that glance them (other glance effects, if any, are not negated). By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Empathy
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell enchants a target with empathy for (2 +/- net hits) hours; while under this effect, they become more sympathetic to the thoughts and feelings of others. Whenever they interact with another creature, they must make a Mind check (against the casting check) and have their Attitude towards that creature increased by (2 +/- net hits) steps, to a maximum of Helpful. They are also more likely to be friendly, considerate, and giving while affected. When the empathy effect ends, their Attitude with all creatures returns to normal. This spell is Subtle.
+
+
+Friendship
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: special
+This spell targets a creature and then attacks all creatures within 30’ of them. These creatures have their Attitude towards the initial target increased by (2 +/- net hits) steps, to a maximum of Helpful. This Attitude change persists for 1 day, at which point the effects decrease by 1 per day until the effect is completely negated. Any other Attitude changes that occur in the interim are unaffected by this spell. A given creature can only have its Attitude towards a specified target affected by this spell once. Creatures engaged in combat are unaffected by this spell. This spell is Subtle.
+
+
+Guiding Hand
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell grants the target a +5 bonus to all skill checks for the duration; in addition, if they would ever roll 0 hits on a skill check, they can reroll it until they gain a result that scores more than 0 hits. Attack and defense checks are unaffected by this spell.
+
+
+Sanctuary
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: (2 * casting check) rounds
+This spell enchants all allies within 15’ of the caster, granting them a +3 bonus to Resistance against all damage types for the duration of the enchantment.
+________________
+
+
+Expert Incantations
+Benedictive Might
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: (2 * casting check) rounds
+This spell enchants all allies within 15’ of the caster, granting them a +3 bonus to attack checks and preventing any attack they make from missing, being interrupted, or being reflected for the duration of the enchantment.
+
+
+Blessed Bulwark
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Shield of protective power in the hand of a touched creature. The shield has the following statistics and persists for the full duration of the spell: Attack: 0/1/3, Defense: +5, Damage: 6 (crushing), Reach: 5’, Size: S. It adds +1 Engagement and +3 Encumbrance. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the shield; its attack checks are modified by Strength as normal for a shield. While wielding the shield, the caster cannot be affected by enchantments or spiritual effects, either positive or negative; preexisting effects are not removed. The wielder can sheathe and draw the shield normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Freedom
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: (2 * casting check) rounds
+This spell blesses nearby allies to make them immune to movement-impairing effects. While blessed, no condition, enchantment, or other effect can reduce the target’s Speed below 100% of their base Speed. All effects can still be applied to them and still apply other penalties , but their Speed cannot be suppressed below its base value. They also cannot have their movement halted via abilities while affected by this blessing. This spell does not allow them to move through solid objects.
+
+
+Pacifism
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) minutes
+When this spell is cast, all enemies suffer a -4 penalty to all attacks made against the caster and deal 4 less damage to her with attacks. The targeted enemies cease to view the caster as a threat (treat their Attitude towards her as Neutral). If any of them still wish to attack her, they can make a Mind check and reduce the attack and damage penalty for that round by 1 per hit scored. If the caster takes any offensive action against any enemy, this effect ends immediately.  If the caster is alone or the only remaining combatant, Humanoid enemies will be inclined to take her prisoner (or even let her go) rather than kill her (note that the spell influences their behavior, but does not dictate exact outcomes), while Beasts/Plants will simply leave the area (or eat a nearby corpse) without harming her. Other creature types, such as Abominations, Outsiders, Constructs, and Undead, are unaffected by this portion of the spell.
+
+
+Retribution
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) rounds
+This spell enchants a touched ally for a short period of time; while enchanted, whenever they are attacked and their attacker is within 30’, the attacker immediately takes 7 damage of whatever damage type their attack against the enchanted target inflicted (if their attack did not deal damage, the default damage type of Retribution is cold). No defense check is made against the retributory damage, but Resistance applies normally.
+________________
+
+
+Master Incantations
+Conciliation
+(mind spell attack, 2 AP)
+Range: caster                Area of Effect: 30’ radius                Duration: special
+This spell attacks all creatures in a 30’ radius around the caster who are engaged in battle. Those hit have their Attitude towards all enemies immediately raised by (casting check), to a maximum of Neutral. This will cause them to cease fighting, though they will defend themselves if necessary. Creatures who succeed the Mind check are unaffected and can continue to fight if they desire (the sight of some of their allies/enemies offering truce may either embolden them or give them pause, depending on the circumstances). Half of any Attitude gained by this spell will be lost after 1 day, though the remaining Attitude adjustment is permanent (though it can be lowered again depending on subsequent activities by other affected parties).
+
+
+Immaculation
+(enchantment spell, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: 1 round
+For 1 round, all attacks made against the enchanted target automatically miss, all damage dealt to them is reduced to 0, they cannot suffer endurance loss, and no enchantment, mental, metabolic, physical, or spiritual effect can be applied to them. Existing effects on the target are not removed, but have their active effects suppressed for the duration of the spell. No effect can increase or decrease the duration of this enchantment.
+
+
+Righteous Power
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) minutes
+This spell enchants the caster, granting her +15’ Speed, +4 Initiative, +4 Resistance against all damage types, and a +4 bonus to all attack checks, defense checks, and standard skill checks.

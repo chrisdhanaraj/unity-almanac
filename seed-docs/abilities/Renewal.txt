@@ -1,0 +1,150 @@
+﻿Renewal
+Core Element: Life
+
+
+Renewal Cantrips
+Ease the Hurt (enchantment spell, 1 AP): This spell can be cast on a wounded ally to negate the penalty applied by any one metabolic wound they are currently suffering. This spell does not affect endurance, requires the caster to touch the target, and persists for (casting check) rounds.
+Renew Aether (spell, 1 AP): The caster can use this ability on herself or a touched (willing) target to increase the duration of one enchantment or spiritual condition affecting them by 1 unit. A given effect can only have its duration increased once by this spell.
+
+
+Incantation Summary
+(N) Cleanse: Removes one negative status effect from an ally.
+(N) Cure Minor Wounds: Undoes the effects of a recently-inflicted light wound.
+(N) Delay Toxins: Slows the onset of poison and disease in a target.
+(N) Invigorate: Restores endurance to a target.
+(N) Protective Aura: Protects an ally and those around them from damage.
+
+
+(A) Cure Moderate Wounds: Undoes the effects of a recently-inflicted moderate wound.
+(A) Healer’s Crook: Summons a magical weapon that empowers the wielder’s healing effects.
+(A) Mending: Ends ongoing wounding effects, such as bleeding and burning.
+(A) Revival: Prevents the death of a dying creature.
+(A) Ritual of Healing: Increases the rate at which a creature’s wounds heal.
+
+
+(E) Cure Major Wounds: Undoes the effects of a recently-inflicted severe wound.
+(E) Martyrdom: Allows the caster to take on negative effects that would be applied to her allies.
+(E) Mass Invigoration: Restores endurance to many targets.
+(E) Restoration: Removes negative status effects from many allies.
+(E) Ritual of Purification: Purges toxins and diseases from a creature.
+
+
+(M) Cure Mortal Wounds: Undoes the effects of a recently-inflicted mortal wound.
+(M) Hallow: Enchants an area to accelerate the healing of those within.
+(M) Regeneration: Regrows a severed or destroyed limb, returning it to full functionality.
+________________
+
+
+Novice Incantations
+Cleanse
+(spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: instant
+This spell must be cast on a willing target and removes one metabolic, mental, physical, or spiritual condition from them.
+
+
+Cure Minor Wounds
+(spell, 2 AP)
+Range: 30’                Area of Effect: single target        Duration: instant
+This spell must be cast on a living target within range. One Light Wound affecting the target is removed; the lost endurance is not recovered, but their maximum endurance is restored and all negative effects of the wound are removed. Only wounds that were inflicted on the target within 1 round of this spell being cast can be cured; older wounds must heal naturally. This spell requires at least 4 hits on the casting check to succeed.
+
+
+Delay Toxins
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) hours
+This enchantment delays the onset of poison and disease in a target. While enchanted, all poison and disease conditions on the target do not apply their effects or change their remaining durations (effectively, they are ‘paused’). When the enchantment ends, the poison and disease effects resume normally.
+
+
+Invigorate
+(spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: instant
+This spell instantly restores (2 * casting check) endurance to a touched target.
+
+
+Protective Aura
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell surrounds a touched creature with an aura of restorative magic. This suit of magical Light Armor has the following statistics: Resistance: 0/0/0/4, Encumbrance: 1. The target and all of their allies within 15’ gain a +2 bonus to all Resistances for the duration of the spell, as long as they remain within range. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+________________
+
+
+Adept Incantations
+Cure Moderate Wounds
+(spell, 2 AP)
+Range: 30’                Area of Effect: single target        Duration: instant
+This spell must be cast on a living target within range. One Light or Moderate Wound affecting the target is removed; the lost endurance is not recovered, but their maximum endurance is restored and all negative effects of the wound are removed. Only wounds that were inflicted on the target within 1 round of this spell being cast can be cured; older wounds must heal naturally. This spell requires at least 4 hits on the casting check to succeed.
+
+
+Healer’s Crook
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Staff of glowing restorative energy in the hand of a touched creature. This staff has the following statistics and persists for the full duration of the spell: Attack: 6/6/0, Defense: 6, Damage: 8 (crush), Reach: 5’, Size: M. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the staff; its attack checks are modified by Strength as normal for a 2-handed weapon. The wielder of the Healer’s Crook can cast Renewal spells even while wielding it, gains a +2 bonus to the casting checks of these spells, and, whenever she restores endurance to a creature or heals one of their wounds, she also restores +2 endurance. The wielder can sheathe and draw the staff normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Mending
+(spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: instant
+This spell, when cast, ends up to (casting check) Bleeding, Burning, Frostbite, Shock, or Corrosion effects from the target. Any secondary wounds or effects applied by these wounds are not cured, but the target will no longer suffer periodic damage from the wounds themselves.
+
+
+Revival
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell targets a touched incapacitated ally. That ally gains (2 * casting check) temporary endurance (which they gain regardless of their current endurance maximum) and becomes able to act again normally without penalties. When the enchantment ends, the temporary endurance is lost, potentially incapacitating the target again, though they will not being dying unless they suffer more damage.
+
+
+Ritual of Healing
+(ritual spell, 1 hour)
+Range: melee                Area of Effect: single target        Duration: instant
+This spell accelerates the healing process of the target. When the ritual is complete, all wounds currently affecting the target have their remaining durations reduced by (casting check) days. A given creature cannot be affected by this spell more than once per day. This ritual requires 10s worth of ritual incense to be burned around the target.
+________________
+
+
+Expert Incantations
+Cure Major Wounds
+(spell, 2 AP)
+Range: 30’                Area of Effect: single target        Duration: instant
+This spell must be cast on a living target within range. One Light, Moderate, or Severe Wound affecting the target is removed; the lost endurance is not recovered, but their maximum endurance is restored and all negative effects of the wound are removed. Only wounds that were inflicted on the target within 1 round of this spell being cast can be cured; older wounds must heal naturally. This spell requires at least 4 hits on the casting check to succeed.
+
+
+Martyrdom
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) rounds
+This spell allows the caster to suffer harm in place of her allies. Whenever a negative metabolic, mental, physical, or spiritual condition would be applied to an ally within 15’, the caster can choose to apply this effect to herself instead, leaving the ally unharmed. Likewise, whenever a Wound of any severity would be applied to an ally within 15’, the caster can choose to suffer that wound herself instead, leaving the ally unharmed. Wounds and conditions transferred by this spell can kill the caster if she isn’t careful.
+
+
+Mass Invigoration
+(spell, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: instant
+This spell instantly restores (2 * casting check) endurance to all allies within 15’ of the caster.
+
+
+Restoration
+(spell, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: instant
+This spell has one of two effects: it either removes all metabolic, mental, physical, and spiritual conditions from one willing target, or removes one of these conditions from all allies within 15’ of the caster.
+
+
+Ritual of Purification
+(ritual spell, 1 hour)
+Range: melee                Area of Effect: single target        Duration: instant
+This spell purges the target of poison and disease. When the ritual is complete, all poison and disease effects active on the target are removed. However, the process is extremely strenuous; the target suffers a Light Trauma Wound for each poison removed, and a Severe Trauma Wound for each disease removed. This ritual requires 50s worth of ritual incense to be burned around the target.
+________________
+
+
+Master Incantations
+Cure Mortal Wounds
+(spell, 2 AP)
+Range: 30’                Area of Effect: single target        Duration: instant
+This spell must be cast on a living target within range. One Light, Moderate, Severe, or Mortal Wound affecting the target is removed; the lost endurance is not recovered, but their maximum endurance is restored and all negative effects of the wound are removed. Only wounds that were inflicted on the target within 1 round of this spell being cast can be cured; older wounds must heal naturally. Mortal wounds that instantly kill the target (such as decapitation) cannot be cured via this spell, nor can it restore limbs severed from the body. However, the spell can repair almost any other amount of damage, including body parts broken beyond repair. This spell requires at least 4 hits on the casting check to succeed.
+
+
+Hallow
+(ritual spell, 1 day)
+Range: caster        Area of Effect: 500’ radius                Duration: permanent
+This spell enchants an area to cause creatures within to heal faster. The area becomes pure and pleasant, with life abounding in all its forms. Creatures within the Hallow gain a +4 bonus to all Body checks, recover endurance at twice the normal rate, and heal any wounds inflicted upon them at twice the normal rate. All Life spells cast within the area gain a +4 bonus to their casting checks. In addition, the Hallow is considered a sterilized area for the purposes of Medicine checks. This spell is permanent unless dispelled, but the caster can only have a single Hallow active at a time. This ritual requires 10g worth of ritual incense to be burned in the affected area.
+
+
+Regeneration
+(ritual spell, 1 hour)
+Range: melee                Area of Effect: single target        Duration: instant
+This spell restores one of the target’s limbs that was severed, destroyed, or otherwise permanently disabled (eyes and internal organs can be restored as well). When the ritual is complete, the target limb returns to full functionality as if it had never been harmed. However, the stress of this spell reduces the target’s maximum endurance by 1 permanently. This ritual requires 5g worth of ritual ointment to be applied to the target.

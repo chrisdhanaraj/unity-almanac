@@ -1,0 +1,148 @@
+﻿Pyromancy
+Core Element: Fire
+
+
+Pyromancy Cantrips
+Fire Bolt (ranged spell attack, 1 AP): The caster hurls a ball of fire at a target. This spell has a range increment of 15’ and deals 3 fire damage. This spell can only inflict light wounds.
+Warmth (spell, 1 AP/maintain 1 AP): The caster can warm an object or area within 15’ of herself. As long as she maintains the spell, the object/area gradually becomes warmer and warmer. A single space can be warmed sufficiently to stave off cold temperatures, while an object can be warmed sufficiently to boil water, heat food, etc. This spell cannot cause damage.
+
+
+Incantation Summary
+(N) Control Fire: Causes nearby fires to become larger or smaller.
+(N) Dragon’s Breath: Deals fire damage in a cone.
+(N) Fire Seeds: Creates a handful of enchanted embers that explode like grenades when thrown.
+(N) Flame Brand: Conjures a sword made out of fire.
+(N) Immolation: Engulfs a single target in unquenchable flames.
+
+
+(A) Burning Orb: Conjures a sphere of fire that rolls over enemies.
+(A) Cauterize: Removes metabolic effects from nearby creatures, but burns them as well.
+(A) Flame Shield: Protects an ally from fire and deal fire damage to attackers.
+(A) Hearthfire: Enchants an object to radiate heat.
+(A) Wall of Fire: Creates a curtain of flame that burns creatures within.
+
+
+(E) Conflagration: Deals high damage to a single target.
+(E) Fireball: Causes an explosion of fire that damages creatures in a large radius.
+(E) Living Flame: Transforms the caster into a creature of pure fire.
+(E) Magmatic Mantle: Protects a creature with armor composed of liquid-hot magma.
+(E) Wildfire: Creates a rapidly-spreading area of burning ground.
+
+
+(M) Firestorm: Calls down a rain of flame in a large area.
+(M) Phoenix: Allows a target to fly on burning wings.
+(M) Pyroclasm: Creates a volcanic fissure that spews lava and ash.
+________________
+
+
+Novice Incantations
+Control Fire
+(enchantment spell, 2 AP/maintain 1 AP)
+Range: 30’ increment        Area of Effect: one fire                Duration: (casting check) minutes
+This spell allows the caster to take control of a nearby fire. The fire must be of Large Size or smaller (+1 Size category per 2 hits scored on the casting check); if the fire is being magically controlled, the caster must win an opposed casting check to take control of the fire. While she controls a fire, she can cause it to increase or decrease in Size by 1 Category per round; if this causes the fire to become larger than the size controllable by this spell, the spell ends (though the fire remains burning). She can also cause the fire to move up to 5’ per round; if this causes it to lose access to its fuel source, it dissipates as soon as this spell ends. If she ceases to pay the maintenance cost, the spell does not end; she simply cannot control the fire that round. For 1 AP, she can choose another applicable fire within range and manipulate it instead.
+
+
+Dragon’s Breath
+(area spell attack, 2 AP)
+Range: caster        Area of Effect: 30’ x 15’ cone        Duration: instant
+This spell causes the caster to spew forth a cone of fire from her outstretched fingertips (or belched out of her mouth, whatever seems most appropriate). All creatures in a 30’ long and 15’ wide cone are attacked for 7 fire damage.
+
+
+Fire Seeds
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: caster                Duration: (casting check) minutes
+This spell causes 5 enchanted embers to appear in the caster’s hands; while held, they do not inhibit spellcasting but prevent her from manipulating items. Each can be thrown as a grenade (ranged area weapon attack, 1 AP), dealing 5 fire damage in a 5’ radius and leaving burning ground in the affected area for the full duration of the spell. Creatures that enter this burning ground or begin their turns there take 5 fire damage.
+
+
+Flame Brand
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Medium Blade composed entirely from fire in the hand of a touched creature. The sword has the following statistics and persists for the full duration of the spell: Attack: 4/4/0, Defense: 4, Damage: 7 (fire), Reach: 5’, Size: S. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the flame brand; its attack checks are modified by Strength or Agility (depending on how it is wielded) as normal for a 1-handed weapon. The Flame Brand always deals wounds of the highest severity indicated by its (damage - Resistance), regardless of net hits scored on the attack check (glances do not inflict wounds, as normal). The wielder can sheathe and draw the sword normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Immolation
+(ranged spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell inflicts a Burning wound to the target of severity based on the attack net hits scored (0-2: light, 2-4: moderate, 5+: severe). This Burning effect is difficult to remove; in addition to spending the AP, the target must also succeed a Reflex check (Difficulty: 3) to extinguish the flames, otherwise they continue burning.
+________________
+Adept Incantations
+Burning Orb
+(ground enchantment spell, 2 AP/maintain 1 AP)
+Range: melee        Area of Effect: one space                Duration: (casting check) minutes
+The caster creates a sphere of fire in an open space adjacent to her. She can mentally control the orb, moving it in a straight line up to 30’ with each AP devoted to this spell. If the orb moves into or through a creature’s space, they are attacked for 7 fire damage (area spell attack). A given creature can only be attacked by the orb once per round. If the caster does not pay the maintenance cost for this spell, the orb sits in place that round.
+
+
+Cauterize
+(body spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell removes up to (2 +/- net hits) metabolic conditions from the target and inflicts a light Fire wound on the target for each status effect removed. Targets that wish to be affected can forfeit the Body check.
+
+
+Flame Shield
+(enchantment spell, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: (casting check) minutes
+This spell surrounds a target ally with a swirl of fire. While enchanted, all creatures adjacent to them at the start of each of their turns are attacked for 5 fire damage (area spell attack). In addition, any creature adjacent to them that attacks them with a melee or touch attack takes 7 fire damage (no defense check).
+
+
+Hearthfire
+(ritual spell, 1 minute)
+Range: melee        Area of Effect: single target        Duration: 1 day
+This ritual spell enchants a small gemstone to radiate heat as though it was a warm fireplace. This heat does not burn and projects in a 30’ radius around the stone, causing any creature within the area to ignore the effects of extreme cold. While this does not protect against Cold damage, it does allow the holder and those near her to travel through frigid areas, such as the arctic, more easily. In game terms, this spell reduces total daily exposure suffered while in Moor, Taiga, Tundra or other cold biomes by half, and reduces exposure by half from cold storms such as Blizzards. This ritual requires a gemstone to enchant; the gem must be worth at least 1g but is unharmed by the spell’s casting.
+
+
+Wall of Fire
+(wall spell, 2 AP)
+Range: 15’        Area of Effect: special                Duration: (casting check) minutes
+This spell creates a curtain of flames that is 5’ wide, 10’ high, and up to 100’ long; at least some part of the wall must be within the base range of the spell, but it can extend beyond this range. The wall cannot be seen through and blocks all normal ranged attacks, causing them to fail utterly; siege attacks are unaffected. All creatures who enter the wall or begin their turns there take 7 fire damage. Each section (10’ x 10’) of the wall can be extinguished by Strength 9+ winds or by taking at least 8 cold damage.
+________________
+
+
+Expert Incantations
+Conflagration
+(ranged spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+The caster engulfs a single target with a pillar of intense heat, attacking them for 8 fire damage twice. 
+
+
+Fireball
+(area spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: 20’ radius                Duration: instant
+The caster hurls an exploding ball of fire, attacking all creatures in the affected area for 10 fire damage.
+
+
+Living Flame
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: caster        Duration: (casting check) minutes
+The caster becomes a creature of pure fire. Her creature type changes to Primordial for the duration and she becomes immune to all metabolic and physical ailments. In addition, she gains Concealment at all times, a Hover speed of 60’, becomes immune to fire, any creature who attacks her with a melee or touch attack while adjacent to her takes 8 fire damage, and all of her attacks deal fire damage rather than their normal damage types. She cannot pass through solid objects, but she can fit through any gap through which flame could pass.
+
+
+Magmatic Mantle
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with armor composed of swirling lava. This suit of magical Heavy Armor has the following statistics: Resistance: 5/11/11/5, Encumbrance: 9. The armor also grants an additional Resistance: 10 to fire damage and causes any melee weapon used to attack them to melt, reducing its damage by 3 each time it is used to attack them. This damage requires a Crafting check (Difficulty: 4) and 1 day to repair. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Wildfire
+(ground spell, 2 AP/maintain 1 AP)
+Range: 30’ increment                Area of Effect: special        Duration: (casting check) minutes
+This spell fills up to five 10’ radius areas within range with wildfire; these spaces can be arranged however the caster desires, but must form one contiguous area of fire. Each round that this spell is active, the wildfire spreads to 5 new spaces adjacent to any area it is currently affecting. If the caster chooses to maintain the spell, she can select which spaces the wildfire enters, otherwise it is random. Any creature entering the wildfire or starting its turn there suffers 8 fire damage.
+________________
+
+
+Master Incantations
+Firestorm
+(area spell attack, 2 AP)
+Range: 120’ increment        Area of Effect: 60’ radius        Duration: (2 * casting check) rounds
+The caster calls down a hail of fireballs, attacking all creatures in the affected area for 7 fire damage each round for the duration of the effect.
+
+
+Phoenix
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell causes a single touched target to sprout burning wings, allowing them to Fly with a speed of 120’ for the duration of the enchantment. In addition, they become immune to fire damage and, whenever they would take fire damage, recover that much endurance instead. Finally, at the start of each of their turns, all creatures within 10’ of them are attacked for 7 fire damage (area spell attack).
+
+
+Pyroclasm
+(area spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: 15’ radius        Duration: (casting check) minutes
+This spell causes a localized volcanic eruption. The volcano is 15’ wide and 15’ tall; it is a solid object and blocks movement. All creatures within 15’ of the volcano are attacked each round for 10 fire damage. In addition, the affected area is drowned in toxic smoke, blocking vision like Fog and causing all creatures in the affected area to suffer choking, making them unable to breathe, and nausea, incurring a -4 penalty to all checks, as long as they remain there. Each minute that this spell is in effect, the radius of both the lava and the smoke cloud increase by 5’.

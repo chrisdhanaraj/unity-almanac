@@ -1,0 +1,155 @@
+﻿Ferrumancy
+Core Element: Metal
+
+
+Ferrumancy Cantrips
+Flechettes (ranged spell attack, 1 AP): This spell hurls a barrage of tiny darts at an enemy, attacking them for 6 piercing damage. Resistance is twice as effective against this spell. This spell has a range increment of 15’.
+Magnetism (enchantment spell, 1 AP): This spell briefly magnetizes a metal object, causing it to stick to other similarly-magnetic materials, typically other metals. This enchantment persists for (casting check) minutes.
+
+
+Incantation Summary
+(N) Blade of the Forgemaster: Summons a superior and unbreakable weapon.
+(N) Magnetic Grasp: Grabs an item or creature and pulls them to the caster.
+(N) Polish: Removes damage and impurities from an object.
+(N) Shape Metal: Allows the caster to change the form of a block of metal.
+(N) Steel Barrage: Fires a number of metallic bolts at nearby creatures.
+
+
+(A) Deflection: Grants allies in an area a bonus to resist enemy attacks.
+(A) Hone Steel: Makes an ally’s weapons and armor more effective.
+(A) Magnetic Field: Freezes the target in place, preventing all movement.
+(A) Rust: Damages or outright destroys a metal object.
+(A) Wall of Blades: Summons a huge wall of swirling blades.
+
+
+(E) Living Steel: Transforms the caster into a creature of pure metal.
+(E) Magnetic Reversal: Enchants an area to cause creatures and objects within to float.
+(E) Penetrating Bolt: Fires a deadly arrow that pierces through anything hit.
+(E) Polarity: Allows the caster to pull objects together or push them apart.
+(E) Shining Armor: Summons magical armor that protects the wearer from all harm.
+
+
+(M) Aether Forge: Permanently empowers arms and armor.
+(M) Lodestone: Creates a powerful magnetic field that pulls in everything.
+(M) Steel Cyclone: Summons a whirling cloud of blades that dices everything within.
+________________
+
+
+Novice Incantations
+Blade of the Forgemaster
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Heavy Blade of unbreakable steel in the hand of a touched creature. This large sword has the following statistics and persists for the full duration of the spell: Attack: 5/4/0, Defense: 5, Damage: 11 (slashing), Reach: 5’, Size: M. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the starfire blade; its attack checks are modified by Strength as normal for a 2-handed weapon. The Blade of the Forgemaster cannot be dispelled, damaged, disarmed, broken, or otherwise harmed. The wielder can sheathe and draw the sword normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Magnetic Grasp
+(ranged spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell grabs a target with aethereally-magnetized energy, attacking a single creature within range and pulling them (15 +/- (5 * net hits))’ closer to the caster. This spell can also be used on inanimate objects in order to pull them into the caster’s waiting hands; a flat Difficulty of 3 must be met to do so, and the object in question must be of Medium Size or smaller. Movement from this spell does not provoke opportunity attacks.
+
+
+Polish
+(spell, 2 AP)
+Range: melee                Area of Effect: one object                Duration: permanent
+This spell removes damage and impurities from an object. When cast, any damage done to the object is instantly removed, restoring it to intact form and full functionality. Only damaged objects can be repaired by this spell; those that have been completely destroyed, such as by being melted by acid, cannot be repaired. If the damage in question requires a Crafting check to repair, the caster must succeed a casting check against that Difficulty to repair the object successfully.
+
+
+Shape Metal
+(transformation spell, 1 hour)
+Range: melee                Area of Effect: one metal block        Duration: permanent
+This spell can be used to change the shape of a touched block of metal of Medium Size or smaller. The metal can be shaped into any vague form the caster wishes, though fine detail is not possible unless she is capable of performing said craftsmanship without the use of magic (i.e. the Crafting skill). If so, she can make a (Crafting + Magic) check when casting this spell in order to create any metal item she would be capable of creating normally. She can create higher-quality items with sufficient hits on the check, as normal.
+
+
+Steel Barrage
+(ranged spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: special                Duration: instant
+This spell fires metallic bolts at up to (casting check) creatures within range, attacking each of them for 5 piercing damage. This spell penetrates 50% of the target’s Resistance. No single creature can be attacked more than once by a single casting of this spell.
+________________
+
+
+Adept Incantations
+Deflection
+(area spell, 2 AP)
+Range: caster        Area of Effect: 15’ radius                Duration: instant
+This spell empowers allies in an area around the caster, causing them to gain deflection, which grants them a +(casting check) bonus to Block checks.
+
+
+Hone Steel
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell enhances the quality of arms and armor used by the target. While enchanted, all weapons they wield gain +2 damage, +1 Attack in all Spacings, and +1 Defense; in addition, all armor they wear gains +2 Resistance against all damage types.
+
+
+Magnetic Field
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell traps the target in a bubble of magnetism, preventing all of their movement. The target becomes polarized for (2 +/- net hits) rounds; this makes them unable to move or be moved by any means, be it willingly or by forced-movement. The target immediately ceases all movement as well; if they were in midair when the spell is cast, they will hang there helplessly until the spell’s effects end. A willing target can forfeit the Body check; if this occurs, the duration increases to (2 + casting check) minutes.
+
+
+Rust
+(ranged spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: permanent
+This spell attacks a metal object, such as a weapon or armor, within range and causes it to rust; this reduces the Damage, Attack Values, and Defense of the weapon by (2 +/- net hits), or the Resistances of a suit of armor by (2 +/- net hits). Against other objects, this spell merely deals 10 durability damage. Attended objects are allowed a defense check, on the part of their wielder, to resist the spell, while unattended objects are automatically hit. Any item that is reduced to 0 durability instantly crumbles to dust and is forever destroyed.
+
+
+Wall of Blades
+(wall spell, 2 AP)
+Range: 15’        Area of Effect: special                Duration: (casting check) minutes
+This spell creates a barrier of whirling blades that is 5’ wide, 10’ high, and up to 100’ long; at least some part of the wall must be within the base range of the spell, but it can extend beyond this range. The wall cannot be seen through and blocks all normal ranged attacks, causing them to fail utterly; siege attacks are unaffected. Moving through the wall requires 30’ of movement; if this cannot be paid, the creature remains trapped within. All creatures who enter the wall or begin their turns there take 6 slashing damage. Any creature incapacitated by or within the wall suffers a Deathblow and, if killed, is chopped into a thousand pieces. Each section (10’ x 10’) of the wall can be destroyed by dealing at least 7 damage of any type to it.
+________________
+
+
+Expert Incantations
+Living Steel
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: caster        Duration: (casting check) minutes
+The caster becomes a creature of pure metal. Her creature type changes to Primordial for the duration and she becomes immune to all metabolic, physical, mental, and spiritual ailments. In addition, she gains +15 Resistance to all damage types, complete immunity to forced-movement and prone effects, reduces her Encumbrance to 0, gains a +10 bonus to Athleticism checks, and gains +15’ Speed.
+
+
+Magnetic Reversal
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: 30’ radius                Duration: (casting check) minutes
+This spell reverses the aethereal polarity  in a 30’ radius around the caster. All creatures and objects within the area fall up for the duration of the spell. If they strike a solid object (such as the ceiling), they take falling damage as normal. If they reach the top of the affected area without striking an object, they float there; creatures affected as such can move around, jump (downwards), and attack as normal at the top of the Magnetic Reversal effect, though they will fall normally if they attempt to leave the enchanted area. All creatures within the area of this spell suffer a -2 penalty to all skill checks, attacks, and defenses for the duration due to disorientation. When the enchantment ends, all creatures within the affected area fall to earth as normal polarity reasserts itself.
+
+
+Penetrating Bolt
+(area spell attack, 2 AP)
+Range: caster        Area of Effect: 120’ x 5’ line        Duration: instant
+This spell fires a powerful projectile in a line, attacking all creatures in a 120’ long and 5’ wide line for 8 piercing damage. This spell penetrates 50% of the target’s Resistance.
+
+
+Polarity
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) minutes
+This spell allows the caster to attune the aethereal polarity of herself and objects within 120’ of her. By spending 1 AP to concentrate, she can either repel or attract an object in relation to herself; the effect is dependent on the target’s size compared to her own. If a larger object is repelled, the caster will be pushed away from it; if a larger object is attracted, the caster will be pulled towards it. Objects smaller than the caster will be pushed away from her or pulled towards her instead. 30’ of movement will occur per AP spent, and attended objects are allowed a Reflex check (on the part of their holder) to avoid the effects. The caster can use this ability repeatedly with relation to the ground to give herself an effective Hover speed of 60’.
+
+
+Shining Armor
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell summons a suit of burnished armor to protect the target. This suit of magical Heavy Armor has the following statistics: Resistance: 10/10/10/10, Encumbrance: 9. In addition, the wearer of the armor cannot suffer Bleeding, Burning, Shock, Corrosion, or Frostbite wounds while wearing it; if any of these wounds we be applied to her, negate its effects entirely. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+________________
+
+
+Master Incantations
+Aether Forge
+(ritual spell, 1 day)
+Range: melee                Area of Effect: one object                Duration: permanent
+This spell permanently increases the quality of a weapon, suit of armor, or other item. This spell increases the quality by a maximum of 1 step (if the casting is successful) and requires a casting check with Difficulty based on the quality to which the item will be raised (see below). This ritual requires various material components equal to the base cost of the item in question, priced at the Average Quality of the item.
+*Poor: 2
+*Average: 3-4
+*High: 5
+*Masterwork: 6
+*Flawless: 7
+
+
+Lodestone
+(area spell, 2 AP)
+Range: 60’ increment                Area of Effect: 30’ radius                Duration: (casting check) minutes
+This spell creates an field of extreme aethereal magnetism at a target location. Each round, all creatures within 30’ of the Lodestone are attacked and pulled (15 +/- (5 * net hits))’ closer to the center of the field. If any creature is pulled to the center of the effect, they become paralyzed and unable to take actions as they swirl helplessly around the center until the Lodestone effect ends. Any creature within the affected area that attempts to move away from the Lodestone has their Speed reduced by 50% while doing so.
+
+
+Steel Cyclone
+(cloud enchantment spell, 2 AP/maintain 1 AP)
+Range: 30’ increment        Area of Effect: 5’ radius                Duration: (casting check) minutes
+The caster creates a whirling storm of swords in an open space within range. She can mentally control the Steel Cyclone, moving it in a straight line up to 30’ with each AP devoted to this spell. If the cyclone moves into or through a creature’s space, they are attacked for 12 slashing damage (area spell attack). A given creature can only be attacked by the spell once per round. Any creature incapacitated by or within the cyclone suffers a Deathblow and, if killed, is chopped into a thousand pieces. If the caster does not pay the maintenance cost for this spell, the Steel Cyclone spins in place that round.

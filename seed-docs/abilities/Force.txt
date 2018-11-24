@@ -1,0 +1,147 @@
+﻿Force
+Core Element: Earth
+
+
+Force Cantrips
+Aethereal Leap (enchantment spell, 1 AP): The next Athleticism check the character makes to jump within 1 round gains a +(2 * casting check) bonus.
+Wizard’s Defense (enchantment spell, 1 AP): The caster gains +2 Resistance against the next damaging attack made against her within (casting check) rounds.
+
+
+Incantation Summary
+(N) Aethereal Blast: Damages and knocks down creatures in a small area.
+(N) Floating Disc: Creates a magical disc of solid aether that can carry objects.
+(N) Force Shield: Protects an ally with a shield of magical energy.
+(N) Slow Fall: Enchants one or more creatures to fall extremely slowly.
+(N) Wizard’s Hand: Allows the caster to magically move small items at a distance.
+
+
+(A) Aethereal Barrage: Repeatedly fires magical missiles at enemies.
+(A) Chains of Arcana: Traps a creature in chains of force energy.
+(A) Force Armor: Conjures up magical armor of solid aether.
+(A) Wall of Force: Summons a magical and impassable wall.
+(A) Wizard’s Seal: Prevents a door or gate from being opened.
+
+
+(E) Aethereal Lance: Damages and knocks back enemies in a line.
+(E) Arcsaber: Summons a magical sword of force energy that rends armor.
+(E) Force Sphere: Creates a bubble of impenetrable force around a creature.
+(E) Levitation: Enchants a creature to allow them to float in midair.
+(E) Wizard’s Grasp: Allows the caster to magically move large items at a distance.
+
+
+(M) Arcane Power: Imbues a creature to make them unstoppable and immovable.
+(M) Disintegrate: Rends a target asunder with extreme force energy.
+(M) Force Cage: Traps a creature within an inescapable prison of magical energy.
+________________
+
+
+Novice Incantations
+Aethereal Blast
+(area spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: 5’ radius                Duration: instant
+This spell attacks all creatures in the target area for 6 crushing damage; those hit are also knocked prone.
+
+
+Floating Disc
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: special                Duration: 1 day
+This spell creates a magical floating disc of solid aether in an area adjacent to the caster. The disc is 5’ across and approximately 1” thick. It floats 1-5’ above the ground, ignoring all difficult terrain and ground effects, and is able to float over liquid surfaces. The disc’s distance to the ground remains the same even if the height of the terrain changes, and it will remain horizontal even if floating over an incline. The disc can carry up to 1,000 pounds; if overloaded, it sinks to the ground and will not move. The disc can be moved up to 30’ for 1 AP on the part of the caster, provided she remains within 60’ of the disc. If not directed, it will move up to 30’ per round to remain at the side of the caster (staying adjacent to her if possible).
+
+
+Force Shield
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell protects an ally with a shield of magical force energy. All damaging attacks made against that ally have their damage reduced by 3; however, the shield can absorb a maximum of (4 * casting check) damage. If this occurs, the effect fades and attacks deal full damage to the target again.
+
+
+Slow Fall
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell enchants all creatures around the caster to fall slowly at a rate of 30’ per round, or 5’ per second; this makes them to take no damage from any fall suffered while under the effects of the enchantment,. This spell can be cast as a reaction for 0 AP (in reaction to an ally falling through a trap, for example), but doing so reduces the duration to (casting check) rounds. In either case, the spell can be cast on a single target, rather than in an area around the caster; this gives the spell a range increment of 60’.
+
+
+Wizard’s Hand
+(enchantment spell, 2 AP/maintain 1 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) minutes
+This spell allows the caster to move a small item from a distance. She must have line of sight to the object, it must be of Medium Size or smaller, and it must weigh no more than (25 * casting check) pounds. She can move the enchanted item up to 30’ for 1 AP; as long as she moves the object every round, it will float in midair. If she ceases concentration on it, it falls to the ground. Attended objects are allowed a Body check (on the part of their wielder) to avoid being affected by this spell. By spending 2 AP, the caster can change the focus of the spell from one target object to another.
+________________
+
+
+Adept Incantations
+Aethereal Barrage
+(ranged spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: special
+The caster attacks an enemy within range for 8 crushing damage. After casting this spell and making the initial attack, she can repeat the attack on the same target once per round for the next (casting check) rounds without requiring a recasting of the spell (e.g. if she scores 4 hits on her casting check, she can make an Arcane Barrage attack 5 times: once via the initial cast, and then once per round for the next 4 rounds).
+
+
+Chains of Arcana
+(touch spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell wraps an enemy with aethereal chains. If the spell hits, the target becomes chained, preventing them from moving or taking actions that require the use of the arms or legs. The chains can be attacked by any creature and are hit automatically with any attack. The chains have (3 * casting check) durability and 5 Resistance; if destroyed, the chained creature is freed immediately. The target of the spell cannot attack the chains themselves unless they have a Close Spacing attack that deals 5 or more damage available to them at the time the spell is cast. The chains have a maximum duration of (casting check) minutes.
+
+
+Force Armor
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with armor composed of hardened aether. This suit of magical Medium Armor has the following statistics: Resistance: 6/3/6/3, Encumbrance: 5. For the duration of the spell, all wounds dealt to the target have their severity reduced by 1 step. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Wall of Force
+(wall spell, 2 AP)
+Range: 15’        Area of Effect: special                Duration: (casting check) minutes
+This spell creates a barrier of impenetrable force energy that is 5’ wide, 10’ high, and up to 100’ long; at least some part of the wall must be within the base range of the spell, but it can extend beyond this range. The wall is solid and blocks attacks and movements accordingly. It is immune to all damage, but vulnerable to dispel effects. Any ability that removes enchantments or spiritual effects instantly destroys a 10’ x 10’ section of the wall with no check required.
+
+
+Wizard’s Seal
+(enchantment spell, 2 AP)
+Range: 30’ increment                Area of Effect: one door                Duration: (casting check) hours
+This spell enchants a door, portcullis, or gate within the caster’s line of sight. In order to be affected, the door must be capable of closing (e.g. an open archway without an actual door cannot be affected). The door or gate immediately closes and is then sealed shut and resists all efforts to open it; any creature in the doorway when this occurs is pushed out of it. Creatures can make an (Athleticism + Strength) vs. casting check in order to force the door open (which ends the spell if successful), or they can break through the door normally if desired. Wizard’s Seal gains a +4 bonus to resist being dispelled/removed.
+Expert Incantations
+Aethereal Lance
+(area spell attack, 2 AP)
+Range: caster                Area of Effect: 120’ x 5’ line        Duration: instant
+This spell attacks all creatures in a 120’ long and 5’ wide line for 10 crushing damage. Creatures hit by the spell are pushed (5 * attack net hits)’ away from the lance in a perpendicular direction.
+
+
+Arcsaber
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Dueling Blade of vicious power in the hand of a touched creature. The sword has the following statistics and persists for the full duration of the spell: Attack: 6/6/0, Defense: 4, Damage: 8 (slashing), Reach: 5’, Size: S. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the arcsaber; its attack checks are modified by Strength or Agility (depending on how it is wielded) as normal for a 1-handed weapon. Any attack made with the Arcsaber that hits also rends the target, reducing their Resistance from any source by (1 + net hits); this effect stacks. The wielder can sheathe and draw the sword normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Force Sphere
+(touch spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a sphere of impenetrable force around a creature. The target must be no larger than Large Size; if the spell hits, they become encased in a magical sphere that prevents their movement. They can breathe normally within the sphere, but cannot affect the outside world in any way, nor can outside effects affect them. The sphere can be attacked; it has 20 durability and 10 Resistance. This spell can be cast into an open space as well; in this case, it affects a single 5’ space.
+
+
+Levitation
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) hours
+This spell enchants a touched creature, giving them a Hover speed of 30’ for the duration of the spell.
+
+
+Wizard’s Grasp
+(enchantment spell, 2 AP/maintain 1 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) minutes
+This spell allows the caster to move a large items from a distance. She must have line of sight to the object, it must be of Huge Size or smaller, and it must weigh no more than (5 * casting check) tons. She can move the enchanted item up to 30’ for 1 AP; as long as she moves the object every round, it will float in midair. If she ceases concentration on it, it falls to the ground. Attended objects are allowed a Body check (on the part of their wielder) to avoid being affected by this spell. By spending 2 AP, the caster can change the focus of the spell from one target object to another.
+________________
+
+
+Master Incantations
+Arcane Power
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell makes the target unstoppable and immovable. While enchanted, they cannot be knocked prone or moved by forced-movement effects, their Speed cannot be reduced below 100% of its normal value, and they ignore all difficult terrain, ground effects, and cloud effects. In addition, they cannot be interrupted, impeded, stopped, or otherwise have their movements negated (even by wounds), and they count as 2 Sizes larger for determining their ability to Trample creatures. They still cannot walk through solid objects.
+
+
+Disintegrate
+(touch spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+The caster fires a ray of pure destruction at the target, attacking them for 16 damage of whatever type they have the least Resistance towards. If this spell has any ‘leftover’ damage after Resistance and the maximum wound severity is applied, it applies a second wound of whatever severity is indicated by its remaining damage. For example, if the spell deals 13 damage (after net hits and Resistance) and can only apply a Severe wound, it will apply a Severe wound (9 damage) and a Moderate wound (4 damage). Regardless of the damage type, this spell always inflicts Trauma wounds.
+
+
+Force Cage
+(touch spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: (casting check) hours
+This spell traps a creature in a cage of force from which they have no hope of escape. The target must be no larger than Huge Size; if the spell hits, they become encased in a cage of force and cannot take any actions apart from speaking. The cage has 50 durability and 15 Resistance. While inside the cage, the target can be communicated with but is considered to have Cover and cannot be targeted by spells or attacks; area abilities will not affect them either unless they have the cloud or shout descriptors.

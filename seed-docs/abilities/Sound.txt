@@ -1,0 +1,150 @@
+﻿Sound
+Core Element: Air
+
+
+Sound Cantrips
+Deafen (body spell attack, 1 AP): The caster causes a keenly annoying sound in the target’s ears. If this spell hits, the target becomes deafened for (1 + net hits) rounds, preventing them from hearing anything. This spell has a range increment of 30’.
+Shatter (spell, 2 AP): This spell causes resonant sonic vibrations within an object made of fragile material such as glass, crystal, or clay, causing it to break apart. The item must be of Medium Size or smaller, must not be held, carried, or otherwise attended by another creature, and requires the caster to succeed a casting check (Difficulty: 3) to function. This spell has a range increment of 30’.
+
+
+Incantation Summary
+(N) Babble: Prevents creatures from being able to speak intelligibly.
+(N) Manipulate Sound: Creates phantom voices and other noises.
+(N) Muffle: Enchants an ally to cause them to make considerably less noise.
+(N) Tongues: Grants the caster the ability to speak new languages.
+(N) Voice of Authority: Allows the caster to more easily give orders and inspire followers.
+
+
+(A) Howling Disc: Conjures up a magical chakram composed of sonic energy.
+(A) Lullaby: Causes a creature to quickly fall asleep.
+(A) Project Voice: Allows the caster to speak and hear over long distances.
+(A) Shout: Damages enemies and breaks objects in a cone.
+(A) Sustaining Hymn: Grants allies in an area a bonus to resist mind-affecting attacks.
+
+
+(E) Comprehension: Enchants an area that allows all creatures within to communicate.
+(E) Dissonant Barrier: Creates a sonic field of distorting energy around an ally.
+(E) Silence: Prevents all noise in a targeted area.
+(E) Siren Song: Attracts creatures in the area to the caster.
+(E) Voice of Deceit: Allows the caster to control what a targeted creature says when they speak.
+
+
+(M) Keening Wail: Unleashes a murderous scream that can slay the living.
+(M) Song of Friendship: Attracts the attention of many creatures and makes them more friendly.
+(M) Voice of the Gods: Allows the caster to give orders that must be obeyed.
+________________
+
+
+Novice Incantations
+Babble
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: 10’ radius                Duration: instant
+This spell attacks all creatures in the target area and makes those hit tongue-tied. Tongue-tied causes the target to be unable to speak intelligibly unless they succeed a (Linguistics + Charisma) check (Difficulty: 4) or the person listening to them succeeds a (Linguistics + Intuition) check (Difficulty: 4).
+
+
+Manipulate Sound
+(enchantment spell, 2 AP/maintain 1 AP)
+Range: caster        Area of Effect: 30’ radius                Duration: (casting check) minutes
+This spell allows the caster to create, intensify, and/or muffle sounds around her. For the duration of the spell, for 1 AP, she can affect sounds in a 30’ radius around herself; this can include making any existing noise louder or quieter (by 1 category; see the Alertness Skill), or creating some manner of new noise of any volume. This effect persists for 1 round unless the caster continues to maintain the spell, in which case she can maintain the chosen effect for as long as she likes. Intelligible speech can be created with this spell, but doing so increases the maintain cost to 2 AP.
+
+
+Muffle
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell surrounds a single ally with a sonic distortion that muffles sound around them. Whenever they make a noise, they can choose to lower its volume by 2 categories (see the Alertness skill). In additional, all harmful shout abilities used against them suffer a -4 penalty to hit and/or have their durations reduced by 50%. This spell is Subtle.
+
+
+Tongues
+(ritual spell, 1 minute)
+Range: caster        Area of Effect: caster                Duration: (casting check) hours
+This spell allows the caster to speak new languages. When the spell is cast, she can choose 1 language she does not know and become able to speak, understand, read, and write it for the duration of the spell. Alternatively, she can choose a willing creature within melee reach and become able to speak, understand, read, and write all languages they know for the duration instead. This ritual requires a quill pen made from the feather of a dove (worth 15s).
+
+
+Voice of Authority
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: caster                Duration: (casting check) minutes
+This spell makes the caster more authoritative; while under its effects, she gains authority, which grants her a +4 bonus to all skill checks made to use shout abilities, reduces the action cost of giving commands to her followers by 1 AP, and causes any follower to to whom she gives a command to gain fealty, increasing their Loyalty by 4.
+________________
+
+
+Adept Incantations
+Howling Disc
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Chakram composed from sonic energy in the hand of a touched creature. The chakram has the following statistics and persists for the full duration of the spell: Damage: 5 (slash), Range: 30’, Reload: 0 AP, Size: S, Melee Stats; (0/2/5 Attack, 5 Defense). The Howling Disc can be used in Close Spacing despite its Size, as well. The target can use her Ranged Weapons skill, or whatever skill was used to cast the spell, when attacking with the howling disc; its attack checks are modified by Intuition as normal for a ranged weapon. Any target hit by the Howling Disc’s attacks becomes deafened, preventing them from hearing anything. In addition, its attacks treat the target’s Slashing Resistance as being 50% of its normal maximum value. The wielder can sheathe and draw the chakram normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Lullaby
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell attacks a single target and makes them drowsy, inflicting a -(4 +/- net hits) penalty to all Intuition checks. If the target is not in a life-threatening or other similarly-serious scenario (such as combat), this penalty increases by 1 per round until it reaches a -10  penalty, at which point they fall asleep for several hours. If the situations change to cause the target to enter a dangerous scenario, drowsy ends instantly. This spell is Subtle.
+
+
+Project Voice
+(enchantment spell, 1 minute)
+Range: caster        Area of Effect: caster                Duration: (casting check) hours
+When this spell is cast, the caster must choose either a person or a location whom she has met/visited at least once and can visualize accurately in her mind. For the duration of the spell, she gains the ability both hear and speak in the targeted area as if she was present in that location. If she targets a person, this spell affects their location, meaning if they move the caster cannot follow them. This spell does not grant her other sensory feedback of the indicated area, just auditory.
+
+
+Shout
+(area spell attack, 2 AP)
+Range: caster        Area of Effect: 30’ x 15’ cone        Duration: instant
+The caster unleashes a burst of sonic energy, attacking all creatures within the affected area for 8 crushing damage. Fragile/brittle objects within the area and of Large Size or smaller, such as glass or pottery, are destroyed instantly. Attended objects are allowed a Reflex check (on the part of their wielder) to avoid this spell entirely.
+
+
+Sustaining Hymn
+(area spell, 2 AP)
+Range: caster        Area of Effect: 15’ radius                Duration: instant
+This spell fills the area around the caster with encouraging music, granting all allies there iron will, which grants them a +(casting check) bonus to Mind checks.
+________________
+
+
+Expert Incantations
+Comprehension
+(ritual spell, 1 minute)
+Range: caster        Area of Effect: 30’ radius                Duration: (casting check) hours
+This spell enchants an area; any creature within the affected area can effectively communicate with all other creatures in the area, regardless of linguistic, racial, or physiological limitations. This includes allowing normal people to interact with animals, and vice versa. Mindless creatures remain unaffected. This ritual requires diamond dust sprinkled into the affected area (worth 50s).
+
+
+Dissonant Barrier
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with armor composed of sonic distortions. This suit of magical Heavy Armor has the following statistics: Resistance: 12/4/8/1, Encumbrance: 7. In addition, whenever any spell or shout ability would be used either by the target or a creature adjacent to her, or targets her or an adjacent creature, she can choose to grant that ability either a +4 bonus or a -4 penalty to its skill check. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Silence
+(enchantment spell, 2 AP)
+Range: 30’ increment        Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell enchants a targeted area, preventing all sound from entering or leaving. All creatures within the area are totally silent in their actions, regardless of how much noise they would normally make, and are also silenced as long as they remain within. Silence prevents them from speaking, using shouts, casting spells, or hearing any sound.
+
+
+Siren Song
+(mind spell attack, 2 AP/maintain 1 AP)
+Range: caster        Area of Effect: 30’ radius                Duration: special
+The caster serenades those nearby with an irresistible tune. This spell attacks all creatures within 30’ of the caster; those hit become entranced on her for as long as she maintains the spell and for (1 + net hits) rounds thereafter. Entranced causes them to become utterly enraptured with her, move as close to her as possible, and take no other actions other than to gaze longingly into her eyes. She can maintain this spell for a maximum of (casting check) minutes. Combat or any other life-threatening scenario ends this effect instantly.
+
+
+Voice of Deceit
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell allows the caster to puppeteer control of a target’s voice; if the spell hits, the target suffers false command for (1 + net hits) minutes. This allows the caster to,whenever the target speaks, choose what they actually say (reaction ability, 0 AP cost). This can include contradictory orders, insults, improvised poetry, complete nonsense, or simply causing shouts and spellcasting to fail. If the target chooses to keep their jaw firmly clenched, the caster can force them to speak (again, whatever she desires) by spending the appropriate actions to do so, as if she was commanding a Follower. This spell is Subtle.
+________________
+
+
+Master Incantations
+Keening Wail
+(body spell attack, 2 AP)
+Range: caster        Area of Effect: 15’ radius                Duration: instant
+The caster unleashes a howl of death, attacking all creatures in the area of effect apart from herself and causing Trauma wounds to those hit; the severity of these wounds is based on the number of net hits scored (0-1: light, 2: moderate, 3: severe, 4+: mortal). Any creature that suffers a wound from this ability is deafened until the wound heals, preventing them from hearing. Any creature incapacitated by this wound is dealt a Deathblow.
+
+
+Song of Friendship
+(mind spell attack, 1 minute/maintain 2 AP)
+Range: caster        Area of Effect: 30’ radius                Duration: (casting check) hours
+The caster sings a magical melody that works its way into the hearts of those nearby. All creatures in the area are attacked; those hit become pacified, preventing them from attacking or harming the caster or anyone else, and fixated, causing them to stay within the area and listen to the song. Each hour that the caster maintains the effect, all affected creatures have their Attitudes towards her increased by 1 step permanently, to a maximum of Loyal; this Attitude change is permanent. Life-threatening events (such as combat, explosions, etc) will automatically end this spell, though any Attitude change effected before the event, if any, remains. This spell is Subtle.
+
+
+Voice of the Gods
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: caster                Duration: (casting check) minutes
+This spell makes the caster’s demands unable to be ignored. While it is active, any command she gives (following the normal rules for commanding Followers) is automatically obeyed by her allied Followers, regardless of their inclination to do otherwise; this includes ordering them to continue to fight even if they would normally Rout. This effect functions on enemy Followers as well; however, they are allowed a Mind check (against the casting check) to resist the effect. Immediately-suicidal orders such as “jump off a cliff” or “stab yourself” are still automatically refused.

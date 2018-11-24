@@ -1,0 +1,162 @@
+﻿Genesis
+Core Element: Earth
+
+
+Genesis Cantrips
+Animate Tool (enchantment spell, 1 minute): This spell enchants a mop, broom, or other sundry tool to perform household chores for the caster. This enchantment persists for (casting check) hours and does not require the caster’s supervision; the tools are capable of performing their intended functions without risk of hilarious hijinks.
+Magic Cloud (cloud spell, 1 AP): This spell fills a single 5’ x 5’ area with Fog, inhibiliting visibility there. This effect persists for (10 - Wind Strength) rounds.
+
+
+Incantation Summary
+(N) Animate Rope: Enchants a rope to coil around enemies or up walls.
+(N) Feast: Creates a small amount of food.
+(N) Glittering Burst: Conjures a cloud of shiny particles that reveals invisible creatures in the area.
+(N) Shaping: Creates small usable objects from base clay.
+(N) Sorcerer’s Suit: Creates magical and protective clothing for the caster to wear.
+
+
+(A) Animate Weapon: Enchants a weapon to fight on its own.
+(A) Bolster: Grants allies in an area a bonus to resist poison and death attacks.
+(A) Creation: Creates elaborate and animate objects from base clay.
+(A) Noisome Cloud: Conjures a noxious cloud of gas that nauseates creatures within.
+(A) Spear of Unmaking: Summons a magical weapon that destroys artificial creatures.
+
+
+(E) Animate Armor: Enchants a suit of armor to serve as a guardian.
+(E) Banquet: Creates a large amount of delicious food that invigorates those who eat it.
+(E) Sorcerer’s Servants: Creates mindless servitor creatures out of base clay.
+(E) Spark of Life: Temporarily makes an object or creature whole and living.
+(E) Spider’s Skein: Creates sticky webs that fill an area.
+
+
+(M) Death Fog: Conjures a cloud of deadly gas that slays creatures within.
+(M) Ship of Magic: Creates a magical ship that the caster and her allies can sail upon.
+(M) Sorcerer’s Chateau: Builds a large and elaborate dwelling in which the caster and her allies can live.
+________________
+
+
+Novice Incantations
+Animate Rope
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: one rope                Duration: (casting check) minutes
+This spell enchants a rope in the caster’s possession; the rope can be of any length, but must generally be at least 10’ long to be effective. Once animated, the rope gains a Speed of 20’ and will automatically seek out enemies to attack (it has 2 AP per round, like normal). The caster can direct the rope, telepathically, like a normal follower. The rope’s attack check is equal to the caster’s casting check; it deals no damage and can only attempt to grapple enemies. If it successfully grapples an enemy, it can perform all normal grapple actions except damage; instead of damage, it can apply choking to the target for 1 round, preventing them from breathing or speaking. The rope can also be commanded to retrieve items (it can carry up to 100 pounds), climb walls, and tie itself around objects or creatures; all skill checks made by the rope use the caster’s casting skill. If left to its own devices, it follows the caster as she moves and coils harmlessly around her feet as if it were a pet snake. When the enchantment ends, it falls limp and unties any knots that were formed in it.
+
+
+Feast
+(summoning spell, 1 minute)
+Range: caster        Area of Effect: special                Duration: permanent
+This spell creates enough food to feed (2 * casting check) Medium Size creatures for 1 day. If the caster is capable of cooking (i.e. has Skill Points invested in Crafting: Chef), she can make the magical food take the form and taste of whatever culinary delights she desires; otherwise, it appears as fairly bland and dry biscuits.
+
+
+Glittering Burst
+(area spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: 10’ radius                Duration: instant
+This spell creates a dazzling burst of scintillating dust in a target area; all creatures there are attacked and revealed for (2 +/- net hits) minutes. While revealed, they cannot benefit from Cover, Concealment, Invisibility, or Stealth. This effect can be removed early if the creature spends 2 AP to wipe the glitter off of themselves. Creatures hit by Glittering Burst are also dazzled for (2 + net hits) rounds, inflicting a -4 penalty to all Intuition checks.
+
+
+Shaping
+(transmutation spell, 2 AP)
+Range: melee                Area of Effect: one lump of clay        Duration: permanent
+This spell transforms a blob of clay, mud, or other base material into a usable item. The caster can create any one mundane item of Medium Size or smaller whose value must be less than 1g. The item can be used like normal by the caster or anyone she gives it to (or anyone who takes it). The item will always be of Average Quality and is permanent once created. Its nature is obviously magical, meaning merchants will be unwilling to buy it in most circumstances. Shaping cannot create edible food or drink.
+
+
+Sorcerer’s Suit
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: 1 day
+This spell protects a touched creature with magical and quite fabulous clothing. This suit of magical Light Armor has the following statistics: Resistance: 3/3/3/2, Encumbrance: 3. The spell by default creates clothing suitable for even the fanciest balls and parties. For men, this is likely to take the form of long coats, colorful hose, and high collars; for women, elaborate gowns with wide skirts and thin waists. The caster can tone down the ostentation of the magical clothing, if she desires. Unlike most conjured armor, the Sorcerer’s Suit persists for a full day. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+________________
+
+
+Adept Incantations
+Animate Weapon
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: one weapon        Duration: (casting check) minutes
+This spell enchants a weapon in the caster’s possession, causing it to float in midair and attack of its own accord. Once animated, the weapon gains a Hover speed of 30’ and will automatically seek out enemies to attack (it has 2 AP per round, like normal). The caster can direct the weapon, telepathically, like a normal follower. The weapon’s attack and defense checks are equal to the caster’s casting check; it has all the normal stats of the weapon and deals normal damage (if she enchants a one-handed weapon, it gains the +2 to attack and Initiative for being single-wielded). The weapon’s initiative is equal to the caster’s. The weapon cannot be disarmed, nor can it be wielded while it is enchanted. Ranged weapons enchanted by this spell can reload themselves (with normal action costs) and do not require ammunition (they fire magical bolts). If left to its own devices, it follows the caster as she moves and floats in a lazy circle around her. When the enchantment ends, it falls to the ground.
+
+
+Bolster
+(area spell, 2 AP)
+Range: caster        Area of Effect: 15’ radius                Duration: instant
+This spell empowers the metabolisms of allies around the caster, granting all allies there fortitude, which grants them a +(casting check) bonus to Body checks.
+
+
+Creation
+(transmutation spell, 1 minute)
+Range: melee                Area of Effect: one lump of clay        Duration: permanent
+This spell transforms a blob of clay, mud, or other base material into a usable item or small creature. The caster can create any one mundane item of Large Size or smaller whose value must be less than 10g. The item can be used like normal by the caster or anyone she gives it to (or anyone who takes it). The item will always be of Average Quality and is permanent once created. Its nature is obviously magical, meaning merchants will be unwilling to buy it in most circumstances. Alternatively, the caster can create a Small or Tiny creature out of the clay; this creature takes the form of a Homunculus (see the Thaumaturgy skill for details) and also persists indefinitely. The character can have a maximum of (Magic attribute) Homunculi created by this spell active at any given time. Creation cannot create edible food or drink.
+
+
+Noisome Cloud
+(cloud spell, 2 AP)
+Range: 30’ increment                Area of Effect: 15’ radius                Duration: (10 - Wind Strength) rounds
+This spell creates a cloud of noxious gas in the target area; it blocks vision like Fog. All creatures within the cloud must make a Body check each round or become nauseated, inflicting a -4 penalty to attack and defense checks and reducing AP by 1. Nausea lasts until they leave the cloud and for (1 + net hits) rounds thereafter.
+
+
+Spear of Unmaking
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Polearm in the hands of a touched creature. The spear has the following statistics and persists for the full duration of the spell: Attack: 8/-1/0, Defense: 2, Damage: 9 (pierce), Reach: 10’, Size: M. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the spear; its attack checks are modified by Strength as normal for a 2-handed weapon. The Spear of Unmaking deals +4 damage to Unnatural and Construct creatures and allows the character to choose where she inflicts wounds when hitting creatures of these types; if it successfully incapacitates any Construct or Unnatural creature, it deals a Deathblow to them. The wielder can sheathe and draw the spear normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+________________
+
+
+Expert Incantations
+Animate Armor
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: one armor        Duration: (casting check) hours
+This spell enchants a touched suit of armor of Medium size or smaller, causing it to float in midair and move of its own accord; suits of armor currently being worn cannot be affected by this spell. Once animated, the armor gains a Speed of 30’ and will follow the caster’s commands without question (essentially acting as an unliving servant). The caster can direct the armor, telepathically, like a normal follower. The armor gains proficiency equal to the caster’s casting skill with one weapon group of the caster’s choice and, if given a weapon, can be commanded to attack normally. The animated armor’s defenses are equal to the caster’s casting skill as well; it has durability and Resistance equal to the Resistance provided by the base suit of armor. The armor’s initiative is equal to the caster’s. If left to its own devices, the armor follows the caster as she moves and stands motionless near her. When the enchantment ends, it falls to pieces, undamaged, on the ground.
+
+
+Banquet
+(summoning spell, 1 minute)
+Range: caster        Area of Effect: special                Duration: permanent
+This spell creates enough food to feed (10 * casting check) Medium Size creatures for 1 day. The food is sumptuous by default and requires no culinary talent on the part of the caster, though if she is capable of cooking she can customize the meal however she desires. Any creature that partakes of the meal gains invigoration, doubling the rate at which they regain endurance, granting them +5’ Speed, and allowing them to move 50% faster while traveling.
+
+
+Sorcerer’s Servants
+(transmutation spell, 1 day)
+Range: melee                Area of Effect: one block of clay        Duration: permanent
+This spell transforms a block of clay, mud, or stone that is at least Large Size into (casting check) Medium Size servitor creatures. These Servants are Mindless Constructs and any wound dealt to one will instantly destroy it. All of their base defenses are equal to the character’s casting skill, they has no endurance score, cannot attack, and have a Speed of 30’. A Servant has a Strength value of 6; an Agility value of 3; Intuition, Knowledge, Willpower, and Charisma values of 1; and Magic and Luck values of 0. The Servants are permanent once created, but the caster cannot have more than (Magic attribute) active at a time. They follow her commands without question.
+
+
+Spark of Life
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: special                Duration: (casting check) hours
+This spell can be cast on any inanimate object, Mindless Unliving creature, or corpse; the target must be of Large Size or smaller. The spell reforms the target, repairing any damage done to it, and then grants it a temporary aethereal consciousness loyal to the caster. The target gains Knowledge, Willpower, and Charisma values of (casting check); its other attributes do not change. The target becomes free-willed but its Attitude towards the caster is Devoted, meaning it will be likely to follow her commands, though it does possess a self-preservation instinct, meaning it will disobey suicidal orders normally. Inanimate objects enchanted by this spell gain a certain amount of aethereal elasticity, allowing them to move about and interact with the world. When the enchantment ends, the target returns to its former state.
+
+
+Spider’s Skein
+(cloud spell, 2 AP)
+Range: 30’ increment                Area of Effect: special                Duration: (casting check) minutes
+This spell creates a sticky web that traps creatures within it. The web must be ‘anchored’ at 3 locations within range and will instantaneously fill the space between the anchors, creating a triangular-shaped web. All creatures within the web must make a Reflex check or become trapped in it, entangling them. While entangled, they cannot move or take actions that require the use of the arms or legs. The web can be attacked by any creature and is hit automatically with any attack. Freeing any creature requires 10 damage of any type to be dealt to the web adjacent to them; this does not free anyone else trapped, however. Entangled creatures cannot attack the web themselves unless they have a Close Spacing attack available to them at the time the spell is cast. 
+________________
+
+
+Master Incantations
+Death Fog
+(cloud spell, 2 AP)
+Range: 30’ increment                Area of Effect: 15’ radius                Duration: (10 - Wind Strength) rounds
+This spell creates a cloud of deadly gas in the target area; it blocks vision like Fog. All creatures within the cloud are attacked for 10 acid damage (casting check vs. Body) each round; this spell always deals Internal Wounds rather than rolling normally. In addition, any creature incapacitated in the cloud suffers a Deathblow.
+
+
+Ship of Magic
+(ritual spell, 1 day)
+Range: 120’                Area of Effect: special                Duration: permanent
+This spell summons a magical ship that the caster can command mentally. The ship must appear in an open body of water within 120’ of the caster. It appears and functions much like a normal ship, but is obviously magical in nature. The caster must be on the ship itself in order to command it, which requires 2 AP per round on her part; if she ceases to maintain the spell, the ship stops moving. The caster uses her casting skill for all Piloting and other checks related to sailing the ship. The ship itself persists indefinitely, but the caster cannot create more than one at a time. This ritual requires a ship in a bottle, crafted to resemble the magical ship to be created (worth 25g). The Ship of Magic’s stats are as follows:
+
+
+Ship of Magic
+Rigging Durability: 30        Hull Durability: 20        Hull Hardness: 5
+Speed Rating: 10        Turning Time: 6        Initiative Rating: +4
+Gun Ports: 0 (0)        Small Arms Capacity: 0        Draft: 4
+Cargo Capacity: 200 tons        Crew Size: 0        Passengers: 150
+Cost: n/a        Maintenance: n/a        Port Size: 8
+This magical ship has 3 masts and is sleek, fancy, and obviously unnatural. 125' long and 25’ wide.
+
+
+Sorcerer’s Chateau
+(ritual spell, 1 day)
+Range: caster        Area of Effect: special                Duration: permanent
+This spell transmutes unworked earth, mud, stone, and wood into a large dwelling the caster can shape as desired. The retreat is up to 2500 square feet (50’ square) in size and the caster can shape the building however she wishes, within reason; she is not required to make a perfectly square dwelling. She can form rooms, stairs, and doors within it as she desires; the doors will automatically open for the caster and anyone she designates as being allowed within. 5’ square sections of the Sorcerer’s Chateau (or its doors) can be attacked and destroyed (durability: 15), but destroyed sections will regenerate within 1 day unless the entire building is destroyed. Creatures within the chateau are immune to environmental effects, terrain hazards, and weather effects.
+
+
+In addition to the structural components, the chateau can furnished as desired by the caster; furniture created via this spell is finely-crafted, stylish, and comfortable, but cannot be taken outside of the building. The chateau is permanent, but the caster can only have one active at a time. This ritual requires a miniature house crafted in the shape of the full-size building to be created (worth 25g).

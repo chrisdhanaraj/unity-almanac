@@ -1,0 +1,150 @@
+﻿Shadow
+Core Element: Darkness
+
+
+Shadow Cantrips
+Blind Spot (mind spell attack, 1 AP): This spell, if it hits, causes the target to suffer a blind spot for (1 + net hits) rounds, which inflicts a -4 penalty towards all Intuition checks they make with regards to the caster. This spell is Subtle.
+Haze (phantasm spell, 1 AP): This spell creates a fog of lowered light that either stands motionless or follows the caster (her choice). It lowers light levels by 1 step in a 10’ radius around the caster (Brilliance -> Glare -> Light -> Gloom -> Darkness). The magical haze persists for (casting check) minutes.
+
+
+Incantation Summary
+(N) Cloak of Shadow: Enchants a creature to make them more easily able to hide and move silently.
+(N) Crawling Despair: Overwhelms nearby enemies with hopelessness.
+(N) Dark Ward: Protects an ally from physical damage.
+(N) Shadow of Death: Causes an ally to seem dead, despite remaining alive.
+(N) Tenebrous Tendril: Lashes out with a ribbon of shadow magic to pull the caster to the target.
+
+
+(A) Coiling Shadows: Grants allies in an area a bonus to resist area and touch attacks.
+(A) Darkness: Forms an area of utter darkness that prevents all light and vision.
+(A) Mist-Talon: Conjures a blade of shadow energy that consumes the life of those it strikes.
+(A) Shadow Step: Teleports the caster from one darkened place to another.
+(A) Umbral Wall: Creates a curtain of shadow energy that sickens and confuses enemies.
+
+
+(E) Isolation: Removes all of a target’s senses.
+(E) Pale Walk: Makes the target utterly unremarkable and difficult to remember. 
+(E) Shade Form: Transforms the caster into living darkness.
+(E) Shadow Ward: Guard an area and those within against physical attacks.
+(E) Umbral Haze: Creates a cloud of dark power that consumes life and light energy.
+
+
+(M) Door to the Dark: Creates a hidden sanctum of shadow energy that others cannot detect.
+(M) Endless Night: Prevents an area from ever receiving daylight.
+(M) Shadow Flare: Unleashes a blast of life-draining umbral energy.
+________________
+
+
+Novice Incantations
+Cloak of Shadow
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with armor composed of swirling darkness. This suit of magical Light Armor has the following statistics: Resistance: 1/1/1/1, Encumbrance: 0. Whenever the wearer is in Gloom, she gains +2 to all Resistances; whenever she is in Darkness, she gains +4 to all Resistances instead. The wearer also gains a +4 bonus to Stealth checks. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Crawling Despair
+(mind spell attack, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: instant
+This spell surrounds the caster with a glowing phantasm that strikes fear into her enemies. All enemies of the caster within 15’ of her are attacked and suffer despair for (2 +/- net hits rounds), inflicting a -2 penalty to all attack, defense, and skill checks, along with a -4 penalty to Mind checks, for the duration of the spell. If any creature affected with despair starts its turns next to an ally, that ally suffers despair for 1 round as well.
+
+
+Dark Ward
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell enchants a touched ally, granting them +3 Resistance against all forms of Physical damage (Crushing, Piercing, and Slashing).
+
+
+Shadow of Death
+(enchantment spell, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: (casting check) days
+This spell enchants an ally to make them appear dead. When cast, the targeted ally can choose to feign death immediately, or wait up to (casting check) minutes, thus allowing them to wait for a better opportunity to engineer their apparent demise; in either case, choosing to activate the enchantment is a free-action reaction. When they feign death, the ally falls prone and unconscious. They appear dead for all purposes and will not respond to stimuli, show a pulse, etc. A (Medicine + Knowledge) check can be made (against the casting check) to determine the target is still alive, and spells/abilities that only target corpses will fail on them. Otherwise, they remain “dead” for the full duration of the spell, at which point they awaken. The caster can choose to end the false death early for 2 AP if she wishes, but must touch the target to do so.
+
+
+Tenebrous Tendril
+(ranged spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell lashes out with a ribbon of shadow energy, attacking a single creature within range for 5 cold damage; if the spell hits, the caster can pull herself adjacent to the target. This spell can also be used on inanimate objects in order to pull the caster to them; a flat Difficulty of 3 must be met to anchor the caster to an object and allow her to traverse the gap. Movement from this spell does not provoke opportunity attacks.
+________________
+
+
+Adept Incantations
+Coiling Shadows
+(area spell, 2 AP)
+Range: caster        Area of Effect: 15’ radius                Duration: instant
+This spell fills the area around the caster with swirling darkness, granting all allies there evasion, which grants them a +(casting check) bonus to Reflex checks.
+
+
+Darkness
+(area spell, 2 AP)
+Range: 30’ increment                Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell decreases light levels by 2 steps (Brilliance -> Glare -> Light -> Gloom -> Darkness) in the affected area for the duration of the spell.
+
+
+Mist-Talon
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Light Blade of hardened and shadowy mist in the hand of a touched creature. The dagger has the following statistics and persists for the full duration of the spell: Attack: 0/0/9, Defense: 3, Damage: 5 (cold), Reach: 5’, Size: T. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the Mist-Talon; its attack checks are modified by Strength or Agility (depending on how it is wielded) as normal for a 1-handed weapon. While attacking a target who cannot see (due to blindness, Darkness, or Brilliance), or a target the wielder is flanking, the dagger’s damage increases to 8 (cold). The wielder can sheathe and draw the dagger normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Shadow Step
+(teleport spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: instant
+This spell teleports the caster from one area of darkness to another. She must have line of sight to the target location, and both the initial and target locations must be either in Gloom or Darkness, or provide Concealment to the caster. The maximum distance she can teleport is (casting check * 60)’. This spell does not cause Teleportation Shock.
+
+
+Umbral Wall
+(wall spell, 2 AP)
+Range: 15’        Area of Effect: special                Duration: (casting check) minutes
+This spell creates a curtain of miasmous shadow energy that is 5’ wide, 10’ high, and up to 100’ long; at least some part of the wall must be within the base range of the spell, but it can extend beyond this range. The wall blocks vision like Fog but does not block projectiles or other attacks. Any creature passing through the wall takes 7 cold damage and becomes nauseous, inflicting a -4 penalty to all defenses until they take 5 minutes to rest. In addition, any creature passing through the wall must make a Mind check (against the casting check) or become disoriented and unable to do so, ending their movement at the same location at which they tried to enter the wall.
+________________
+
+
+Expert Incantations
+Isolation
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell isolates the target on-hit for (1 + net hits) minutes, completely removing all sensory input they receive (sight, sound, touch, smell, taste, etc). This spell is Subtle.
+
+
+Pale Walk
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) hours
+This enchantment causes the target to become utterly unmemorable. While enchanted, she gains a +(casting check) bonus to Stealth checks and increases the Difficulty for any skill check (be it mundane gathering of information, Divination spells, etc) to determine information about her by (½ casting check). Any creature with whom she interacts while the enchantment is active must later succeed a Mind vs. casting check in order to remember any relevant information regarding her (features, intentions, actions, etc). If the target engages in combat, violence, or any other life-or-death scenario, the spell ends immediately.
+
+
+Shade Form
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) minutes
+The caster becomes a creature of pure darkness. She becomes Incorporeal for the duration of the effect. By spending 2 AP, she can toggle this effect on and off as long as she remains enchanted. While corporeal, she still gains Concealment at all times, a +8 bonus to Stealth checks, and causes all opportunity attacks made against her to automatically miss.
+
+
+Shadow Ward
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell enchants a 15’ radius around the caster and does not move with her. All creatures within the area gain the ability to use the caster’s (casting skill dice pool) as their defense check against all weapon attacks, melee or ranged. They also gain a +4 bonus to all Block and Reflex checks they make. In addition, all creatures within gain +4 Resistance against physical damage and reduce the severity of physical damage wounds dealt to them by 1 step.
+
+
+Umbral Haze
+(cloud spell, 2 AP)
+Range: 30’ increment                Area of Effect: 15’ radius                Duration: (casting check) rounds
+This spell creates a cloud of dark energy that absorbs life and light. Light levels are reduced by 1 step in the cloud (Brilliance -> Glare -> Light -> Gloom -> Darkness), and any source of light (magical or mundane) of Large Size or smaller within the cloud is instantly extinguished. All creatures within the cloud suffer 7 cold damage per round; each time the Umbral Haze inflicts a wound of any severity, its radius increases by 5’ and its duration increases by 1 round. The cloud cannot grow more than once per round regardless of the number of wounds it inflicts.
+________________
+
+
+Master Incantations
+Door to the Dark
+(ritual spell, 1 day)
+Range: caster                Area of Effect: special                Duration: permanent
+This spell creates a hidden sanctum of shadow energy. When the spell is cast, the caster creates a hidden gateway (either floating in thin air or placed against a solid surface) to her shadow refuge. The gateway must be at least large enough to fit a Medium Size creature, and can be expanded up to 15’ x 15’. Any number of creatures designated by the caster can see the gateway; anyone else requires an (Alertness or Investigation + Intuition) check (against the casting check) to find it; anyone who knows the gateway is there can pass through it freely. The refuge itself is hidden away in some long-lost Shadow Realm and cannot be found by any other means; creatures within it are entirely immune to Divinations. The refuge is approximately 900’ square (30’ x 30’) and can be partitioned into rooms as the caster desires; she can shape the refuge however she wishes, within reason, and is not required to make a perfectly square dwelling. Creatures inside can see the exit normally and can pass through it at any time. The refuge can have windows (at the caster’s option), but they show naught but a featureless dark plain and sky outside (venturing outside is not recommended…). While within her refuge, the caster and all allies can recuperate and recover from exposure to the elements. The refuge is permanent, but only one can be created at a time. If any living creature is within the shadow refuge, the caster cannot destroy it or create a new one. This ritual requires a mirror made of black glass (worth 50g).
+
+
+Endless Night
+(ritual spell, 1 day)
+Range: caster                Area of Effect: 500’ radius                Duration: permanent
+This spell snuffs out natural sunlight in a large sphere around the caster. It projects pure night in a 500’ radius area around where the spell is cast. This spell blocks sunlight but will allow stars and moons to shine normally; artificial illumination remains effective as well. The darkness will fade after 12 hours and then grow again 12 hours after that, reflecting a normal day/night cycle; if cast just before daybreak, this could potentially cause the affected area to never experience day. Endless Night lasts indefinitely, though the caster can only have one active at a time. This ritual requires an onyx cut into a perfect sphere, worth 25g.
+
+
+Shadow Flare
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: 15’ radius                Duration: instant
+This spell unleashes a torrent of enervating shadow energy; all creatures in the area are attacked and suffer lifedrain, which reduces their maximum endurance by (6 +/- (2 * net hits)), and weakness, which reduces their Strength, Agility, and Intuition by (2 +/- net hits). This is not considered a wound, and affected creatures recover their lost endurance at the rate of 1 per day.

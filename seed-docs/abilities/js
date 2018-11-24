@@ -1,0 +1,220 @@
+[
+  {
+    "attributes": [
+      "Enchantment Spell"
+    ],
+    "costType": "AP",
+    "costAmount": 2,
+    "rangeType": "MELEE",
+    "areaOfEffectType": "SINGLE_TARGET",
+    "durationAmount": "(Casting check) hours",
+    "name": "Ghost Ward",
+    "description": "This spell protects a targeted ally from the attacks of creatures from the spirit world. They gain a +4 bonus to all defenses against Incorporeal creatures, spirits, and Undead creatures, and +4 Resistance against any damage dealt to them by these creatures."
+  },
+  {
+    "attributes": [
+      "Mind Spell Attack"
+    ],
+    "costType": "AP",
+    "costAmount": 2,
+    "rangeType": "INCREMENT",
+    "rangeIncrement": 30,
+    "areaOfEffectType": "SINGLE_TARGET",
+    "durationAmount": "Instant",
+    "name": "Haunt",
+    "description": "This spell harasses a target with minor spirits, haunting them for (2 +/- net hits) rounds. While haunted, all damage they deal is reduced by 3 and, whenever they are hit by an attack, they become frightened of their attacker for 1 round, forcing them to take no actions but flee from them as quickly as possible."
+  },
+  {
+    "attributes": [
+      "Ritual Spell"
+    ],
+    "costType": "Time",
+    "costAmount": 1,
+    "rangeType": "MELEE",
+    "durationAmount": "Special",
+    "name": "Speak with Dead",
+    "description": "This spell must target a corpse, which can be no older than 1 week. When the spell is cast, the caster calls forth a spirit from the corpse, which will answer up to (casting check) questions. The spirit’s knowledge is limited to what the corpse knew in life, including languages it speaks. Spirits answer in dry, impartial, and literal language, meaning questions must be carefully worded to glean useful information. This spell can only be cast on a given corpse once. The ritual requires a silver coin, which must be placed in the mouth of the corpse."
+  },
+  {
+    "attributes": [
+      "Summoning Spell"
+    ],
+    "costType": "AP",
+    "costAmount": 2,
+    "rangeType": "MELEE",
+    "areaOfEffectType": "SPECIAL",
+    "durationAmount": "(Casting check) hours",
+    "name": "Spirit Call",
+    "description": "This spell summons a spirit with a variety of skills to serve the caster; the spirit appears in an open space adjacent to her. It is Incorporeal, though it can lose that property and become material (or vice versa) for 2 AP. It has the following attributes: Strength - 1, Agility - 3, Intuition - 4, Knowledge - 4, Willpower - 3, Charisma - 1, Magic - 0, Luck - 0. The spirit has a Lore skill of 4, an Alertness skill of 2, and 2 Points each in three other skills chosen at random. The spirit will obey the caster’s commands, but will not perform actions contrary to its nature (whatever that may be…). The spirit is incapable of harming others, though it might be able to scare commonfolk on account of looking spooky. It will refuse to stray farther than ~120’ from the caster for any reason."
+  },
+  {
+    "attributes": [
+      "Ritual Spell"
+    ],
+    "costType": "Time",
+    "costAmount": 1,
+    "rangeType": "CASTER",
+    "areaOfEffectType": "CASTER",
+    "durationAmount": "Special",
+    "name": "Wraith Script",
+    "description": "This spell allows the caster to transcribe invisible writing onto paper, parchment, or any other surface that will hold ink. When the spell is cast, the caster must select any number of other creatures of her choice (whom she must have met at least once) to be included in the spell. She and any selected targets can automatically detect the Wraith-Script and read it normally; anyone else must succeed a (Communing or Spellsight + Intuition) vs. casting check to read the writing, otherwise it is completely invisible. Wraith Script is permanent, and one casting of the spell will allow the caster to pen up to (10 * casting check) standard-size pages (~8” x 11”) worth of writing. The ritual requires 25s in ritual ink with which to pen the information."
+  },
+  {
+    "attributes": [
+      "Summoning Spell"
+    ],
+    "costType": "AP",
+    "costAmount": 2,
+    "rangeType": "MELEE",
+    "areaOfEffectType": "SINGLE_TARGET",
+    "durationAmount": "(Casting check) minutes",
+    "name": "Ghost Armor",
+    "description": "This spell protects a touched creature with magical armor composed of spirit energy. This suit of magical Medium Armor has the following statistics: Resistance: 7/7/7/0, Encumbrance: 0. The armor has an Encumbrance of 0 (rather than 6 normally), and any creature suffering from a negative mental effect suffers a -2 penalty to attack the wearer. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell."
+  },
+  {
+    "attributes": [
+      "Mind Spell Attack"
+    ],
+    "costType": "AP",
+    "costAmount": 2,
+    "rangeType": "CASTER",
+    "areaOfEffectType": "RADIUS",
+    "areaOfEffectRadius": 15,
+    "durationAmount": "Instant",
+    "name": "Horrific Visage",
+    "description": "This spell surrounds the caster with terrifying apparitions of death and decay. All creatures within 15’ of her are attacked and frightened for (3 +/- net hits) rounds. Frightened creatures suffer a -4 penalty to attack the caster and are inclined to seek other targets if they are available. Creatures hit by the spell are terrified for 1 round as well, causing them to flee from the caster as quickly as possible and take no actions except those that expedite their retreat."
+  },
+  {
+    "attributes": [
+      "Ritual Spell"
+    ],
+    "costType": "Time",
+    "costAmount": 1,
+    "rangeType": "MELEE",
+    "durationAmount": "Permanent",
+    "name": "Soul Jar",
+    "description": "This spell enchants an item to store souls. The soul jar can be made from any Tiny Size durable object, such as a dagger, gemstone, ancient tome, necklace, etc; it will always have 10 durability and 5 Resistance to all damage types. Once created, the soul jar can store up to 1 lost soul; whenever a creature dies within 30’ of the caster (who must be carrying the jar), she can choose to capture the soul of the creature as it escapes (they are allowed a Mind vs. casting check if they wish to die rather than have their soul captured). If she succeeds the check, or if the target is willing, she stores the soul within the jar. While within the jar, the creature has only vague awareness of its surroundings (-6 penalty to Alertness) and can take no actions. Souls have a wide variety of uses, such as currency with certain unscrupulous Outsider creatures; the caster can also use Possession to grant the target a new body. If the jar is destroyed, any soul within is lost forever. Only one soul can be stored in the jar at a time, but the caster can make as many soul jars as she likes. Casting this ritual requires a ritually-prepared item worth at least 1g."
+  },
+  {
+    "attributes": [
+      "Summoning Spell"
+    ],
+    "costType": "AP",
+    "costAmount": 2,
+    "rangeType": "MELEE",
+    "areaOfEffectType": "SPECIAL",
+    "durationAmount": "1 Day",
+    "name": "Spectral Sentinel",
+    "description": "This spell summons a spirit to watch over an area. When the spell is cast, the spirit must be bound to a specific location; it cannot move more than 120’ from that location, but will actively observe its surroundings every round for the duration of the spell. If the spirit detects any creature not specifically designated by the caster as an ally, it will immediately sound an alarm: either a shout easily audible to all within 120’, or a whispered alarm audible to the caster alone; her choice when she binds the spirit. The spirit has the following attributes: Strength - 1, Agility - 3, Intuition - 6, Knowledge - 2, Willpower - 3, Charisma - 1, Magic - 0, Luck - 0. The spirit has an Alertness skill of 5 and an Investigation skill of 3. It will not follow any commands other than to stand watch over an area, nor will it become corporeal except for the 1 round during which it sounds its alarm."
+  },
+  {
+    "attributes": [
+      "Enchantment Spell"
+    ],
+    "costType": "AP",
+    "costAmount": 2,
+    "rangeType": "MELEE",
+    "areaOfEffectType": "SINGLE_TARGET",
+    "durationAmount": "(Casting check) rounds",
+    "name": "Spirit Walk",
+    "description": "This spell makes a touched creature Incorporeal for the duration of the spell, allowing them to walk through solid objects but making them unable to interact physically with the real world."
+  },
+  {
+    "attributes": [
+      "Mind Spell Attack"
+    ],
+    "costType": "AP",
+    "costAmount": 2,
+    "rangeType": "INCREMENT",
+    "rangeIncrement": 30,
+    "areaOfEffectType": "SINGLE_TARGET",
+    "durationAmount": "Instant",
+    "name": "Dominate Undead",
+    "description": "This spell only functions on Undead creatures and, if it hits, dominates them for (1 + net hits) hours, forcing them to obey the caster’s every command. This spell functions normally on Mindless creatures. If the target has a mind, it is allowed to refuse obviously-suicidal orders (such as “go walk off that cliff”), but any other command, no matter how tedious or demeaning, is obeyed. Mindless creatures cannot refuse any command, even suicidal ones."
+  },
+  {
+    "attributes": [
+      "Ritual Spell"
+    ],
+    "costType": "Time",
+    "costAmount": 1,
+    "rangeType": "MELEE",
+    "durationAmount": "Permanent",
+    "name": "Phantom Archive",
+    "description": "This spell allows the caster to transcribe books into phantom form and store them in her own private ephemeral library. When this spell is cast, she can choose any tome she possesses and make a perfect aethereal copy of it, which is then placed in an extradimensional location. By spending 1 minute, the caster can retrieve any book stored in the archive, causing it to appear in her hands (the books appear ghostly and unnatural, featuring glowing spectral text and trails of spirit-smoke wafting from the edges). She can then read the book normally, but it will disappear instantly if removed from her hands (though she can summon it back it whenever she desires). A single casting of this spell stores 1 book, the physical copy of which is not harmed in any way. The caster is limited to a number of books in her archive equal to her casting skill dice pool, though she can discard books if she desires when casting this spell, allowing her to make room for new ones. This ritual requires 1g worth of aethereal ink used to ‘pen’ the insubstantial copy of the book."
+  },
+  {
+    "attributes": [
+      "Summoning Spell"
+    ],
+    "costType": "AP",
+    "costAmount": 2,
+    "rangeType": "MELEE",
+    "areaOfEffectType": "SINGLE_TARGET",
+    "durationAmount": "(Casting check) minutes",
+    "name": "Soulfire",
+    "description": "This spell creates an aura of spirit fire around the hands of a touched creature. This fire can be projected as a ranged weapon; it has the following statistics and persists for the full duration of the spell: Damage: 6 (fire), Range: 30’, Reload: 0 AP, Size: M, Melee Stats: (as Unarmed with the weapon’s damage). The target can use her Ranged Weapons skill, or whatever skill was used to cast the spell, when attacking with the soulfire; its attack checks are modified by Intuition as normal for a ranged weapon. The spell can be charged by spending AP; each AP of charge increases the range increment by 15’ and grants +1 damage, to a maximum of +90’ range and +6 damage. If any action is taken between charging the Soulfire and attacking with it, the charge is lost. The wielder can sheathe and draw the soulfire normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with."
+  },
+  {
+    "attributes": [
+      "Transformation Spell"
+    ],
+    "costType": "Time",
+    "costAmount": 1,
+    "rangeType": "CASTER",
+    "areaOfEffectType": "CASTER",
+    "durationAmount": "(Casting check) hours",
+    "name": "Spectral Sojourn",
+    "description": "This spell allows the caster’s soul to temporarily vacate her body and fly free as an independent spirit. When the spell is cast, the caster’s body falls comatose and helpless while she appears in the same space as a spirit. She maintains her attributes and skills, but also gains the [spirit] descriptor. While a spirit, she is Incorporeal, does not benefit from any equipment, and gains a Hover speed equal to her Speed. She can make standard skill check uses, but cannot attack, cast spells, or use abilities. As a spirit, she is unable to interact with the physical world (which she can sense, somewhat poorly, suffering a -4 penalty to Intuition checks), but can interact with other Incorporeal creatures normally. The caster’s soul can travel any distance from her body, but immediately returns to it when the spell ends. If her physical body is killed while this spell is active, her soul is stuck in its wandering form and she gains the Undead type; in this form, her soul quickly degrades and passes on; if she cannot find a new body or a soul receptacle (such as a Soul Jar) within 1 week, she is lost forever and becomes a standard NPC spirit. This spell can only be ended early if the caster returns to her body and spends 2 AP to re-enter it."
+  },
+  {
+    "attributes": [
+      "Summoning Spell"
+    ],
+    "costType": "AP",
+    "costAmount": 2,
+    "rangeType": "MELEE",
+    "durationAmount": "(Casting check) hours",
+    "name": "Spirit Guardian",
+    "description": "This spell summons a spirit to serve as an invisible guardian for an ally; this spirit has a Power rating of (2 * casting check). While they are protected, they gain a +(casting check) bonus to all defense checks and any defense check they win causes the attack to miss rather than glance. However, each time this effect occurs, the spirit’s Power is reduced by 1. In addition, whenever the target would be subject to any negative mental or spiritual effect, the spirit loses 1 Power and that effect is negated. When the spirit’s Power reaches 0, it dissipates and the spell ends. The spirit does not become corporeal or interact with the real world in any way except to protect the target of this spell."
+  },
+  {
+    "attributes": [
+      "Mind Spell Attack"
+    ],
+    "costType": "AP",
+    "costAmount": 2,
+    "rangeType": "INCREMENT",
+    "rangeIncrement": 30,
+    "areaOfEffectType": "SINGLE_TARGET",
+    "durationAmount": "(Casting check) hours",
+    "name": "Possession",
+    "description": "This spell allows the caster to temporarily swap bodies with a target Small or Medium Size Beast or Humanoid, or to swap the target’s mind with that of a soul in her possession (via Soul Jar, above). If the spell hits, the targets swap bodies. Both creatures use their new bodies’ Strength, Agility, Intuition, Speed, and any natural features (such as racial traits, scales, wings, etc.) but their own statistics for everything else. They can use abilities normally. Both creatures are stunned for 1 minute (-2 AP) due to the shock of the effect. The possession lasts for the listed duration, after which both creatures return to their original bodies (suffering the stun effect again). If either creature is killed while the spell is in effect, the effects of the spell become permanent on the other. If cast on a creature and a soul in a Soul Jar, the creature’s mind is placed within the jar (completely helpless) while the formerly-trapped soul gains control of the body."
+  },
+  {
+    "attributes": [
+      "Mind Spell Attack"
+    ],
+    "costType": "AP",
+    "costAmount": 2,
+    "rangeType": "INCREMENT",
+    "rangeIncrement": 30,
+    "areaOfEffectType": "SINGLE_TARGET",
+    "durationAmount": "(Casting check) minutes",
+    "name": "Soul Rip",
+    "description": "This spell, if it hits, severs the target’s soul from her body. She is stunned for (1 + net hits) rounds (-2 AP) from the shock, after which she can act normally as a free-willed spirit. If she can find a soulless body or a spirit receptacle (such as Soul Jar, above), she can enter it automatically and, in the case of a body, take control of it. Otherwise, she is stuck in spirit form until the spell ends, at which point she automatically returns to her own body. If her body (which lies comatose for the duration of the spell) is killed or inhabited by another soul before she can return, then she is stuck in her wandering-spirit form and gains the Undead type; in this form, her soul quickly degrades and passes on; if she cannot find a new body or a soul receptacle (such as a Soul Jar) within 1 week, she is lost forever and becomes a standard NPC spirit."
+  },
+  {
+    "attributes": [
+      "Summoning Spell"
+    ],
+    "costType": "AP",
+    "costAmount": 2,
+    "rangeType": "INCREMENT",
+    "rangeIncrement": 30,
+    "areaOfEffectType": "SINGLE_TARGET",
+    "durationAmount": "(Casting check) minutes",
+    "name": "Spirit Puppeteer",
+    "description": "This spell causes a hostile spirit to possess the target and take control of their body. The target can make a Mind vs. casting check to resist this effect, otherwise they come under total control of the spirit. While possessed, the caster can force them to do anything she likes by commanding them normally; the target cannot resist any commands, even suicidal ones. Only effects that banish or destroy spirits/undead can free the target. Otherwise, the spirit dissipates after (casting check) minutes and the spell ends."
+  }
+]

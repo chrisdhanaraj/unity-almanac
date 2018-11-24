@@ -1,0 +1,146 @@
+﻿Flesh
+Core Element: Soul (Necromancy only)
+
+
+Flesh Cantrips
+Minor Mending (spell, 1 AP): This spell attempts to end one bleeding effect on the caster or a touched ally. The maximum severity of bleed that can be cured is based on the casting check: Light has Difficulty 2, Moderate 3, Severe 4, and Mortal 5.
+Skin Deep (transformation spell, 1 minute): This spell causes minor changes to the caster’s appearance, making her more conventionally attractive. While not enough to effect a disguise on its own, the spell can remove blemishes, scars, birthmarks, and other imperfections, as well as cause subtle changes like eye color, freckles, etc. The effect persists for (casting check) hours.
+
+
+Incantation Summary
+(N) Bibliopegy: Creates a resilient book made of hardened hide.
+(N) Corrupting Spines: Allows a target to shoot stinging barbs from their hands.
+(N) Spasms: Causes an enemy’s body to twitch uncontrollably.
+(N) Twisting Curse: Temporarily mutates a target to make them hideous.
+(N) Vigorous Fortitude: Increases a target’s endurance.
+
+
+(A) Corrupted Carapace: Transforms the target’s skin into a protective shell.
+(A) False Flesh: Temporarily transforms a creature into someone else.
+(A) Flesh-Woven Wall: Creates a wall of pulsating meat that hungers for flesh.
+(A) Ocular Diadem: Grows extra eyes that the caster can use to see in all directions.
+(A) Warp the Dead: Destroys a corpse or undead creature.
+
+
+(E) Advantageous Mutation: Adapts a creature to their environment, making them immune to exposure.
+(E) Insectile Mantle: Allows the caster to grow additional limbs.
+(E) Muscular Alteration: Makes a creature more athletic and nimble.
+(E) Putrescent Pustule: Causes a target’s body to violently explode.
+(E) Resilient Enhancement: Grants a creature increased Resistance against damage.
+
+
+(M) Beauteous Rebirth: Creates a new body for the caster to inhabit should they die.
+(M) Body Horror: Permanently mutates a target into a grotesque new form.
+(M) Sculpt Flesh: Enacts permanent changes to a creature’s appearance.
+________________
+
+
+Novice Incantations
+Bibliopegy
+(ritual spell, 1 day)
+Range: melee                Area of Effect: special                Duration: permanent
+This spell allows the caster to create a hardened tome out of once-living flesh or hide (anthropodermic bibliopegy not required, but encouraged). The book can be used as a spellbook, in place of a normal book for other class abilities, or for more mundane purposes. The tome gains +(3 * casting check) durability permanently, +(casting check) Resistance to all damage types permanently, and is always assumed to be attended for the purposes of effects that destroy objects (if unattended, its defense check is equal to the caster’s casting skill). Once created, the tome is permanent. The ritual requires the intact skin or hide of a creature of at least Small Size; this skin can be no more than 1 week old. Casting this spell reduces the caster’s maximum endurance by 5, as the book draws on her life force to bind the magic to itself permanently. This is not considered a wound and recovers at a rate of 1 endurance per day.
+
+
+Corrupting Spines
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell mutates the hands of a touched creature, allowing them to shoot barbed spines. These spines can be projected as a ranged weapon; they have the following statistics and persists for the full duration of the spell: Damage: 5 (piercing), Range: 30’, Reload: 0 AP, Size: M, Melee Stats: (as Unarmed with the weapon’s damage). The target can use her Ranged Weapons skill, or whatever skill was used to cast the spell, when attacking with the spines; her attack checks are modified by Intuition as normal for a ranged weapon. Any target hit by a spine becomes distracted for (1 + net hits) rounds, inflicting a -2 penalty to all attack checks and causing attacks they make that glance to miss instead. The wielder can sheathe and draw the spines normally; while “sheathed,” they disappear back into the aether and cannot be seen or interacted with.
+
+
+Spasms
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell causes the target to spasm painfully and uncontrollably for (2 +/- net hits) minutes; while spasming, each time they spend 2 AP in a round, they suffer a Light Trauma Wound.
+
+
+Twisting Curse
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell, if it hits, twists the target, mutating their body into something hideous. They suffer a -2 penalty to all Strength, Agility, and Intuition checks, a -5’ penalty to Speed, and have their Attitude with all creatures reduced by 2 steps.
+
+
+Vigorous Fortitude
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) hours
+This spell grants the target additional vigor; for the duration of the enchantment, they gain +(casting check) current and maximum endurance and recover endurance twice as quickly (1 per 30 minutes as opposed to 1 per hour). When this spell ends, their maximum endurance returns to normal but their current endurance is not reduced unless it would be above their normal maximum.
+________________
+Adept Incantations
+Corrupted Carapace
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature by transforming their skin into a mutated shell. Helping! This suit of magical Medium Armor has the following statistics: Resistance: 4/7/5/5, Encumbrance: 6. While enchanted, the target reduces the severity of all wounds that would be applied to her by 1 step. The target cannot dismiss her Corrupted Carapace if it proves cumbersome; she is stuck with it for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+False Flesh
+(transformation spell, 2 AP)
+Range: melee        Area of Effect: single target                Duration: (casting check) hours
+This spell transforms the target’s appearance. The target’s body is altered however the caster pleases, though the spell is insufficient to change her race or species. Otherwise, height, weight, eye color, hair color, skin color, sex, etc. can be changed provided they stay within the normal confines of the target’s species. While transformed, the target is nearly unrecognizable as their former self; NPCs who already know them and interact with them can make an (Empathy + Intuition) vs. the target’s (Deceit + Charisma) to recognize them in their new form, however.
+
+
+Flesh-Woven Wall
+(wall spell, 2 AP)
+Range: 15’        Area of Effect: special                Duration: (casting check) minutes
+This spell creates an unbelievable disgusting barrier of pulsating meat and fangorious maws that is 5’ wide, 10’ high, and up to 100’ long; at least some part of the wall must be within the base range of the spell, but it can extend beyond this range. The wall is solid and blocks attacks and movements and attacks accordingly. Any creature adjacent to the wall is attacked (casting check vs. Reflex) for 8 slashing damage as one of the mouths attempts to eat them. Whenever the wall inflicts a wound, its duration increases by 1 round and all segments of the wall regain 1 durability. Each section (10’ x 10’) of the wall has 15 durability and 0 Resistance.
+
+
+Ocular Diadem
+(transformation spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) hours
+While this enchantment is active, the caster sprouts extra eyes in a circular pattern around their skull, allowing her to see simultaneously in all directions. This makes her unable to be flanked; in addition, she is assumed to automatically observe her surroundings each round without having spend AP to do so. She also gains a +(casting check) bonus to Alertness and Investigation checks from just having way too many eyes.
+
+
+Warp the Dead
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell attacks a corpse or Undead creature within range. If a corpse is targeted, it automatically twists and ruptures, becoming little more than a pile of meat; this renders it unable to be resurrected, used for Necromancy, or even recognized as what it once was. If used on an Undead creature, it twists and breaks their body; if the spell hits a standard undead minion (devourer, skeleton, or zombie), it automatically deals a Deathblow to them. If it hits another type of undead, it instead deals 10 crushing damage to their Chest; this damage ignores Resistance.
+________________
+Expert Incantations
+Advantageous Mutation
+(transformation spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: 1 day
+This spell subtly mutates the target to adapt them to their current biome. While affected, they suffer no exposure in that biome, either from lack of traveling supplies or from inclement weather (including storms). They also travel 50% faster overland in that biome.
+
+
+Insectile Mantle
+(transformation spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) hours
+This enchantment causes the caster to sprout two additional arms (appearing directly above or below her existing arms). These arms function like normal arms, meaning they can wield weapons, assist in casting spells, etc. While transformed, the caster gains a +2 bonus to all Agility checks; each additional wielded weapon grants a stacking +1 bonus to attack and Block checks. She also gains a Climb speed equal to half her normal Speed.
+
+
+Muscular Alteration
+(transformation spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) hours
+This spell enhances the target’s physical body, granting them a +4 bonus to Strength and Agility and +10’ Speed for the duration of the spell.
+
+
+Putrescent Pustule
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell horribly ruptures the target’s body, inflicting a Trauma wound to them of severity based on the attack net hits scored (0-1: light, 2-3: moderate, 4: severe, 5+: mortal). If a wound is inflicted, the force of the burst causes noisome gore to spew in all directions, causing all creatures within 10’ of the target to become nauseated for 1 round; this inflicts a -4 penalty to all defenses and reduces AP by 1.
+
+
+Resilient Enhancement
+(transformation spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) hours
+This spell makes the target more resistant to damage; while affected, they gain +5 Resistance to all damage types; this bonus Resistance stacks with armor.
+________________
+
+
+Master Incantations
+Beauteous Rebirth
+(ritual spell, 1 week)
+Range: melee                Area of Effect: special                Duration: permanent
+This spell grows the caster a new spare body. The process requires 1 week (during which the caster must tend to the growing body continually), after which the body is fully grown and alive. The new body has no mind of its own and is considered to be in stasis; it is unaffected by the world around it, nor does it interact with anything of its own volition. The body does not require food, drink, or air and remains in stasis indefinitely; it will not exit that state until possessed by a mind. The caster automatically succeeds any attempt to take possession of the body (via Possession or other similar spells); other creatures must make an opposed check against the caster’s casting check to do so. In addition, if the caster dies and becomes a spirit, she can spend 8 Soul Essence to teleport any distance and appear adjacent to her new body. The new body appears similar to the caster’s original form, but she can make modifications to height, weight, hair/eye color, markings, age, etc. as desired. Casting this spell reduces the caster’s maximum endurance by 10; this is not considered a wound and recovers at a rate of 1 per day.
+
+
+Body Horror
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell, if it hits, stuns the target for 1 round (reducing AP by 2), and also twists them, mutating their body into something hideous. They suffer a -3 penalty to all Strength, Agility, and Intuition checks, a -10’ penalty to Speed, and have their Attitude with all creatures reduced by 4 steps. The duration of the twisted effect is based on the number of net hits scored: 0-1 one week, 2-3 one month, 4+ permanent.
+
+
+Sculpt Flesh
+(ritual spell, 1 day)
+Range: melee                Area of Effect: single target        Duration: permanent
+This spell allows the caster to enact dramatic and permanent changes to a target’s physical form. The target’s body is altered to that of any other humanoid creature of similar size and shape (any playable Race, basically). The target loses all racial traits of their own race, instead gaining those of their new form, including natural armor/weapons, movement modes, and other traits. Attributes are not adjusted. Permanent wounds, including destroyed or severed limbs, can be regrown via this spell as well. Sculpt Flesh, however, cannot reverse the natural aging process. Once transformed, the target is nearly unrecognizable as their former self; NPCs who already know them and interact with them can make an (Empathy + Intuition) vs. the target’s (Deceit + Charisma) to recognize them in their new form, however. This ritual requires an intact corpse of the same species to which the target is going to be transformed; the corpse can be no older than 1 week.

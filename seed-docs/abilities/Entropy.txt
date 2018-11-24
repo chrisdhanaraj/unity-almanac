@@ -1,0 +1,152 @@
+﻿Entropy
+Core Element: Ice
+
+
+Entropy Cantrips
+Death Knell (spell, 1 AP): This spell can be cast on a touched corpse to determine cause of death. The caster must make a casting check (Difficulty: 3) to successfully cast this spell; if she succeeds, she learns in what manner the deceased person met their end. This spell is specific enough to determine precise cause of death, but will not identify any foul play; for example, if used on a corpse that fell from a balcony, it will state that the impact was responsible (and provide grisly details, if desired), but not whether or not the target was pushed.
+Last Breath (spell, 1 AP): This spell can be used on a touched corpse no older than one day. The caster recovers endurance equal to the corpse’s (living) Strength score. No corpse can be exploited by this spell more than once.
+
+
+Incantation Summary
+(N) Death Watch: Allows the caster to sense dying creatures nearby and exploit their deaths.
+(N) Destroy Aether: Removes an enchantment from a target creature and damages them.
+(N) False Life: Temporarily grants life to an Unliving creature.
+(N) Life Drain: Damages a creature’s endurance to heal the caster.
+(N) Wasting Curse: Reduces the effect of healing on the target.
+
+
+(A) Enervation: Damages a living creature and causes them to shrivel.
+(A) Grey Cloak: Causes the target to become invisible to Unliving creatures.
+(A) Grim Bulwark: Creates a sinister suit of magical armor that briefly prevents death.
+(A) Horrid Reaping: Drains the life force from creatures around the caster.
+(A) Repose: Weakens and destroys an Undead creature.
+
+
+(E) Circle of Death: Kills weakened creatures around the caster to empower her.
+(E) Entropic Curse: Increases damage dealt to the target.
+(E) False Death: Temporarily makes a living creature Unliving.
+(E) Reaper’s Scythe: Conjures a terrifying weapon that tears the life from those it hits.
+(E) Withering: Causes a creature to become decrepit over time.
+
+
+(M) Death Gate: Opens a temporary gateway to the Negative Material Plane.
+(M) Desecration: Makes an area inimical to living creatures.
+(M) Finger of Death: Instantly kills a living creature.
+________________
+
+
+Novice Incantations
+Death Watch
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: caster                Duration: (casting check) minutes
+This enchantment allows the caster to sense nearby dying creatures. While enchanted, whenever the caster actively observes her surroundings, she can sense the precise locations of all fatigued, incapacitated, and dying creatures within 120’ of herself; this is considered a Divination. In addition, while affected by this spell, she can spend 2 AP to touch any incapacitated or dying creature and deal a Deathblow to them. If this successfully kills the target, the caster becomes empowered, gaining a +1 bonus to all checks for the remaining duration of Death Watch; this effect can stack.
+
+
+Destroy Aether
+(spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell attempts to remove one enchantment or spiritual condition of the caster’s choice from the target; the Difficulty to do so is the casting check result used to create the effect. If the dispel is successful, the spell’s target suffers 7 acid damage.
+
+
+False Life
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) hours
+This spell can be cast on a willing Unliving target to temporarily make them seem alive. For the duration of the enchantment, the target loses the Unliving descriptor, gains an Endurance score equal to 10 + Strength, and is generally able to feel and react to stimuli as if they were alive; many senses are generally being muted or absent in Unliving creatures, such as pain, smell, taste, etc.
+
+
+Life Drain
+(body spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell attacks a single creature within range and deals (4 +/- (2 * net hits)) endurance damage to them. The caster gains endurance equal to the amount lost by the target. This spell does not deal wounds, but Resistance does not apply.
+
+
+Wasting Curse
+(body spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell curses the target for (8 +/- (2 * net hits)) hours. While cursed, they cannot recover endurance by any means, nor can any wounds affecting them be healed or have their durations reduced.
+________________
+
+
+Adept Incantations
+Enervation
+(touch spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+The caster unleashes a burst of negative energy upon an enemy within range, dealing 7 acid damage to them and, on-hit, enervating them. Enervation reduces the target’s Strength and Agility by (1 + attack net hits); the potency of this attribute reduction is reduced by 1 per day, and the effect is removed when the potency is reduced to 0.
+
+
+Grey Cloak
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) hours
+This spell makes a touched creature unable to be detected by the unliving. All creatures within the Unliving descriptor treat the target as Invisible as long as she does not interact with them in any way. If she does so, the enchantment immediately ends.
+
+
+Grim Bulwark
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with armor composed of entropic energies. This suit of magical Medium Armor has the following statistics: Resistance: 7/7/7/0, Encumbrance: 6. While wearing the armor, the target ignores the effects of all endurance loss and wounds dealt to her, and also cannot become fatigued, incapacitated, or die, regardless of what ills befall her. If she loses a limb, for example, the armor will temporarily replace it with a ghostly aethereal appendage, allowing the wearer to continue to fight. However, while wearing the armor, all attacks made against the target deal +2 damage. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Horrid Reaping
+(body spell attack, 2 AP)
+Range: caster        Area of Effect: 15’ radius                Duration: instant
+This spell unleashes a torrent of death energy around the caster, attacking all creatures within 15’ of her and dealing (6 +/- (2 * net hits)) endurance damage to them. If this spell reduces any creature’s endurance to 0, it drains them, reducing their Strength and Agility to 0. The potency of this attribute reduction is reduced by 1 per day, and the effect is removed when the potency is reduced to 0.
+
+
+Repose
+(body spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell attacks an Undead creature within range. While Repose does no damage, treat it as dealing 10 damage of whatever type the target has the lowest Resistance towards, then calculate wounds normally to determine the spell’s effect:
+        *Light Wound: Undead creature suffers a -2 penalty to all checks for 1 day.
+        *Moderate Wound: Undead creature suffers a -4 penalty to all checks for 1 day.
+        *Severe Wound: Undead creature suffers a -6 penalty to all checks for 1 day.
+*Mortal Wound: Undead creature is dealt a Deathblow. If it survives, it still suffers a -8 penalty to all checks for 1 day.
+________________
+Expert Incantations
+Circle of Death
+(body spell attack, 2 AP)
+Range: caster        Area of Effect: 15’ radius                Duration: instant
+This spell attacks all fatigued creatures within 15’ of the caster; creatures who are not fatigued are unaffected. Any creature hit has its endurance reduced to 0; any creature whose maximum endurance has been reduced below 50% by wounds is dealt a Deathblow as well. For each creature killed in this manner, the caster becomes empowered, granting her a +1 bonus to all attributes for (casting check) hours; this effect stacks.
+
+
+Entropic Curse
+(body spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell curses the target for (8 +/- (2 * net hits)) hours. While cursed, all attacks made against the target that deal damage have that damage increased by +3. No attack can have its damage more than doubled by this ability.
+
+
+False Death
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) hours
+This spell can be cast on a willing living target to temporarily make them seem dead. For the duration of the enchantment, the target gains the Unliving descriptor, loses their endurance score, and has their senses muted in the manner of the dead, such as pain, smell, taste, etc.
+
+
+Reaper’s Scythe
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Polearm with a blade of pure death energy in the hands of a touched creature. The scythe has the following statistics and persists for the full duration of the spell: Attack: 8/-1/0, Defense: 1, Damage: 12 (acid), Reach: 5’, Size: M. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the scythe; its attack checks are modified by Strength as normal for a 2-handed weapon. The Reaper’s Scythe deals +2 damage to fatigued target, and any attack it makes that hits a target whose maximum endurance has been reduced by 50% or more by wounds also deals a Deathblow. The wielder can sheathe and draw the scythe normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Withering
+(body spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell causes the target to wither for (2 +/- net hits) rounds; each round that this effect is active on the target, they suffer a Withered wound to a random body part (roll on the wound table normally). The Withered wound is considered physical and inflicts a -4 penalty to all checks used with that limb, but does not reduce maximum endurance. Withered wounds require 1d6 weeks to heal.
+________________
+
+
+Master Incantations
+Death Gate
+(ritual spell, 1 day)
+Range: melee        Area of Effect: special                Duration: (casting check) days
+This spell allows the caster to create a gateway between her current location and the Negative Material Plane, or vice versa. Because the Negative Material Plane mirrors the physical world, the gate opens to the ‘reflection’ of the caster’s current location. When the spell is complete, the gate appears and any creature can move through it for 2 AP to move from one side to the other. The gate persists for (casting check) days and, as long as it is active, the caster cannot recover the resources used to cast the spell. The caster can close the gate early by spending 1 minute channeling while adjacent to it. Creatures within the gate when it closes are shunted harmlessly to one side or the other (50% chance of each). This ritual requires 5g worth of onyx dust, drawn into a ritual circle as part of the spellcast.
+
+
+Desecration
+(ritual spell, 1 day)
+Range: caster        Area of Effect: 500’ radius                Duration: permanent
+This spell desecrates an area with an upwelling of entropic energy. The area becomes sickly, dark, and foreboding; plants within the area wither and die and animals avoid the area at all costs. If any other long-lasting enchantment effects were present, they are removed by this spell. Death and Necromancy spells cast from within a Desecration gain a +4 bonus to their casting checks. Living creatures within the Desecration lose 1 endurance per minute they remain there; any living creature incapacitated in the area suffers a Deathblow. This spell is permanent unless dispelled, but the caster can only have a single Desecration active at a time. This ritual requires 5g worth of onyx dust, which must be mixed with the powdered bone dust of a person or creature with a close personal connection to the spellcaster.
+
+
+Finger of Death
+(body spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell deals a killing jolt to a nearby target. If the spell hits and the target is above 50% endurance, they suffer a severe Trauma wound. If the spell hits and the target is below 50% endurance, they suffer a mortal Trauma wound and a Deathblow instead. If the spell misses, it does nothing.

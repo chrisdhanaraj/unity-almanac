@@ -1,0 +1,150 @@
+﻿Hydromancy
+Core Element: Water
+
+
+Hydromancy Cantrips
+Douse (spell, 1 AP): This spell can be cast on a fire of Medium Size or smaller to instantly put it out. Alternatively, it can be cast on an ally suffering from a Burning Wound to instantly end that effect. This spell has a range increment of 15’ and requires at least 3 hits on the casting check to be cast successfully.
+Water Jet (ranged spell attack, 1 AP): The caster unleashes a forceful jet of water at an enemy. This spell has a range increment of 15’ and, if it hits, pushes them back 5’.
+
+
+Incantation Summary
+(N) Fountain: Creates a small amount of drinkable water.
+(N) Mist: Creates a large cloud of mist that blocks vision.
+(N) Purify: Removes contaminants from food and drink.
+(N) Rejuvenation: Restores endurance to an ally over time.
+(N) Tidal Bow: Summons a magical bow that can pull distant targets closer or push nearby targets away.
+
+
+(A) Aquatic Adaptation: Grants an ally the ability to easily swim and act while submerged.
+(A) Control Water: Allows the caster to raise, lower, and shape bodies of water.
+(A) Deluge: Blasts an area with high-intensity water.
+(A) Spiritual Cleansing: Removes spiritual effects from nearby creatures.
+(A) Wall of Water: Creates a wall of pure water that repulses movement and magic.
+
+
+(E) Boon Current: Makes a ship faster, more maneuverable, and less prone to capsizing.
+(E) Drowning: Fills a target’s lungs with water to damage them over time.
+(E) Living Water: Transforms the caster into a creature of pure liquid.
+(E) Rain: Changes the weather to cause rain to fall from the sky.
+(E) Revitalizing Raiment: Protects a creature with magical armor that heals them over time.
+
+
+(M) Maelstrom: Creates a huge whirlpool of water that destroys ships.
+(M) Tsunami: Unleashes a giant wall of water that knocks away everything in its path.
+(M) Wellspring of Purity: Removes corrupting effects from an area.
+________________
+
+
+Novice Incantations
+Fountain
+(summoning spell, 1 minute)
+Range: caster        Area of Effect: special                Duration: permanent
+This spell causes (casting check) gallons of water to gush forth from the caster’s fingers; she can aim it into a bucket, wineskin, or other receptacle if she wishes. One gallon of water is sufficient water rations for two Medium-size creatures per day.
+
+
+Mist
+(cloud spell, 2 AP)
+Range: caster        Area of Effect: 120’ radius                Duration: (20 - Wind Strength) rounds
+This spell creates a huge cloud of mist around the caster. Creatures within the cloud suffer visibility penalties from Rain as long as they remain within it.
+
+
+Purify
+(spell, 1 minute)
+Range: melee        Area of Effect: one object                Duration: instant
+This spell will remove all poison, disease, and contaminants from up to 1 lb of food or 1 gallon of liquid. 1 additional pound of food or gallon of drink can be affected per hit scored on the casting check.
+
+
+Rejuvenation
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (2 * casting check) rounds
+This spell causes the affected target to regain 1 endurance per round for the duration of the spell.
+
+
+Tidal Bow
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Bow humming with tidal forces in the hand of a touched creature. The bow has the following statistics and persists for the full duration of the spell: Damage: 6 (pierce), Range: 60’, Reload: 1 AP, Size: S, Melee Stats: (treat as Medium-Size Club). The target can use her Ranged Weapons skill, or whatever skill was used to cast the spell, when attacking with the howling disc; its attack checks are modified by Intuition as normal for a ranged weapon. Any target hit by the Tidal Bow’s attacks while within its short range is knocked back (5 + (5 * net hits))’, while any target hit by its attacks while outside of its short range is instead pulled (5 + (5 * net hits))’ closer to the caster. The wielder can sheathe and draw the bow normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+________________
+
+
+Adept Incantations
+Aquatic Adaptation
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) hours
+This spell grants the target freedom of movement while within the water. They gain a Swim speed equal to twice their normal Speed, can act and fight uninhibited while underwater, can hold their breath for twice as long as normal, and automatically succeed all Athleticism checks they make with regard to swimming (treat as 10 hits scored, if it matters).
+
+
+Control Water
+(ritual spell, 1 minute)
+Range: 300’ increment        Area of Effect: special                Duration: (casting check) hours
+This spell allows the caster to raise or lower water in a 1,000 square foot area. She can choose to raise or lower the water level up to 20’ feet. If lowered, the spell forms a depression in the water that ships will slide down (and be unable to sail out of), taking (casting check) hull damage in the process and requiring an immediate check for Foundering. If the water is reduced below its maximum depth, the seafloor is exposed and can be walked across normally. If raised, the spell forms a ridge in the water that ships will slide away from (and be unable to sail over), taking (casting check) hull damage in the process and requiring an immediate check for Foundering. The water will remain in its enchanted shape for the duration of the spell, after which is returns to normal. This ritual requires 1 gallon of pure spring water (can be found in any non-arid terrain, but no closer than 50 miles to a Settlement) which must be sprinkled in the general direction of the affected area.
+
+
+Deluge
+(area spell attack, 2 AP)
+Range: caster        Area of Effect: 30’ x 30’ cone        Duration: instant
+This spell blasts all creatures in a 30’ long and 30’ wide cone with a cataract of water. All creatures in the area are knocked prone and pushed back (10 +/- (5 * net hits))’ away from the caster. Those hit are also dazed for (1 + net hits) rounds, reducing their AP by 1.
+
+
+Spiritual Cleansing
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell removes up to (2 +/- net hits) spiritual conditions from the target. Targets that wish to be affected can forfeit the Mind check.
+
+
+Wall of Water
+(wall spell, 2 AP)
+Range: 15’                Area of Effect: special                Duration: (casting check) minutes
+This spell creates a curtain of rushing water that is 5’ wide, 10’ high, and up to 100’ long; at least some part of the wall must be within the base range of the spell, but it can extend beyond this range. The wall of water blocks all normal projectiles (but not siege attacks) and requires 30’ of movement to pass through; creatures with less than this amount of movement remaining are stuck on one side. In addition, any spell being cast through, at, or within 5’ of the wall suffers a -6 penalty to its casting check.
+________________
+
+
+Expert Incantations
+Boon Current
+(enchantment spell, 1 minute/maintain 2 AP)
+Range: special        Area of Effect: one ship                Duration: concentration
+This spell enchants a single ship, making it faster and more maneuverable. The ship’s Speed Rating is increased by 3, its Turning Time is reduced by 1, and its Draft Rating is increased by 2; this Draft Rating increase does not change the depth of water the ship can enter, only helping to stabilize it against wind and storms. In addition, while under this spell, the ship can continue to travel (at 3 Speed) even in complete lack of wind. If the caster ceases to maintain this spell, it ends instantly.
+
+
+Drowning
+(body spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell causes the target to begin drowning for (2 +/- net hits) rounds. While drowning, the target suffers 2 endurance loss per round. If their endurance is reduced to 0 while they are under the effects of this spell, they immediately begin to suffocate as if they had run out of oxygen normally.
+
+
+Living Water
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: caster        Duration: (casting check) minutes
+The caster becomes a creature of pure water. Her creature type changes to Primordial for the duration and she becomes immune to all metabolic, physical, and spiritual ailments. In addition, she gains a +4 bonus to Reflex checks, can defend against melee attacks with Reflex, gains a Swim speed of 120’, and becomes immune to both cold and fire damage. She cannot pass through solid objects, but she can fit through any gap through which water could flow.
+
+
+Rain
+(ritual spell, 1 hour)
+Range: caster        Area of Effect: 120’ radius                Duration: (casting check) hours
+This ritual causes the weather to change to Heavy Rain in an area around the caster. This creates a copious amount of water, helps plants/crops grow (especially in arid areas), and obscures vision at a distance (like normal for the weather effect). This ritual requires 1 gallon of pure spring water (can be found in any non-arid terrain, but no closer than 50 miles to a Settlement) which must be sprinkled in the affected area.
+
+
+Revitalizing Raiment
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with armor composed of cushioning water. This suit of magical Heavy Armor has the following statistics: Resistance: 12/2/6/8, Encumbrance: 8. In addition, the wearer of the armor regains 1 endurance per round, loses 1 spiritual condition affecting them each round, and automatically ends all Bleeding, Burning, or similar ongoing wounds applied to them each round. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+________________
+
+
+Master Incantations
+Maelstrom
+(ritual spell, 1 minute)
+Range: 300’ increment        Area of Effect: 150’ radius                Duration: (casting check) minutes
+This spell can only be cast into a body of water at least 300 square feet in size and creates a massive vortex of water. All ships within the area must immediately make a (Piloting + Agility) vs. casting check every minute or gain 1 stack of Foundering. In addition, all ships in the area have their Speed Rating reduced by (2 * casting check); if this reduces their Speed to 0 or below, they are unable to escape and are pulled towards the center of the maelstrom. All ships within the maelstrom suffer (5 * casting check) hull damage each minute. The ritual requires a ship in a bottle (worth 5g), which must be thrown into the sea to create the effect.
+
+
+Tsunami
+(area spell attack, 2 AP)
+Range: caster        Area of Effect: 240’ x 15’ line        Duration: instant
+This spell attacks all creatures in a 240’ long and 15’ wide line extending from the caster. All creatures in the area are attacked for 7 Crushing damage, knocked prone and pushed back (30 +/- (15 * net hits))’. Those hit are also stunned for (1 + net hits) rounds, reducing their AP by 2. Structures and objects in the affected area are likely to be damaged and/or moved by the spell as well, depending on their size and sturdiness.
+
+
+Wellspring of Purity
+(area spell, 2 AP)
+Range: 60’ increment        Area of Effect: 30’ radius                Duration: instant
+This spell targets a large area and attempts to remove all enchantments from that area, and all enchantments from creatures in that area. The caster must win an opposed casting check against each affected enchantment in order to remove it.

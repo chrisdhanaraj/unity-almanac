@@ -1,0 +1,150 @@
+﻿Bone
+Core Element: Soul (Necromancy only)
+
+
+Bone Cantrips
+Scrimshaw (transmutation spell, 1 minute): This spell can be used to change the shape of a touched bone. The bone can be shaped into any vague or intricate form that the caster wishes. This spell must be used on a freestanding bone; it does not function on sections of larger bone or bone currently still attached to a living creature. The size of the bone that can be affected is based on the casting check: the spell can affect Tiny Size or smaller bones by default; every 2 hits increases the Size Category of bones that can be affected by 1 (e.g. 4 hits would let the caster use Scrimshaw on a Medium Size bone).
+Teeth (ranged spell attack, 1 AP): This spell fires a volley of razor-sharp teeth at an enemy, attacking them for 4 slashing damage. This spell has a range increment of 15’. This spell can only inflict light wounds.
+
+
+Incantation Summary
+(N) Bone Barricade: Creates a temporary wall made of hardened bone.
+(N) Grasping Claws: Summons a field of skeletal hands that grab at anyone nearby.
+(N) Marrow Rot: Makes a creature more vulnerable to damage.
+(N) Stinging Sliver: Fires a razor-sharp sliver of bone at enemies to damage them.
+(N) Whirling Bone Shield: Protects an ally with enchanted bones that block attacks.
+
+
+(A) Arthritic Curse: Enchants an enemies to make their movements slow and feeble.
+(A) Bone Puppets: Allows the caster to take control of undead creatures.
+(A) Deep Mending: Restores internal wounds dealt to an ally.
+(A) Marrow Lance: Summons a javelin of bone that impales enemies.
+(A) Osseous Prison: Encases an enemy in a cage of bones.
+
+
+(E) Bone Spines: Causes spikes to erupt from a creature's body to protect them and damage attackers.
+(E) Cartilaginous Form: Transforms a creature's bones into flexible tissue.
+(E) Carven Cipher: Inscribes knowledge onto bones to preserve it.
+(E) Spinal Spear: Fires a giant spear of pointed bone that rips through enemies.
+(E) Summon Skeletal Fiend: Quickly animates a dead body as a rapidly-decaying skeleton.
+
+
+(M) Bone Storm: Creates a whirling storm of jagged bone that sucks in enemies.
+(M) Ossifying Curse: Transforms a target’s body into solid bone, paralyzing them.
+(M) Slaying Sliver: Summons a bone shard that seeks out vital organs and ruptures them.
+________________
+
+
+Novice Incantations
+Bone Barricade
+(wall spell, 2 AP)
+Range: 15’        Area of Effect: special                Duration: (casting check) minutes
+This spell creates a wall of jutting bones that is 5’ wide, 10’ high, and up to 25’ long; at least some part of the wall must be within the base range of the spell, but it can extend beyond this range. The wall is solid and blocks all movement and attacks. Each section (10’ x 10’) of the wall can be attacked; it has 10 durability and 5 Resistance to all damage types. Any creature that attacks the wall while adjacent to it takes 6 piercing damage.
+
+
+Grasping Claws
+(ground spell, 2 AP)
+Range: 30’ increment                Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell causes dozens of skeletal hands to erupt from the ground in the target area. Any creature that either starts or ends their turn in the affected area becomes grabbed and unable to move until they succeed an (Athleticism + Strength) check against the casting check, or spend 2 AP to carefully extricate themselves.
+
+
+Marrow Rot
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell tenderizes the target, causing them to suffer a -(2 +/- net hits) penalty to all Resistances. If the target is not wearing armor, this can cause their Resistances to become negative; negative Resistance is instead added to any damage of the appropriate type dealt to them.
+
+
+Stinging Sliver
+(ranged spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell attacks an enemy with a tiny shard of razor-sharp bone, dealing 7 piercing damage to them. This spell always inflicts Vein wounds, rather than rolling the location randomly.
+
+
+Whirling Bone Shield
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell protects an ally with (casting check) whirling bones that automatically impose themselves to block attacks. While enchanted, they can use Block to defend against ranged attacks, gain a +4 bonus to Block checks, gain +1 Engagement, and cause any attack that targets Block and glances them to instead miss. However, each time they make a Block check, one of the bones is destroyed as it attempts to block the attack. This spell persists until all of the bones are used or it reaches its maximum duration, whichever happens first.
+________________
+
+
+Adept Incantations
+Arthritic Curse
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell enfeebles the target for (2 +/- net hits) minutes, making it difficult for them to move: they increase the AP cost of moving and making attacks by 1 each (to 2 AP normally) for the duration of the affliction.
+
+
+Bone Puppets
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell allows the caster to dominate a single creature of the Undead type. If the spell hits, the target comes under her control and must obey her commands; as usual, it is allowed to disobey suicidal orders, or those that conflict strongly with its nature. If the target is a normal undead minion type (devourer, skeleton, or zombie), the caster can control it permanently as long as she is not over her minion limit and she feeds it Soul Essence daily. If the target is some other variety of undead, the spell instead persists for (1 + net hits) minutes. Mindless creatures can be targeted and affected by this spell.
+
+
+Deep Mending
+(ritual spell, 1 hour)
+Range: melee                Area of Effect: single target        Duration: permanent
+This spell performs curative magics deep within the target’s body, reducing the duration of all non-permanent Internal Wounds by 1 week. The maximum severity of the wound that can be affected is based on the casting check: 2 - light, 4 - moderate, 5 - severe, 6 - mortal. This ritual requires any bone from a creature of the same species as the caster; the bone cannot have been ‘dead’ for more than 1 week.
+
+
+Marrow Lance
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical bone Javelin in the hand of a touched creature. The javelin has the following statistics and persists for the full duration of the spell: Damage: 4 (pierce), Range: 45, Reload: 0 AP, Size: S, Melee Stats; (as Spear). The target can use her Ranged Weapons skill, or whatever skill was used to cast the spell, when attacking with the marrow lance; its attack checks are modified by Intuition as normal for a ranged weapon. Any target hit by the Marrow Lance’s attacks becomes impaled, preventing them from moving until they spend 2 AP to remove the lance. The wielder can sheathe and draw the lance normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Osseous Prison
+(touch spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell traps a target within a prison of magical bone. If the spell hits, the target becomes imprisoned, preventing them from moving or taking actions. The bones can be attacked by any creature and are hit automatically with any attack. The bones have 15 durability and 8 Resistance; if destroyed, the imprisoned creature is freed immediately. This spell has a maximum duration of (casting check) rounds.
+________________
+
+
+Expert Incantations
+Bone Spines
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell transforms a touched creature’s skin into thick protruding spikes made of bone and cartilage. This suit of magical Heavy Armor has the following statistics: Resistance: 10/6/12/0, Encumbrance: 8. Anyone who attacks the target while in melee takes 8 piercing damage. The target cannot dismiss her Bone Spines if they prove cumbersome; she is stuck with them for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Cartilaginous Form
+(transformation spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell transforms a touched creature’s bones into malleable flesh, making them considerably more flexible and also rather goopy. While under the effects of this spell, the target gains the Ooze descriptor, can pass through any space of 1” or wider, and gains a +12 bonus to Contortion-related checks. However, their Speed is reduced by 20’, they cannot run or sprint, and they suffer a -4 penalty to all Strength checks for the duration. An unwilling target is allowed a Body check (against the casting check) to avoid being affected.
+
+
+Carven Cipher
+(ritual spell, 1 hour)
+Range: melee                Area of Effect: single target        Duration: permanent
+This spell allows the caster to transcribe knowledge onto bones: either her own or those of a willing target. When cast, the caster must choose a single skill with a Trivia function, which represents the information to be preserved with the spell. The spell uses either the caster’s or the target’s total skill dice pool for the check, whichever is higher. Once the skill is chosen, the knowledge is ‘written’ harmlessly onto the target’s skin, and then disappears as it embeds itself into their bones. The affected creature can then call it forth at any time to gain the knowledge carved within, rolling the full dice pool indicated above for the Trivia check; the information appears as ghostly letters glowing on his/her skin when called upon. The Carven Cipher can be used as many times as the target desires and a given creature can have multiple active at a time (with a maximum number equal to their Strength score). The ritual requires 1g in ritual ink with which to pen the information onto the target’s flesh.
+
+
+Spinal Spear
+(area spell attack, 2 AP)
+Range: caster                Area of Effect: 120’ x 5’ line        Duration: instant
+This spell fires a huge spear formed out of a brittle spinal column, attacking all creatures in a 120’ long and 5’ wide line for 8 piercing damage. Creatures hit are knocked prone and impaled, preventing them from standing up or moving until they spend 2 AP to remove the barbs.
+
+
+Summon Skeletal Fiend
+(summoning spell, 2 AP)
+Range: melee                Area of Effect: one corpse                Duration: 1 day
+This spell quickly animates a skeleton from a touched corpse; the corpse can be of any age but must be of Small or Medium Size and contain a skeletal structure. If exploited for this spell, the corpse cannot be returned to life or used for other reanimation spells. The skeleton functions like a normal animated Skeleton (see the Necromancy Discipline for details), but it only remains animated for a maximum of 1 day, after which it crumbles to dust. Only one skeleton can be animated at a time via this spell; if re-cast on a new corpse, any existing skeleton is immediately destroyed.
+________________
+
+
+Master Incantations
+Bone Storm
+(cloud spell, 2 AP)
+Range: 30’ increment                Area of Effect: 5’ radius                Duration: (casting check) minutes
+This spell creates a whirling cloud of bone fragments. The bone storm blocks vision as if it were Fog; creatures within the bone storm are attacked for 8 piercing damage each round. At the start of each of the caster’s turns (beginning on the round after the spell is cast), all creatures within 30’ of the bone storm must make an (Athleticism + Strength) check against the casting check or be pulled (10 + (5 * attack net hits))’ closer to it. The caster can move the bone storm up to 15’ per round by expending 1 AP, otherwise it merely spins in place.
+
+
+Ossifying Curse
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+If this spell hits, it causes the target to begin ossifying for (2 +/- net hits) rounds, inflicting a stacking -2 penalty to Strength, Agility, and Intuition each round. If this debuff reduces all three attributes to 0, the target becomes paralyzed and unable to take any actions; this effect persists for 1 day.
+
+
+Slaying Sliver
+(touch spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: (casting check) rounds
+This spell creates a tiny sliver of bone that attacks a specified target each round for the duration of the spell. Each round, the sliver attacks the target (touch spell attack) and inflicts an Internal Wound to the target of severity based on the attack net hits scored (0-1: light, 2-3: moderate, 4+: severe).

@@ -1,0 +1,156 @@
+﻿Time
+Core Element: Ice
+
+
+Time Cantrips
+Know Age (spell, 1 AP): This spell allows the caster to learn the true age of a touched object or creature. If cast on a fragment of a larger object (such as a bone fragment or a broken brick), the spell will determine the age of the fragment, rather than the original whole object (thus revealing the age at which the object broke). The accuracy of the spell is determined by the number of hits scored:
+*1-2 hits: no information        *5 hits: nearest year
+*3 hits: nearest century        *6 hits: nearest month
+*4 hits: nearest decade        *7+ hits: nearest day
+Suspended Animation (enchantment spell, 1 AP): This spell must be used on a touched nonliving object of Large Size or smaller. It causes the object to cease to age, preserving it in its current moment. For example, this could prevent food from spoiling, prevent a corpse from decomposing, etc. The caster cannot have more than one instance of this spell active at a time.
+
+
+Incantation Summary
+(N) Chronological Jump: Moves an ally through time, causing them to instantaneously appear elsewhere.
+(N) Expeditious Aura: Enchants a creature to protect them from movement-impairing effects.
+(N) Revitalize Recovery: Accelerates the rate at which an ally heals.
+(N) Rewind: Undoes the effects of the last attack done to a creature.
+(N) Time Bomb: Causes an enemy to explode after a short delay.
+
+
+(A) Chronobeacon: Creates a blazing plume of temporal energy the caster can always navigate to.
+(A) Deja Vu: Forces a creature to repeat actions it had recently taken.
+(A) Inevitable Decay: Quickly ages an object to destroy it.
+(A) Temporal Inversion: Allows the caster to learn of events that occurred in the past.
+(A) Time’s Edge: Conjures a magical sword that strikes with amazing rapidity.
+
+
+(E) Desynchronization: Wounds an enemy every time they take actions for a short period.
+(E) Divergence: Briefly alters reality around the caster.
+(E) Haste: Increases the speed with which nearby creatures move and act.
+(E) Slow: Causes nearby creatures to move and act more slowly.
+(E) Trance: Allows the caster to gain the benefits of a Rest in a short period of time.
+
+
+(M) Acceleration: Creates a bubble of sped-up time around the caster.
+(M) Deceleration: Creates a bubble of slowed-down time around the caster.
+(M) Temporal Suspension: Prevents anything from affecting a creature for a short period of time.
+________________
+
+
+Novice Incantations
+Chronological Jump
+(spell, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell pushes a targeted ally through time, causing them to disappear and instantly reappear in another location up to  (5 * ½ casting check)’ away. This movement is not considered a teleport, nor does it provoke opportunity attacks (spacetime is complicated).
+
+
+Expeditious Aura
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with an aura of warped time that takes the form of armor. This suit of magical Light Armor has the following statistics: Resistance: 1/1/1/0, Encumbrance: 0. The spell also grants the target +15’ Speed and prevents their Speed from being reduced below its maximum value by any effect. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Revitalize Recovery
+(enchantment spell, 1 minute)
+Range: melee        Area of Effect: single target        Duration: 1 day
+This spell increases the rate at which a living creature heals. The target recovers 1 additional endurance per hour while affected by this spell. In addition, if the enchantment persists for its full duration (1 day), it immediately reduces the duration of all wounds affecting the target by 1 day; however, the casting check must reach certain thresholds to affect higher severity of wounds: Difficulty: 1 must be met to affect light wounds; Difficulty: 2 for moderate; Difficulty: 3 for severe; and Difficulty: 4 for mortal. If the target loses endurance for any reason while affected by Revitalize Recovery, the spell ends early and they do not benefit from the accelerated wound healing.
+
+
+Rewind
+(spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: instant
+This spell causes the effects of the last attack made against the target within 1 round to be undone. The caster must make a casting check against the check made by the attack in question; if she succeeds, the full effects of the attack (wounds, conditions, other effects) are negated as if they never occurred. If she fails, nothing happens. This spell is not considered a healing effect.
+
+
+Time Bomb
+(enchantment spell, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: special
+This spell enchants a target creature, causing them to explode after a short delay. The enchantment has a duration of 1d6 rounds, which should be rolled in secret by the GM. If Time Bomb is not dispelled or otherwise removed before it ends naturally, it explodes and deals 8 crushing damage to the target and everyone within 10’ of them. Creatures in the explosion, including the primary target, are allowed to roll defenses against the spell as if it was an (area spell attack).
+________________
+
+
+Adept Incantations
+Chronobeacon
+(ritual spell, 1 hour)
+Range: caster        Area of Effect: special                Duration: permanent
+When this spell is cast, it marks the caster’s current location with a brilliant beacon of temporal energy that only she can see. As long the beacon persists, the caster can inerrantly find her way to it from any location in the world, without needing to make Bushcraft checks to navigate. The Chronobeacon is permanent, but only one cast exist at a time. This ritual requires a timekeeping device of some sort (worth at least 1g).
+
+
+Deja Vu
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell forces a target to repeat the last action they took. If the spell hits, on the target’s next turn they will attempt to mimic the last single action they made. If this action involved movement, they will attempt to move in the same direction (e.g. if they moved 15’ forward and 10’ to the left, they will attempt to do so again and in the same order), but will stop moving if inhibited by a solid object. If this action was an attack, spell, or other ability, they will attempt to use it again on the same target/location. If the ability in question was limited-use and/or is unavailable, they must use another ability of the same type (weapon attack, spell, etc.). If the target/location of the ability is unavailable, they are free to choose a new target. This spell can cause the target to perform obviously harmful/suicidal behavior, such as walking off a cliff, moving into the reach of a dangerous enemy, or dropping a firebomb onto their allies’ heads.
+
+
+Inevitable Decay
+(touch spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: one object                Duration: instant
+This spell targets a nearby object (including weapons and armor) of Medium Size or smaller. Unattended objects immediately crumble into a pile of dust and are thus utterly destroyed, while attended objects are allowed a defense check on the part of their wielder to avoid the effect. If hit, the object rapidly ages, becoming useless; weapons and shields cannot be used, armor provides no Resistance. Runic or otherwise enchanted items can be repaired normally; high-quality items can be repaired, but their quality is permanently reduced by 1 step; mundane items of Normal quality or lower are irrevocably destroyed.
+
+
+Temporal Inversion
+(spell, 1 minute/maintain 2 AP)
+Range: caster        Area of Effect: special                Duration: special
+This spell allows the caster to read a touched creature, object, or area to learn of emotional events from its past. When used, the spell will reveal any emotional events that occurred during the history of the target. These could include a battle that took place in a field, a child crying over a toy when it broke, a wedding that took place in a chapel, or a old woman fondly remembering her family from a gift they gave her. These events occur in real time; thus, the caster must maintain concentration of this ability to gain useful information. If multiple emotional events occurred within the object/ location’s history, they will be revealed to the caster in reverse chronological order (i.e. the most recent event demonstrated to her first). Each hour that the caster maintains this spell deals 1 endurance loss to her. The maximum distance into the past she can view is based on the number of hits scored on the casting check:
+        *1 hit: One week limit.                *4 hits: One decade limit.
+        *2 hits: One month limit.                *5 hits: One century limit.
+        *3 hits: One year limit.                *6+ hits: One millennium limit.
+
+
+Time’s Edge
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Dueling Blade coalesced from temporal energies in the hand of a touched creature. The sword has the following statistics and persists for the full duration of the spell: Attack: 4/6/0, Defense: 6, Damage: 5 (slashing), Reach: 5’, Size: S. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with time’s edge; its attack checks are modified by Strength or Agility (depending on how it is wielded) as normal for a 1-handed weapon. The wielder of Time’s Edge is allowed to attack any number of times per round with the weapon, provided she has sufficient AP to do so. The wielder can sheathe and draw the sword normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+________________
+
+
+Expert Incantations
+Desynchronization
+(spell body attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell causes the target to become desynchronized with time, tearing their body apart whenever they act. The target becomes desynchronized for (2 +/- net hits) rounds; while suffering from this effect, whenever they spend 1 AP in a round, they suffer 6 trauma damage. Whenever they spend 2 AP in a round, they suffer 11 trauma damage instead. If the target is immune to Trauma damage, they suffer Crushing damage instead.
+
+
+Divergence
+(enchantment spell, 1 minute)
+Range: melee        Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell briefly alters reality in a small radius around the caster. When she casts this spell, the caster is allowed to theorize how different events might have created a reality different from her own; the spell will then attempt to alter reality to match this divergent timeline. Living creatures cannot be affected by Divergence, meaning the caster cannot will her enemies out of reality; however, she could, for example, postulate that an aristocrat suffered some family catastrophe and was never able to renovate his estate, and the spell would then return the grounds to decrepitude and remove the newly-built fortifications preventing the caster’s entry. When the enchantment ends, reality reasserts itself and everything returns to normal.
+
+
+Haste
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: 15’ radius                Duration: instant
+This spell grants all creatures within 15’ of the caster haste for (casting check) rounds, which grants them +15’ Speed, +2 Initiative, and +1 AP per round. However, any creature with haste also loses 1 endurance per round while under its effects.
+
+
+Slow
+(body spell attack, 2 AP)
+Range: caster        Area of Effect: 15’ radius                Duration: instant
+This spell attacks all creatures within 15’ of the caster and slows them for (2 +/- net hits) rounds, which reduces their Speed by 15’, their Initiative by 2, and reduces their AP per round by 1.
+
+
+Trance
+(ritual spell, 1 minute)
+Range: caster        Area of Effect: caster                Duration: instant
+By casting this spell, the caster gains the full benefit of a Rest in only 1 minute. This includes ability recharge, endurance recovery, wound healing, etc. However, this Rest also counts as her Rest for the day, meaning she cannot use Trance and then Rest normally in the same 24-hour period. Any resources spent to cast Trance are not recovered in the Rest it grants. This ritual requires a pouch full of soft down (worth 10s).
+________________
+
+
+Master Incantations
+Acceleration
+(ritual spell, 1 minute)
+Range: caster        Area of Effect: 15’ radius                Duration: special
+When this spell is cast, the caster creates a sphere of accelerated time in a 15’ radius around herself. She and all creatures within the sphere perceive events outside the sphere as occurring extremely quickly; in reality, for every minute that passes within the sphere, 24 hours pass outside it. The caster and anyone else with her are free to act normally while inside the affected area, but none of their actions can affect the outside world. Observers outside the sphere see the creatures inside as moving in extreme slow motion. Creatures within the area cannot enter or leave after the spell has been cast. When the spell is cast, they are allowed a normal defense check against an area attack to escape the area if they wish; success allows them to dash up to 15’, putting themselves outside of the affected area. Acceleration persists for (casting check) minutes inside the area (meaning an equal number of days pass outside) and its duration cannot be reduced or increased. This ritual requires an hourglass with no sand in it (worth 75s, or 50s for a normal hourglass and an (Engineering + Knowledge) check, Difficulty: 3, to tinker with it).
+
+
+Deceleration
+(ritual spell, 1 minute)
+Range: caster        Area of Effect: 15’ radius                Duration: special
+When this spell is cast, the caster creates a sphere of decelerated time in a 15’ radius around herself. She and all creatures within the sphere perceive events outside the sphere as occurring in extreme slow motion; in reality, for every 24 hours that pass within the sphere, 1 minute passes outside it. The caster and anyone else with her are free to act normally while inside the affected area, but none of their actions can affect the outside world. While the caster can Rest while within the sphere, she cannot recover the resources spent to cast this spell while it is in effect. Observers outside the sphere see the creatures inside as moving extremely quickly. Creatures within the area cannot enter or leave after the spell has been cast. When the spell is cast, they are allowed a normal defense check against an area attack to escape the area if they wish; success allows them to dash up to 15’, putting themselves outside of the affected area. Deceleration persists for (casting check) days inside the area (meaning an equal number of minutes pass outside) and its duration cannot be reduced or increased. This ritual requires an hourglass completely full of sand (worth 75s, or 50s for a normal hourglass and an (Engineering + Knowledge) check, Difficulty: 3, to tinker with it).
+
+
+Temporal Suspension
+(enchantment spell, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell places a target in temporal suspension, preventing anything from affecting them. If the target is unwilling, this spell is considered a (body spell attack). If the spell hits, or if the target is willing, they become placed in stasis for (casting check) rounds; this means they cannot take actions, take damage, be targeted by any ability, skill, or effect, and do not change the duration of any condition, enchantment, or other effect (other than the stasis effect itself) affecting them. This spell can also be cast as a ritual spell (with a casting time of 1 minute); if cast as a ritual, the spell’s duration is extended to (casting check) days, weeks, or months (caster’s choice). the ritual version requires a carved stone hourglass (worth 1g).

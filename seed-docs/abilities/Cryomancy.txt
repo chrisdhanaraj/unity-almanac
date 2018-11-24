@@ -1,0 +1,152 @@
+﻿Cryomancy
+Core Element: Ice
+
+
+Cryomancy Cantrips
+Chill (spell, 1 AP/maintain 1 AP): The caster can cool an object or area within 15’ of herself. As long as she maintains the spell, the object/area gradually becomes colder and colder. A single space can be cooled sufficiently to stave off hot temperatures, while an object can be cooled sufficiently to freeze water or food, etc. This spell cannot cause damage.
+Icicle (ranged spell attack, 1 AP): The caster hurls a shard of ice at a target. This spell has a range increment of 15’ and deals 3 cold damage. This can only inflict light wounds.
+
+
+Incantation Summary
+(N) Freeze: Creates a large patch of slippery ice.
+(N) Frostbite: Slows a target and makes them more vulnerable.
+(N) Ice Shard: Fires an ice fragment that damages and freezes an enemy.
+(N) Shape Ice: Allows the caster to create and sculpt ice.
+(N) Winter Crescent: Summons a magical axe made of razor-sharp ice.
+
+
+(A) Arctic Squall: Deals cold damage in an area.
+(A) Cooling Current: Enchants an object to radiate cold.
+(A) Ice Mirror: Protects an ally with a reflective ice barrier.
+(A) Mind Freeze: Removes mental effects from nearby creatures.
+(A) Wall of Ice: Creates a wall of glimmering ice that explodes if broken.
+
+
+(E) Aura of Rime: Surrounds the target with an aura that freezes nearby creatures.
+(E) Flash Freeze: Briefly encases a creature in a block of ice.
+(E) Glacial Encasement: Surrounds an ally with heavy armor composed of impenetrable ice.
+(E) Ice Lance: Damages and freezes enemies in a line with a giant icicle.
+(E) Living Ice: Transforms the caster into a creature of pure cold.
+
+
+(M) Arctic Retreat: Creates a great mansion made purely of ice.
+(M) Blizzard: Summons a polar storm to freeze those unlucky enough to be in the area.
+(M) Eternal Winter: Changes the weather in an area to snow...permanently.
+________________
+
+
+Novice Incantations
+Freeze
+(ground spell, 2 AP)
+Range: 30’ increment        Area of Effect: 15’ radius                Duration: special
+This spell creates a 15’ radius patch of slippery ice on the ground. Any creature attempting to move while on the ice can do so at half speed with no penalties. If they move at full speed or faster, they must make an (Acrobatics + Agility) check with a Difficulty equal to the casting check or fall prone and end their movement. If the temperature is below freezing, the ice lasts indefinitely, otherwise it persists for (casting check) minutes in temperate climates or (casting check) rounds in hot climates. This spell can be cast on water as well in order to freeze the surface, allowing creatures to walk across.
+
+
+Frostbite
+(body spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell inflicts the target with frostbite for (4 +/- net hits) rounds, which reduces their Speed by 15’ and their Resistance to all damage types by 2.
+
+
+Ice Shard
+(ranged spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell fires a shard of ice at the target, dealing 5 damage to them. If the spell hits, the target is also frozen for (1 + net hits) rounds, preventing them from moving.
+
+
+Shape Ice
+(spell, 2 AP/maintain 2 AP)
+Range: caster        Area of Effect: special                Duration: (casting check) minutes
+This spell allows the caster to create and sculpt ice. She can carve already-present ice into wondrous shapes and sculptures, using (Artistry + Magic) to determine the quality of her artwork. If she wishes to create ice to shape, the casting time increases to 1 minute and she creates (casting check) cubic feet of ice that she can then shape. This spell has a maximum duration of (casting check) minutes and cannot affect any single block of ice larger than Large Size.
+
+
+Winter Crescent
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical one-handed Axe with a blade of razor ice in the hand of a touched creature. The axe has the following statistics and persists for the full duration of the spell: Attack: 5/3/0, Defense: 0, Damage: 9 (cold), Reach: 5’, Size: S. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the Winter Crescent; its attack checks are modified by Strength or Agility (depending on how it is wielded) as normal for a 1-handed weapon. Whenever the Winter Crescent applies a wound to a target, it also applies a light Trauma wound to them at the same location. The wielder can sheathe and draw the sword normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+________________
+
+
+Adept Incantations
+Arctic Squall
+(cloud spell, 2 AP)
+Range: 30’ increment        Area of Effect: 10’ radius                Duration: (casting check) rounds
+This spell creates a torrent of ice in a targeted location; all creatures in the affected area take 6 cold damage each round and are slowed as long as they remain within the area, reducing their Speed by 50%.
+
+
+Cooling Current
+(ritual spell, 1 minute)
+Range: melee        Area of Effect: single target        Duration: 1 day
+This ritual spell enchants a small gemstone to radiate cold as though it was a sliver of the arctic. This cold does not deal damage and projects in a 30’ radius around the stone, causing any creature within the area to ignore the effects of extreme heat. While this does not protect against Fire damage, it does allow the holder and those near her to travel through overly-hot areas, such as the desert, more easily. In game terms, this spell reduces total daily exposure suffered while in Desert, Shrubland, Volcanic or other hot biomes by half, and reduces exposure by half from hot storms such as Ashfall. This ritual requires a gemstone to enchant; the gem must be worth at least 1g but is unharmed by the spell’s casting.
+
+
+Ice Mirror
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell surrounds a touched ally with a barrier of reflective ice. Any ranged or spell attack used against the target that would glance them instead misses and is reflected back against the attacker. Melee, shout, and area attacks are not affected.
+
+
+Mind Freeze
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell removes up to (2 +/- net hits) mental conditions from the target. Targets that wish to be affected can forfeit the Mind check.
+
+
+Wall of Ice
+(wall spell, 2 AP)
+Range: 15’        Area of Effect: special                Duration: (casting check) minutes
+This spell creates a curtain of ice that is 5’ wide, 10’ high, and up to 100’ long; at least some part of the wall must be within the base range of the spell, but it can extend beyond this range. The wall is a solid object and blocks vision and projectiles. Each section (10’ x 10’) of the wall can be broken by dealing 10 total physical or elemental damage to it (fire damage is twice as effective, but the wall is immune to cold). If broken, that section of the wall explodes into ice shards (area spell attack), dealing 9 cold damage in a 5’ radius
+________________
+
+
+
+
+Expert Incantations
+Aura of Rime
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell surrounds the target with an aura of frost, granting them Resistance: 10 to cold damage. In addition, at the start of each of their turns, they attack all creatures adjacent to them for 5 cold damage (area spell attack); creatures hit suffer frostbite for (1 + attack net hits) rounds, reducing their Speed by 15’ and their Resistance to all damage types by 2.
+
+
+Flash Freeze
+(reflex spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell, if it hits, encases the target in an ice block for (2 + net hits) rounds. While trapped, they cannot take actions, take damage, be targeted by any ability, skill, or effect, and do not change the duration of any condition, enchantment, or other effect (other than the ice block effect itself) affecting them. Each round that they are trapped in the ice block, they suffer a light Cold wound. Other creatures can attack the ice block; it shatters after taking 20 damage from any source, takes double damage from fire, and is immune to cold. If the ice block is broken, the trapped target is freed and can act again normally.
+
+
+Glacial Encasement
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with armor composed of impenetrable glacial ice. This suit of magical Heavy Armor has the following statistics: Resistance: 4/12/8/4, Encumbrance: 8. The armor also grants an additional Resistance: 10 to cold damage and causes any single-target melee attack that glances the wearer to instead miss and be reflected by at the attacker. Area, ranged, spell, and shout attacks are not affected. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Ice Lance
+(area spell attack, 2 AP)
+Range: caster        Area of Effect: 60’ x 5’ line                Duration: instant
+This spell creates a giant icicle which attacks all creatures in a 60’ long and 5’ wide line extending from the caster. All creatures in the area are attacked for 7 cold damage; those hit are frozen for (1 + net hits) rounds, preventing them from moving.
+
+
+Living Ice
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: caster        Duration: (casting check) minutes
+The caster becomes a creature of pure cold. Her creature type changes to Primordial for the duration and she becomes immune to all metabolic and physical ailments. In addition, she gains an additional Resistance: 10 to Crushing, Piercing, and Slashing damage, becomes immune to Cold damage, and takes double damage from Fire. She also gains +15’ Speed, does not provoke opportunity attacks for any reason, cannot be knocked prone, and all of her attacks deal cold damage rather than their normal damage types.
+________________
+
+
+Master Incantations
+Arctic Retreat
+(ritual spell, 1 day)
+Range: caster        Area of Effect: special                Duration: permanent
+This spell creates a dwelling constructed entirely from ice. The retreat is up to 2500 square feet (50’ square) in size and the caster can shape the building however she wishes, within reason; she is not required to make a perfectly square dwelling. She can form rooms, stairs, and doors within it as she desires; the doors will automatically open for the caster and anyone she designates as being allowed within. 5’ square sections of the Arctic Retreat (or its doors) can be attacked and destroyed (durability: 20), but destroyed sections will regenerate within 1 day unless the entire retreat is destroyed. Creatures within the retreat are immune to environmental effects, terrain hazards, and weather effects. In addition to the structural components, the Arctic Retreat is also furnished as desired by the caster and is filled with chairs, tables, doors, etc; all of these are made out of ice as well, of course. The retreat is permanent in colder climates, but will eventually melt if the ambient temperate is above freezing for more than 12 hours per day; in addition the caster can only have one active at a time. This ritual requires a finely crafted miniature palace carved out of ice (worth 5g).
+
+
+Blizzard
+(area spell attack, 2 AP)
+Range: 60’ increment        Area of Effect: 30’ radius        Duration: (2 * casting check) rounds
+The caster creates a harrowing winter storm in the target area; all creatures in the area suffer visibility penalties as if from Fog, take 5 cold damage per round they remain within the blizzard, and suffer frostbite as long as they remain within and for (casting check) rounds afterwards, reducing their Speed by 15’ and their Resistance to all damage types by 2. The blizzard leaves behind copious amounts of snow; once the effect has ended, the affected area is treated as Difficult Terrain until the snow melts (dependent on ambient temperature).
+
+
+Eternal Winter
+(ritual spell, 1 day)
+Range: caster        Area of Effect: 500’ radius                Duration: permanent
+This spell transforms the area around where the spell is cast into a winter wonderland. The temperature will drop to below freezing and snow will fall on a regular basis, accumulating sufficiently to 1’ or more on the ground at all times. Most plant life will die due to the cold temperatures, but conifer trees may survive; likewise, most non-arctic wildlife in the area will likely head to warmer regions. This spell is permanent, but the caster cannot have more than once instance of Eternal Winter active at a time. The ritual requires a finely-crafted glass snowglobe worth 25g; this item is unharmed in the spell’s casting.

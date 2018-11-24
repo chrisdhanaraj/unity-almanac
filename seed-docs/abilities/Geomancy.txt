@@ -1,0 +1,150 @@
+﻿Geomancy
+Core Element: Earth
+
+
+Geomancy Cantrips
+Disrupt Earth (ground spell, 1 AP): This spell creates an area of Difficult Terrain in a single 5’ x 5’ space. This spell has a range increment of 15’ and requires 3 hits on the casting check to function.
+Stoning (ranged spell attack, 1 AP): This spell hurls a small rock at an enemy, attacking them for 4 crushing damage. This spell has a range increment of 15’. This spell can only inflict light wounds
+
+
+Incantation Summary
+(N) Aftershock: Knocks down enemies around the caster.
+(N) Fists of Granite: Transforms a creature’s hands into solid rock, making their punches deadly.
+(N) Shape Earth: Changes the shape of a touched rock.
+(N) Stone Spike: Attacks an enemy with a piercing lance of rock.
+(N) Tremorsense: Allows the target to sense vibrations within the earth.
+
+
+(A) Earthen Shield: Surrounds an ally with enchanted stones to protect them from damage.
+(A) Harden Earth: Transforms mud and sand into stable terrain.
+(A) Smother: Removes ground effects and difficult terrain from an area.
+(A) Soften Earth: Transforms solid earth into pliable mud.
+(A) Wall of Stone: Summons a wall of unbreakable stone.
+
+
+(E) Chasm: Opens a gaping raving in the earth.
+(E) Control Earth: Shapes the earth to build trenches, hills, etc.
+(E) Earth Walk: Allows a creature to walk through solid rock.
+(E) Living Rock: Transforms the caster into a creature of pure earth.
+(E) Stoneskin: Summons a shell of impenetrable stone to protect an ally.
+
+
+(M) Earthquake: Shakes the earth in a large area to damage structures and knock down people.
+(M) Landslide: Creates a crushing wave of stone and earth.
+(M) Stone Carriage: Summons a giant boulder that can carry the caster and her allies.
+________________
+
+
+Novice Incantations
+Aftershock
+(area spell attack, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: instant
+This spell shakes the earth around the caster, attacking all creatures within 15’ of her and knocking them prone. Those hit are shaken and cannot stand up for (net hits) rounds.
+
+
+Fists of Granite
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell causes a touched creature’s hands to transform into solid rock. This natural weapon has the following statistics and persists for the full duration of the spell: Attack: 0/0/8, Defense: 8, Damage: 7 (crush), Reach: 5’, Size: T. The target can use her Unarmed skill, or whatever skill was used to cast the spell, when attacking with her stone fists; the attack checks are modified by Strength or Agility (whichever the character prefers) as normal for Unarmed attacks. Whenever the character hits with a Fists of Stone attack, she knocks her target prone. The wielder can sheathe and draw the magic fist effect normally; while “sheathed,” her hands transform back to normal and can be used normally.
+
+
+Shape Earth
+(transformation spell, 1 minute)
+Range: melee                Area of Effect: one stone                Duration: permanent
+This spell can be used to change the shape of a touched block of stone. The stone can be shaped into any vague form the caster wishes, though fine detail is not possible with this spell; for example, she could make an opening or a basin, but not a moving set of stone gears. This spell must be used on a freestanding stone; it does not function on sections of larger stone objects (such as a wall or cliff). The size of the stone that can be affected is based on the casting check: the spell can affect Medium Size or smaller stones by default; every 2 hits increases the Size Category of stones that can be affected by 1 (e.g. 4 hits would let the caster use Shape Earth on a Huge boulder).
+
+
+Stone Spike
+(ranged spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell attacks the target with a razor-sharp stone spike, dealing 8 piercing damage to them. If this spell inflicts a wound, it will automatically be of the Vein type.
+
+
+Tremorsense
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) hours
+This spell grants a target creature Tremorsense, allowing them to detect vibrations in the earth around themselves in a 60’ radius. See the Core Rules section for more details on Tremorsense.
+________________
+
+
+Adept Incantations
+Earthen Shield
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell protects an ally with a shield of earth. While enchanted, they gain a +2 bonus to Block checks, cause any attack that would glance them to instead miss, and reduce the severity of all wounds applied to them by 1 step.
+
+
+Harden Earth
+(transformation spell, 2 AP)
+Range: 30’ increment                Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell transmutes a 15’ radius area of mud, sand, or quicksand into stable solid earth. Creatures caught in the mud when it hardens must make a Reflex check or become buried and unable to move until they spend 2 AP to dig themselves free. The affected area loses all ground effects derived from its formerly-loose terrain and can be walked across safely. When the spell’s duration ends, the hardened earth returns to its softened state; light rain/snow will halve the duration of this spell, while heavy rain/snow or a storm will quarter it.
+
+
+Smother
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: (casting check) minutes
+The caster puts out fires and other ground-affecting hazards around herself. This spell removes all ground effects and difficult terrain in the area around the caster, and prevents new ground effects or difficult terrain from forming there. Effects existing only partially within the affected area are only suppressed where the two overlap.
+
+
+Soften Earth
+(transformation spell, 2 AP)
+Range: 30’ increment                Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell transmutes up a 15’ radius area of hardened earth or stone into mud. Creatures within 5’ of the edge of the affected area are allowed a Reflex check to avoid falling into the mud, otherwise they quickly sink up to their waist. The affected area is considered difficult terrain and also slows creatures within, reducing their Speed by 15’ as long as they remain there. This spell cannot be used on worked stone and thus cannot be used to destroy buildings, nor can it collapse natural caverns. When the spell’s duration ends, the softened earth re-hardens; light rain/snow will double the duration of this spell, while heavy rain/snow or a storm will triple it. Creatures caught in the mud when it hardens are buried and cannot move until they spend 2 AP to dig themselves free.
+
+
+Wall of Stone
+(wall spell, 2 AP)
+Range: 15’        Area of Effect: special                Duration: (casting check) minutes
+This spell creates a barrier of solid rock that is 5’ wide, 10’ high, and up to 100’ long; at least some part of the wall must be within the base range of the spell, but it can extend beyond this range. The wall is solid and blocks attacks and movements accordingly. It will also meld with adjacent stone surfaces to form a solid support/foundation for whatever shape it takes. Each section (10’ x 10’) of the wall has 15 durability and 10 Resistance. Alternatively, this spell can be cast as a ritual that requires 1 day; this makes the Wall of Stone permanent, but also requires a handful of pure earth (can be found in any biome, but no closer than 50 miles to a Settlement).
+________________
+
+
+Expert Incantations
+Chasm
+(ground spell, 2 AP)
+Range: 30’ increment                Area of Effect: special                Duration: (casting check) minutes
+This spell creates a gaping chasm in the earth 5’ wide and up to 60’ long. Like a wall spell, the chasm can be shaped as the caster desires but must form one contiguous object. The chasm is 10’ deep; creatures in spaces it occupies when the spell is cast must make a Reflex check or fall in, taking falling damage and falling prone as normal. The walls of the chasm are considered to be rough rock face for the purposes of climbing. When the spell ends, the chasm closes and returns to the previous terrain. Creatures caught in the chasm when it closes are shunted upwards out of it; they are knocked prone as part of the experience but are otherwise unharmed. The caster can double the width (to 10’) or the depth (to 20’) by halving the length of the chasm, or double the width and depth by quartering the length.
+
+
+Control Earth
+(ritual spell, 1 hour)
+Range: caster                Area of Effect: 500’ radius                Duration: permanent
+This spell allows the caster to reshape the earth in a 500’ radius area around herself. She can dig trenches, form hills, smooth out sand dunes, shift ridges, etc. Solid rock formations cannot be affected, and she cannot change the height of any piece of terrain by more than 20’. Trees, boulders, and buildings within the area of effect will be gently raised or lowered to the new terrain height/shape and will not be adversely affected by the casting of the spell. Once shaped, the new topography becomes permanent. This spell is not precise enough to dig tunnels or create structures. This ritual requires a handful of pure earth (can be found in any biome, but no closer than 50 miles to a Settlement) which must be sprinkled over the affected area.
+
+
+Earth Walk
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This enchantment affects one touched ally. For its duration, that ally can walk through natural or worked earth/stone objects; they are considered to be Incorporeal while passing through objects. This spell does not allow them to see through said stone and they become corporeal again as soon as they leave the object. The target cannot ‘partially’ leave a solid object (e.g. they cannot stick their head out to peer around).
+
+
+Living Rock
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: caster        Duration: (casting check) minutes
+The caster becomes a creature of pure stone. Her creature type changes to Primordial for the duration and she becomes immune to all metabolic and physical ailments. In addition, she gains +10 Resistance to all damage types, complete immunity to forced-movement and prone effects, and she deals +2 damage with all melee attacks. She also gains Tremorsense in a 60’ radius and a Burrow speed equal to her base Speed.
+
+
+Stoneskin
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell sheathes the target with a second skin of solid stone. This suit of magical Heavy Armor has the following statistics: Resistance: 8/15/14/6, Encumbrance: 10. In addition, the wearer of the armor is also immune to all metabolic conditions, positive or negative, while wearing it; preexisting status effects are not removed by this spell. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+________________
+
+
+Master Incantations
+Earthquake
+(ground spell, 2 AP)
+Range: 60’ increment                Area of Effect: 30’ radius                Duration: (casting check) rounds
+This spell causes the earth to shake in the targeted area. All creatures in the targeted area must succeed (Acrobatics + Agility) checks (against the casting check) each round or fall prone. Any prone creature in the area takes 7 Crushing damage. Structures in the area take twice this amount of damage, and those without sturdy foundations negate any Resistance they might have.
+
+
+Landslide
+(area spell attack, 2 AP)
+Range: caster                Area of Effect: 120’ x 15’ line        Duration: instant
+This spell unleashes a violent torrent of churning stone in a 60’ long and 15’ wide line. All creatures in the area are attacked for 10 physical damage; creatures hit are pushed back (20 + (20 * net hits))’. They will not be pushed farther than the maximum extent of the landslide effect. All affected creatures become buried in the rubble, becoming buried and unable to move until they spend 2AP to free themselves. The area affected by the landslide becomes difficult terrain permanently (or until someone spends a day to clean up the mess).
+
+
+Stone Carriage
+(enchantment spell, 1 minute)
+Range: melee                Area of Effect: one boulder        Duration: 1 day
+This spell causes a Gigantic-Size flat stone to erupt from the earth in an open area adjacent to the caster. The stone is approximately 20’ in diameter, allowing it to hold 12 Medium Size creatures at once. While multiple creatures can ride the stone (using Riding checks normally if they wish to perform other actions while atop it), only the caster can control it, using either her Riding skill or casting check skill for all checks required. The stone will not shy from combat (it’s a rock….), but will not attack; it has a base Speed of 50’ and travels overland as though it were a horse. The stone can be attacked and possibly destroyed; it has 40 durability and 10 Resistance. The Stone Carriage persists for a full day, or until destroyed.

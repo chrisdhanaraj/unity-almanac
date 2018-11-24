@@ -1,0 +1,150 @@
+﻿Divination
+Core Element: Light
+
+
+Divination Cantrips
+Estimation (divination spell, 1 AP): This spell allows the caster to make a guess as to the total number of a group of objects/creatures in a given area. This could include beans in a jar, coins in a dragon’s hoard, or soldiers in an army encampment. The majority of the objects must be within the caster’s line of sight (thus she could estimate the number of buildings in a town in a valley below her, but not the number of cats in said town). The spell will be accurate to a number of places equal to half casting check and will round the remainder of the value. For example, if the caster wants to determine the number of soldiers in a camp (actual number: 3,652) and rolls 3 hits on her check, the spell will tell her there are 4,000 soldiers in the camp. If she had rolled 4 hits, the spell would tell her there were 3,700 soldiers in the camp instead.
+Finding (divination spell, 1 AP): This spell allows the caster to locate a nearby item she can picture clearly within her mind (she must have seen and held it at least once for this to function). If the object is within (casting check *10)’, the spell will direct the caster to it without err.
+
+
+Incantation Summary
+(N) Detect Magic: Reveals the presence of magic and scrying around the caster.
+(N) Dowsing: Directs the caster towards an object or concept of her choice, such as food, water, or fire.
+(N) Empathic Reading: Detects the intentions and attitude of nearby creatures.
+(N) Premonition: Shows a vague prediction of the immediate future.
+(N) Sibyl’s Staff: Summons a magical weapon that defends the wielder and makes them more acute.
+
+
+(A) Intuitive Aura: Protects an ally with a magical aura that helps them to avoid danger.
+(A) Piercing Vision: Grants the target the ability to see through invisibility and walls.
+(A) Secret Window: Makes a solid object transparent to the caster and permitted allies.
+(A) Visualization: Allows the caster to gain awareness of a whole object from its broken pieces.
+(A) Wandering Eye: Creates a magical floating eye that can be controlled remotely.
+
+
+(E) Divine Location: Reveals the location of a targeted creature or object.
+(E) Far Sight: Allows the caster to view and listen to faraway places.
+(E) Legend Lore: Shows information about the history and legends surround a place, object, or creature.
+(E) Prophecy: Shows a vague prediction of the far future.
+(E) True Striking: Grants an ally a large bonus to accuracy with attacks.
+
+
+(M) Auspicious Omen: Grants the caster brief portents of the future.
+(M) Limitless Eye: Gain the ability to see through the eyes of many nearby creatures.
+(M) True Sight: Allows the caster to see through illusions, disguises, and false pretenses.
+________________
+
+
+Novice Incantations
+Detect Magic
+(divination spell, 2 AP)
+Range: caster                Area of Effect: 60’ radius                Duration: instant
+This spell detects the presence of magic, spells, and enchantments in a large area. When cast, the spellcaster’s casting check is used as the result for a normal Spellsight check in the area of effect; she gains a +8 bonus this check as well. This spell will provide all non-item-identifying uses of Spellsight with a single casting of the spell. Only a single check is rolled and automatically grants all applicable uses for which the caster meets the Difficulty. This spell is Subtle.
+
+
+Dowsing
+(divination spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) minutes
+This spell, when cast, attunes the caster to a specific type of object or concept of her choice, such as water, gold, food, etc. She gains the ability to unerringly divine the location of whatever she selected relative to her own, provided some amount of the target is within (casting check *100)’. This spell is quite accurate (“200’ to the west and 10’ above you”), and can be directed by the caster actively observing her surroundings (1 AP).
+
+
+Empathic Reading
+(mind spell attack, 2 AP)
+Range: caster                Area of Effect: 10’ radius                Duration: instant
+This spell divines the true nature and intentions of nearby creatures. All creatures in the affected area are attacked; if any creature is hit, the caster can learn the following information about them: Attitude towards her, profession (if any), Disciplines and Ranks (if any), and any charm or disguise effects active on them. This spell is Subtle and a Divination.
+
+
+Premonition
+(ritual spell, 10 minutes)
+Range: caster                Area of Effect: caster                Duration: instant
+This spell allows the caster to make a vague prediction regarding the near future. She must ask a single specific question regarding the future such as, “Should we storm the castle this week?” or “Will we succeed in our quest to free the prince?” Questions that are overly vague/open-ended (such as “What will happen this week?”) will not result in any useful response. Otherwise, the caster receives a sign or signal symbolizing the answer to the question; this should be phrased in such a way as to make several interpretations possible, like any good prophecy. For example, the Premonition could take the form of a red thrush alighting on a nearby bush, or the words, “Night fades before the coming storm,” being whispered on the wind. This spell will ‘predict’ events a maximum of (casting check) days into the future; questions about more distant events will yield no information. This spell is a Divination. This ritual requires some sort of divining focus such as a deck of cards, tea leaves, dice, a star map, etc, worth at least 25s. Unlike most rituals, Premonition does not consume the focus, merely requiring it to be present.
+
+
+Sibyl’s Staff
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Staff attuned to past, present, and future in the hand of a touched creature. This staff has the following statistics and persists for the full duration of the spell: Attack: 4/4/0, Defense: 10, Damage: 8 (crush), Reach: 5’, Size: M. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the staff; its attack checks are modified by Strength as normal for a 2-handed weapon. The Sibyl’s Staff causes any weapon attack that glances the wielder to miss instead, grants the wielder a +4 bonus to Intuition checks and Spellsight checks, and allows her to observe her surroundings each round for 0 AP. The wielder can sheathe and draw the sword normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+________________
+
+
+Adept Incantations
+Intuitive Aura
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with an aura of precognitive energy. This suit of magical Medium Armor has the following statistics: Resistance: 7/2/2/7, Encumbrance: 5. The wearer of the armor suffers no Encumbrance penalty to Reflex, can use Reflex to defend against melee attacks, and causes any attack that targets her Reflex and glances to miss instead. In addition, while this spell is active, whenever the target would blunder into a trap or other hazard, if the casting check equals or exceeds the Difficulty to notice said danger, the wearer of the armor gains a vague sense of unease and danger a moment beforehand, allowing her to potentially circumvent the peril. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Piercing Vision
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell grants the target the ability to see through Concealment, Invisibility, and solid objects of 1” thickness or thinner. She is still aware of these objects’ existence (they appear as transparent to her), but can otherwise see through them normally, suffering no penalty to Intuition checks. This spell is Subtle and a Divination.
+
+
+Secret Window
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: one object                Duration: (casting check) hours
+This spell makes a touched object (or part of an object) transparent, allowing the caster and up to 5 designated allies to see through it (anyone else does not notice the transparency, continuing to see the object as opaque). The affected area can be a maximum of 25 cubic feet, arranged however the caster desires; thus, she could affect a large portion of a thin wall, or tunnel a smaller window through a thick wall. The object remains solid despite its transparent nature, meaning projectiles cannot be fired through the window. This spell is Subtle and a Divination.
+
+
+Visualization
+(divination spell, 1 minute)
+Range: melee                Area of Effect: one object                Duration: variable
+This spell grants the caster a visual image of a whole object from one or more broken pieces. She requires only a single fragment of the object, no matter how large, in order for this spell to function (e.g. a single brick will allow her to imagine the entire castle which once contained said brick). This allows her to view a whole book from a single burned page (she can mentally attempt to read the book while the vision persists), a whole clock from the broken remnants, or a whole person from a single fingerbone. The mental image persists for (casting check) minutes; if she has access to at least 50% of the object, the duration is increased to (casting check) hours instead. If she begins a Crafting check to fix the object before the vision fades, she gains a +(casting check) bonus to her check.
+
+
+Wandering Eye
+(summoning spell, 2 AP/maintain 2 AP)
+Range: melee                Area of Effect: special                Duration: (casting check) hours
+This spell creates a magical floating eye in a open location adjacent to the caster; she can see through its eye and control it remotely with her thoughts. The eye is Invisible, Small Size, and has a Hover speed of 15’. The caster must concentrate in order to move the eye and see through it, otherwise it remains stationary. She can see normally through the eye, though sounds and objects are slightly blurred (-2 penalty to Intuition checks). While peering through the eye, the caster is oblivious to her own surroundings. The eye cannot interact with objects; any attack made against the eye (hit or miss, damaging or not) will destroy it.
+________________
+
+
+Expert Incantations
+Divine Location
+(ritual spell, 1 hour)
+Range: caster                Area of Effect: caster                Duration: instant
+This spell, when cast, allows the caster to determine the location of a target creature or object; she must have met (if targeting a creature) or seen (if targeting an object) the target at least once to use this spell on them. Creatures are allowed a Mind vs. casting check to resist the effect if they do not wish to be found. Otherwise, when the ritual is complete, the caster learns the exact location of the target at the moment of the spell’s completion (if it moves or is moved afterwards, the spell does not reveal this). The spell will reveal all pertinent useful information to the caster. E.g. it will not simply tell her “The target is in a cellar.” Rather, it will say, “The target is in the wine cellar of Duchess Amelia Rhessen’s mansion in the city of Rhent.” This spell is a Divination. This ritual requires a carved ivory rod worth at least 1g.
+
+
+Far Sight
+(divination spell, 2 AP/maintain 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) hours
+This spell grants the caster visual and auditory awareness of a faraway place. The location can be any distance from her and she must have visited it at least once and be able to visualize it in her head. This spell otherwise functions like a Scrying check, with the caster’s casting check replacing the normal Scrying roll. Unlike Scrying, the caster does not require a focus (an expensive one, if possessed, still grants a bonus), she suffers no penalty to Alertness checks, and does not lose endurance when the effect ends. While the caster maintains the spell, she gains awareness of the chosen location but becomes oblivious to her own surroundings. Ceasing to maintain the spell does not end it; the caster simply cannot view the targeted location while not paying the maintenance AP.
+
+
+Legend Lore
+(divination spell, 1 hour/1 day)
+Range: caster                Area of Effect: caster                Duration: special
+This spell allows the caster to learn information about the history and legends surround a place, object, or creature. If the caster is in the location or has access to the object/creature (defined as being able to touch it), this spell requires 1 hour to cast; otherwise it requires 1 day. When complete, the spell allows the caster to know all legends, rumors, and ‘popular’ knowledge about the target. Secret information is not revealed, nor does the caster learn the veracity of any of the legends. For example, if she casts the spell on the site of an ancient battlefield, she will learn all the stories regarding who fought there, why they fought, how many casualties (supposedly) occurred, and any other relevant information. She will also learn rumors, if any, such as a magical sword that was supposedly lost during the battle and is rumored to be buried somewhere nearby, or the fact that historians are unable to locate any physical evidence that a battle ever actually occurred there. The actual truth (there was never a battle, it was just made up by an ancient king for propaganda) is not learned by the caster.
+
+
+Prophecy
+(ritual spell, 10 minutes)
+Range: caster                Area of Effect: caster                Duration: instant
+This spell allows the caster to make a vague prediction regarding the far future. She can ask a single specific question regarding the future such as, “Should we storm the castle this week?” or “Will we succeed in our quest to free the prince?” Alternatively, she can seek out a single (essentially random) vision of some event of import that will occur in the future. She then receives a sign or signal symbolizing the answer to the question; this should be phrased in such a way as to make several interpretations possible (like any good prophecy). For example, the Prophecy could take the form of a red thrush alighting on a nearby bush, or the words, “Night fades before the coming storm,” being whispered on the wind. This spell will ‘predict’ events a maximum of (casting check) years into the future. This ritual requires some sort of divining focus such as a deck of cards, tea leaves, dice, a star map, etc, worth at least 5g. Unlike most rituals, Prophecy does not consume the focus, merely requiring it to be present.
+
+
+True Striking
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) rounds
+This spell makes the target creature’s attacks much more accurate. For the duration of the enchantment, all of their attacks gain a +4 bonus to hit, cannot miss, cannot be redirected or reflected, and ignore the effects of Concealment, Cover, and Invisibility.
+________________
+
+
+Master Incantations
+Auspicious Omen
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) hours
+This spell grants the caster brief portents of the future as she goes about her day. She can see the possible effects of any action she would take just before taking that action, allowing her to plan accordingly. Note that the spell shows only POSSIBLE outcomes, meaning that the visions she receives may be inaccurate depending on the absurdity of actions she may take. She gains a +(casting check) bonus to Initiative and all checks while this spell is in effect, and gains the ability to see potentially pass/fail outcomes for checks she makes during this time.
+
+
+Limitless Eye
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: special                Duration: (casting check) hours
+This spell targets a creature within 120’ and allows the caster to see through their eyes. The caster uses the target’s Alertness and Investigation checks rather than her own. While this spell is active, the caster can, automatically and at any time, shift her vision to that of a new creature within (the current target’s) line-of-sight. She can swap her vision between creatures as often as she likes during this period. This spell is Subtle and a Divination.
+
+
+True Sight
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) hours
+This spell grants a touched ally true sight. While affected, they can see Invisible and Incorporeal creatures as if they lacked those effects, they ignore all vision penalties from visibility (allowing them to see in Darkness and Brilliance normally, as well), they ignore all Concealment and Cover, and whenever they encounter an illusion or phantasm effect, they can immediately make a Mind check with a +(casting check) bonus to disbelieve the spell. This spell does not allow the target to see through solid objects. This spell is Subtle and a Divination.

@@ -8,10 +8,10 @@ type Element {
 type School {
   id: ID! @unique
   name: String! @unique
-  description: String!
+  description: String
   spells: [Ability!]!
   element: Element!
-  type: SchoolType!
+  type: SchoolType
 }
 
 type Ability {

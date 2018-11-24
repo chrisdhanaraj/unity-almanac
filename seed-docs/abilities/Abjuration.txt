@@ -1,0 +1,150 @@
+﻿Abjuration
+Core Element: Metal
+
+
+Abjuration Cantrips
+Aethereal Agility (spell, reaction): The caster can use this cantrip whenever she would be glanced by an attack to make it miss her instead. Using this spell costs her 1 AP on her next turn.
+Mark of Resilience (enchantment spell, 1 AP): For (casting check) rounds, the caster or a touched ally reduces the distance all forced-movement effects move them by 5’.
+
+
+Incantation Summary
+(N) Circle Against Scrying: Protects an area from magical divinations.
+(N) Dispel Magic: Removes enchantments from a nearby creature.
+(N) Reflective Armor: Summons magical armor that reflects attacks back at the attacker.
+(N) Repulsion Ward: Sets a magical trap that knocks back anyone who enters.
+(N) Sonorous Seal: Enchants an area to produce a warning alarm if trespassers enter.
+
+
+(A) Aethereal Negation: Allows the caster to interrupt attacks made around her.
+(A) Circle Against Evil: Protects an area from the intrusion of unnatural creatures.
+(A) Enervating Ward: Sets a magical trap that weakens anyone who enters.
+(A) Mace of Disruption: Summons a magical mace that destroys magical energy and monsters.
+(A) Mass Dispel: Removes enchantments in a large area.
+
+
+(E) Aethereal Disjunction: Destroys all traces of magic in an area.
+(E) Buttressing Seal: Enchants an area to make structures within more resilient.
+(E) Circle Against Nature: Protects an area from the intrusion of natural creatures.
+(E) Deflective Aegis: Grants an ally a magical shield that blocks ranged attacks.
+(E) Imprisonment Ward: Sets a magical trap that paralyzes anyone who enters.
+
+
+(M) Circle Against Intrusion: Protects an area to prevent any intrusion or magic.
+(M) Grand Guard: Makes an ally nearly invulnerable to harm.
+(M) Isolating Seal: Enchants an area to prevent it from interacting with the outside world and vice-versa.
+________________
+
+
+Novice Incantations
+Circle Against Scrying
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: 30’ radius                Duration: (casting check) hours
+This spell protects a 30’ radius area (the caster can make it smaller if she desires); while that area is enchanted, all Divination effects directed at it or against creatures within automatically fail and provide no information. This spell can also be cast as a ritual; if this is done, the radius is increased to 150’ (though the caster can make it smaller if she wishes) and the duration becomes permanent. However, the ritual requires 1g worth of oils and offerings to spread in the affected area.
+
+
+Dispel Magic
+(spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell attempts to remove any number of enchantments or spiritual conditions of the caster’s choice from the target; the Difficulty to remove any given effect is the casting check result used to create it.
+
+
+Reflective Armor
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with a magical field that warps attacks made against them. This suit of magical Light Armor has the following statistics: Resistance: 0/0/0/0, Encumbrance: 0. Any attack that glances the affected target instead misses them and is reflected back against the original attacker. Area attacks can miss, but cannot be reflected. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Repulsion Ward
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: 30’ radius                Duration: (casting check) hours
+This spell lays a magical trap in a target area that becomes active after 1-10 rounds (caster’s choice). Whenever any creature walks within 5’ of the trap’s center after it activates, it triggers and attacks all creatures in a 30’ radius (casting check vs. Body). All creatures attacked are knocked prone, while those hit are also pushed (10 + (5 * net hits))’ away from the center of the effect. Once triggered, the enchantment ends.
+
+
+Sonorous Seal
+(enchantment spell, 1 minute)
+Range: melee                Area of Effect: 60’ radius                Duration: 1 day
+This spell enchants an area of up to 60’ radius (the caster can make it smaller if she desires). When the seal is created, the caster may exempt any number of creatures (including herself) from its effect. Any other creature that enters the area will trigger the seal, which causes a loud noise of a type chosen by the caster for 3 rounds (Difficulty: 0 on an (Alertness + Intuition) check to notice). The seal persists for its full duration, even if triggered.
+________________
+
+
+Adept Incantations
+Aethereal Negation
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) minutes
+This spell allows the caster to interrupt attacks around her. Whenever a creature within 60’ of her makes an attack, she can, as a reaction, interrupt that attack and cause it to do nothing. Successfully interrupting an attack requires the caster to succeed an opposed check between her casting check and whatever skill is being used for the attack to be interrupted. Attempting to interrupt an attack costs the caster 1 AP on her next turn.
+
+
+Circle Against Evil
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: 30’ radius                Duration: (casting check) hours
+This spell protects a 30’ radius area (the caster can make it smaller if she desires); while that area is enchanted, all Unnatural creatures (Abominations, Outsiders, Undead, and Summoned creatures) that wish to enter the area must succeed a Mind vs. casting check to do so, otherwise their movement stops at the edge. Even if they succeed, they are still slowed and suffer -50% Speed while within the circle. This spell can also be cast as a ritual; if this is done, the radius is increased to 150’ (though the caster can make it smaller if she wishes) and the duration becomes permanent. However, the ritual requires 5g worth of oils and offerings to spread in the affected area.
+
+
+Enervating Ward
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: 30’ radius                Duration: (casting check) hours
+This spell lays a magical trap in a target area that becomes active after 1-10 rounds (caster’s choice). Whenever any creature walks within 5’ of the trap’s center after it activates, it triggers and attacks all creatures in a 30’ radius (casting check vs. Body). All creatures attacked are weakened, reducing damage they deal by (3 +/- net hits) and reducing their Speed by (15 +/- (5 * net hits))’. Once triggered, the enchantment ends.
+
+
+Mace of Disruption
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Mace of disruptive magic in the hand of a touched creature. The mace has the following statistics and persists for the full duration of the spell: Attack: 3/1/0, Defense: 1, Damage: 7 (crushing), Reach: 5’, Size: S, deals +1 endurance loss on-hit. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the mace; its attack checks are modified by Strength or Agility (depending on how it is wielded) as normal for a 1-handed weapon. Whenever the Mace of Disruption hits a creature, it automatically removes one enchantment or spiritual effect of the wielder’s choice from them. In addition, whenever it hits any Summoned creature, it automatically deals a Deathblow to them. The wielder can sheathe and draw the sword normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Mass Dispel
+(area spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: 10’ radius                Duration: instant
+This spell attempts to remove all enchantments and spiritual conditions active in the target area; the Difficulty to remove any given effect is the casting check result used to create it.
+________________
+
+
+Expert Incantations
+Aethereal Disjunction
+(spell, 2 AP)
+Range: 30’ increment                Area of Effect: 15’ radius                Duration: instant
+This spell dispels all enchantments, removes all spiritual effects, disables all runic items, and attacks all Summoned creatures within a 15’ radius. For each enchantment or spiritual effect, the caster must win an opposed casting check against the original caster to end its effect. Each Summoned creature hit is dealt a Deathblow. For runic items, the caster must win a casting check (Difficulty dependent on item quality: Novice 2, Adept 3, Expert 4, Master 5, and Artifact 6). Runic items successfully affected are disabled for 1 day.
+
+
+Buttressing Seal
+(enchantment spell, 1 minute)
+Range: melee                Area of Effect: 60’ radius                Duration: 1 day
+This spell enchants an area of up to 60’ radius (the caster can make it smaller if she desires). All objects and structures within the affected area gain +10 Resistance against all damage types and can use the caster’s casting check as a defense check against all attacks, spells, and other abilities used against them, even while unattended.
+
+
+Circle Against Nature
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: 30’ radius                Duration: (casting check) hours
+This spell protects a 30’ radius area (the caster can make it smaller if she desires); while that area is enchanted, all non-Humanoid natural creatures (Beasts, Constructs, and Primordials) that wish to enter the area must succeed a Mind vs. casting check to do so, otherwise their movement stops at the edge. Even if they succeed, they are still slowed and suffer -50% Speed while within the circle. This spell can also be cast as a ritual; if this is done, the radius is increased to 150’ (though the caster can make it smaller if she wishes) and the duration becomes permanent. However, the ritual requires 10g worth of oils and offerings to spread in the affected area.
+
+
+Deflective Aegis
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell protects an ally from the slings and arrows of outrageous enemies. While enchanted, all ranged attacks suffer a -4 penalty to hit them and, if they fail to hit, miss the ally instead of glancing them. Ranged attacks that hit the ally have the number of net hits scored reduced by half.
+
+
+Imprisonment Ward
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: 30’ radius                Duration: (casting check) hours
+This spell lays a magical trap in a target area that becomes active after 1-10 rounds (caster’s choice). Whenever any creature walks within 5’ of the trap’s center after it activates, it triggers and attacks all creatures in a 30’ radius (casting check vs. Body). All creatures hit are imprisoned for (1 + net hits) minutes, preventing them from taking actions, taking damage, being targeted by any ability, skill, or effect, and preventing the duration of any condition, enchantment, or other effect (other than the imprisonment effect itself) affecting them from changing. Once triggered, the enchantment ends.
+________________
+
+
+Master Incantations
+Circle Against Intrusion
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: 30’ radius                Duration: (casting check) hours
+This spell protects a 30’ radius area (the caster can make it smaller if she desires); while that area is enchanted, all Divination effects directed at it or against creatures within automatically fail and provide no information. In addition, all creatures of any type that wish to enter the area must succeed a Mind vs. casting check to do so, otherwise their movement stops at the edge. Even if they succeed, they are still slowed and suffer -50% Speed while within the circle. Finally any spell being cast into the area suffers a -6 penalty to its casting check. The caster can, when she casts the spell, select any number of creatures and exempt them from the spell’s effects. This spell can also be cast as a ritual; if this is done, the radius is increased to 150’ (though the caster can make it smaller if she wishes) and the duration becomes permanent. However, the ritual requires 25g worth of oils and offerings to spread in the affected area.
+
+
+Grand Guard
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell grants the enchanted ally a +4 bonus to all defenses, +4 Resistance against all damage types, +15’ Speed, immunity to being knocked prone or forcefully moved, and reduces the severity of all wounds inflicted upon them by 1 step. In addition, all attacks that glance them miss instead and they recover 1 endurance per minute.
+
+
+Isolating Seal
+(enchantment spell, 1 minute)
+Range: melee                Area of Effect: 60’ radius                Duration: 1 day
+This spell enchants an area of up to 60’ radius (the caster can make it smaller if she desires). Once the spell is complete, the affected area becomes cut off from reality for the spell’s duration. Nothing inside the spell can leave or affect the outside world in any way, nor can anything from greater reality enter the affected area or interact with it. The caster can choose whether she wants to be inside or outside the effect when she casts the spell.

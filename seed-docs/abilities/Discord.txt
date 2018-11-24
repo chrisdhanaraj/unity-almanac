@@ -1,0 +1,160 @@
+﻿Discord
+Core Element: Water
+
+
+School Cantrips
+Aether Homing (spell, 1 AP): This spell allows the caster to make a casting check; the spell will then point her directly towards the largest source of magic within (100 * hits scored)’. This can include runic items, creatures with magical auras, active enchantments, etc.
+Spoil (mind spell attack, reaction): This spell has a 15’ range increment and can be used whenever a creature uses an attack, shout, or spell ability to interrupt that ability and cause it to do nothing. The caster must succeed an opposed casting check vs. whatever skill check was used on the ability to be interrupted. Using this Cantrip requires the caster to expend 2 AP on her next turn.
+
+
+Incantation Summary
+(N) Chaotic Dweomer: Deals a random harmful effect to an enemy.
+(N) Discordant Mantle: Surrounds the target with aethereal armor that protects against magic.
+(N) Drain Enchantment: Removes an enchantment from the target to empower the caster.
+(N) Forgetfulness: Causes a target to lose track of their current thoughts and memories.
+(N) Unstable Flux: Makes a creature move in erratic ways.
+
+
+(A) Amnesia: Makes a target unable to remember certain events.
+(A) Backfire: Wounds a target whenever they cast a spell.
+(A) Draining Whip: Summons a magical whip that devours magic to empower itself.
+(A) Mimicry: Allows the caster to repeat the next action taken by a target.
+(A) Spatial Chaos: Swaps the positions of two creatures.
+
+
+(E) Ignorance: Causes a target to lose track of reality.
+(E) Ineptitude: Makes a target unable to do anything successfully.
+(E) Capricious Reality: Modifies the world around the caster in unexpected ways.
+(E) Chaos Aura: Surrounds the caster with an aura that disrupts spells and scrambles enchantments.
+(E) Steal Enchantments: Removes one or more enchantments from the target and applies them to the caster.
+
+
+(M) Antimagic Field: Creates a zone where magic does not function.
+(M) Chaos Storm: Summons a cyclone of unstable magic that harms those within in random ways.
+(M) Energy Drain: Steals the target’s power to heal and empower the caster.
+________________
+
+
+Novice Incantations
+Chaotic Dweomer
+(ranged spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell fires a bolt of chaos energy at the target, dealing (1d6 +/- net hits) damage to them of a random type (roll a 1d6): 1 - crushing, 2 - piercing, 3 - acid, 4 - cold, 5 - fire, 6 - electric. If the spell hits, the target also suffers a random effect for (1 + net hits) rounds (roll another 1d6):
+        *1 - Target burdened, reducing their Initiative by 4.
+        *2 - Target dazed, inflicting a -2 penalty to attacks and causing their attacks that glance to miss instead.
+        *3 - Target disoriented, reducing Engagements by 2 and opportunity attacks to 0.
+        *4 - Target sickened, inflicting a -2 penalty to defenses.
+        *5 - Target slowed, reducing Speed by 15’.
+        *6 - Target weakened, reducing all damage dealt by the target by 3.
+
+
+Discordant Mantle
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with chaotic aethereal armor. This suit of magical Light Armor has the following statistics: Resistance: 1/1/1/4, Encumbrance: 2. The target gains a +2 bonus to defense checks against spells and, whenever any enchantment is applied to her, she can choose either to increase or decrease its duration by 50%. If she chooses to decrease the duration, Discordant Mantle’s Resistances increase by +1 each for the remaining duration of the spell. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Drain Enchantment
+(spell, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell attempts to remove one enchantment or spiritual condition of the caster’s choice from the target; the Difficulty to do so is the casting check result used to create the effect. If the dispel is successful, the caster becomes empowered for (enchantment’s Rank) rounds, granting her a +4 bonus to all Magic-based skill checks.
+
+
+Forgetfulness
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: (casting check) hours
+This spell makes a target have difficulty focusing and remembering. If the spell hits, the target becomes forgetful for the duration; while forgetful, whenever they attempt to concentrate on any task for more than 1 round (6 seconds), they must make a Mind check against the casting check or lose track of what they’re doing and make no progress. Likewise, whenever they attempt to remember past events, they must make a Mind check against the casting check or be unable to do so. This spell is Subtle.
+
+
+Unstable Flux
+(enchantment spell, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell warps space in strange ways around the target, making it hard for them move. The target becomes uncoordinated for (2 +/- net hits) rounds. This causes them to, for every 5’ they move, to have a 50% chance to instead move 5’ immediately to the left or right instead (equal chance for either). If that location is occupied, they run into the creature or object in that space and are pushed back into the location they left, wasting 5’ of movement, provoking an opportunity attack, and/or offending the creature. If they run into an object whose Size is larger then their own, they must pass an (Acrobatics + Agility) check (Difficulty: 2), or fall prone and lose the rest of their movement. This spell is Subtle.
+________________
+
+
+Adept Incantations
+Amnesia
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: permanent
+This spell causes an incision in the target’s memory, removing things the caster would prefer they forget. If the spell hits, the target forgets the last (2 + net hits) hours of their life, making them unable to remember anything that happened during that time. The caster can choose to make this time shorter, if she desires. The target can later attempt to overcome this mental block, but must succeed a Mind vs. (casting check +2) check to do so; if this manage this, the Amnesia ends and they can remember everything again normally. This spell is Subtle.
+
+
+Backfire
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell afflicts the target with backfire for (2 +/- net hits) rounds. Backfire causes the target to suffer an Internal Wound whenever they cast a spell; the severity of this wound is based on the Rank of the spell they cast: Novice - light, Adept - moderate, Expert - severe; Master - mortal.
+
+
+Draining Whip
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Whip that devours aethereal energy in the hands of a touched creature. The whip has the following statistics and persists for the full duration of the spell: Attack: 6/6/0, Defense: 0, Damage: 5 (slashing), Reach: 10’, Size: S. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the whip; its attack checks are modified by Strength or Agility (depending on how it is wielded) as normal for a 1-handed weapon. Attacks made with the Draining Whip that hit also remove 1 enchantment or spiritual effect from the target; if the target has neither, the whip will drain magical energies on-hit instead: removing 1 prepared spell (targeting lower-Rank spells first), 1 Aether, 1 Celestial Alignment, 1 Runic Power, 1 Soul Energy, or 1 Ley Energy depending on the target’s Magic Disciplines (if any). If it successfully removes magic or drains power, the whip gains +1 Reach Attack and +1 Melee Attack for its remaining duration. For every 3 enchantments/powers it successfully drains, it gains +1 Damage as well. The wielder can sheathe and draw the whip normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Mimicry
+(spell, 2 AP)
+Range: 30’        Area of Effect: caster                Duration: instant
+The caster can use this spell to mimic the effect of any ability of Expert Rank or lower that was used by any creature other than herself within 30’ on the last round. This ability takes 2 AP to use, regardless of the AP cost of the mimicked ability, and cannot mimic abilities whose costs are higher than 2 AP.  She is not required to expend resources of her own apart from the casting of this spell in order to use it, but she must make the appropriate skill check(s) normally. She cannot mimic an ability which requires a check with a skill in which she has no Skill Points. If the target ability is Subtle, then this spell is too.
+
+
+Spatial Chaos
+(teleport spell, 2 AP)
+Range: 120’        Area of Effect: two creatures                Duration: instant
+This spell swaps the location of two creatures, both of whom must be within 120’ of the caster. If either target is unwilling, they are allowed to make a Mind check against (casting check -1) to resist the effect. This swap is instantaneous and is considered a Teleport.
+________________
+
+
+Expert Incantations
+Ignorance
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: (casting check) hours
+This spell causes the target to become lost in their own thoughts and lose track of reality. If the spell hits, the target becomes ignorant for the duration; while ignorant, whenever they attempt to notice or interact with any object or creature, they must make a Mind check against the casting check or suffer a lapse of attention and completely lose track of who or whatever they were focusing on just a moment before. This includes even mundane events like taking a detour around a wall rather than walking straight into it. This spell is Subtle.
+
+
+Ineptitude
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: (casting check) hours
+This spell makes a target have difficulty doing basically anything. If the spell hits, the target becomes inept for the duration; while inept, they suffer a -6 penalty to all skill checks and, if they fail to meet the Difficulty for any skill check, they fail in an extraordinary and somewhat amusing fashion and thus accomplish nothing whatsoever (ignoring all scaling success/failure normally associated with skill checks). The target is also likely to have some minor difficulty with mundane tasks, such as climbing stairs, jogging, or speaking. This spell is Subtle.
+
+
+Capricious Reality
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell shifts and changes reality around the caster in unexpected ways. At the start of each of her turns while enchanted, one random object within 15’ of her is changed, causing it to turn into something else or completely disappear from reality (50% chance of each). She can focus on a given object by spending 1 AP; this gives that object a 50% chance of being targeted, otherwise a random object is affected anyways. Objects of any Size, as well as those being attended, can be affected by this spell, meaning it could cause a wall to suddenly disappear for the duration, or cause a menacing swordsman’s weapon to transform into a bouquet of flowers. When the spell ends, all affected objects return to normal.
+
+
+Chaos Aura
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: caster                Duration: (casting check) minutes
+This spell surrounds the caster with an aura of disruptive magical energy. Each round that the spell is in effect, the caster can automatically interrupt any one spell being cast within 30’ of her for 0 AP cost, as a reaction. In addition, at the start of each of her turns, she can choose any enchantment or spiritual condition within 30’ of her, other than Chaos Aura itself, and increase or decrease its remaining duration by up to 50%; no effect can be affected by this more than once. She can use this effects more than once per round each if she desires, but each additional use of either per round costs 1 AP on her next turn.
+
+
+Steal Enchantments
+(spell, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell attempts to remove any number of enchantments or spiritual conditions of the caster’s choice from the target; the Difficulty to remove each effect is the casting check result used to create it. Each successful dispel removes that effect from the target and applies it to the caster at its full strength for its full remaining duration.
+________________
+Master Incantations
+Antimagic Field
+(area spell, 2 AP)
+Range: caster        Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell creates an aether-nullifying field around the caster. All enchantments and spiritual effects in the affected area are automatically destroyed (including area enchantments that only partly overlap the Antimagic Field), all temporary runes in the area are destroyed, and all permanent runes are suppressed for as long as they remain there. In addition, all checks modified by Magic within the Antimagic Field automatically fail and score 0 hits on their checks, doing nothing. Any Summoned creature within the Antimagic Field is instantly destroyed with no check to resist, while Abominations, Constructs, Outsiders, Primordials, and Undead suffer a -4 penalty to all checks while within. No spell, ability, or other effect can increase or reduce the duration of this spell, nor can it be moved, affected, or destroyed in any way short of its effect ending naturally.
+
+
+Chaos Storm
+(cloud spell, 2 AP)
+Range: 30’ increment        Area of Effect: 10’ radius                Duration: (casting check) rounds
+This spell creates a whirling aethereal storm that causes chaotic harm to those within. All creatures within the storm take (1d6 + casting check) damage of a random type each round (roll a 1d6): 1 - crushing, 2 - slashing, 3 - acid, 4 - cold, 5 - fire, 6 - electric. Any creature that takes damage from this effect after Resistance suffers a random status effect as well (roll another 1d6); all of these effects persist for the full duration of the Chaos Storm.
+        *1 - Target banished, turning them Incorporeal and unable to affect the real world in any way.
+        *2 - Target blinded, making them unable to see.
+        *3 - Target enraged, causing them to be Violent towards all creatures.
+        *4 - Target enraptured, causing them to be Devoted towards all creatures.
+        *5 - Target pacified, making them unable to use any attack, spell, shout, or other ability.
+        *6 - Target petrified, turning them to stone.
+
+
+Energy Drain
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell siphons magical energy from the target, removing (4 +/- (2 * net hits)) prepared spells (targeting lower-Rank spells first), Aether, Celestial Alignment, Runic Power, Soul Energy, or Ley Energy from them, depending on the target’s Magic Disciplines (if any). If the spell succeeds at draining magic, the caster becomes empowered for 1 day, granting her a +(points of magical energy drained) bonus to all Magic-based skill checks. The caster cannot use this ability on herself.

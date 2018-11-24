@@ -1,0 +1,163 @@
+﻿Radiance
+Core Element: Light
+
+
+Radiance Cantrips
+Dazzling Burst (ranged spell attack, 1 AP): This spell causes a burst of blinding light in the eyes of a nearby creature. If the spell hits, it causes the target to become dazzled for (1 + net hits) rounds, inflicting a -4 penalty to Intuition checks. This spell has a range increment of 15’.
+Light (phantasm spell, 1 AP): This spell creates a ball of magical light that either stands motionless or follows the caster (her choice). It projects Light in a 10’ radius around itself, and Gloom to half that distance. The magical light persists for (casting check) minutes.
+
+
+Incantation Summary
+(N) Light Ward: Protects an ally from elemental damage.
+(N) Lucent Vision: Makes a creature more alert and able to peer through fog and rain.
+(N) Radiant Inspiration: Empowers allies of the caster with an image of hope.
+(N) Scintillating Pattern: Hypnotizes nearby creatures with shifting colors.
+(N) Solar Ray: Damages an enemy and illuminates them.
+
+
+(A) Brilliance: Forms an intense light that causes visibility penalties.
+(A) Luminant Purification: Removes physical conditions from nearby creatures.
+(A) Prismatic Wall: Creates a wall of many colors that causes random effects to creatures within.
+(A) Resplendent Revelation: Destroys illusions and reveals hidden secrets around the caster.
+(A) Shield of Radiance: Conjures a magical shield that reflects harmful spells.
+
+
+(E) Incandescent Ward: Guards an area and those within against magic.
+(E) Lustrate: Restores and cures nearby allies.
+(E) Prismatic Spray: Unleashes a many-colored torrent that causes random effects.
+(E) Solar Flare: Blinds creatures around the caster.
+(E) Veil of Glory: Protects a creature by surrounding them with armor of blinding light.
+
+
+(M) Corona: Calls down a burst of solar energy, burning those within the area.
+(M) Luminant Ascension: Saves and empowers a dying ally.
+(M) The Coming Dawn: Creates a false sun that shines brightly over a huge area.
+________________
+
+
+Novice Incantations
+Light Ward
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell enchants a touched ally, granting them +3 Resistance against all forms of Elemental damage (Acid, Cold, Electric, and Fire).
+
+
+Lucent Vision
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) hours
+The target of this spell reduces all visibility penalties to checks by half and doubles the distance needed to gain Concealment or Invisibility from her due to poor visibility.
+
+
+Radiant Inspiration
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: (casting check) rounds
+This spell surrounds the caster with a glowing phantasm that strikes courage into her allies. All allies of the caster within 15’ of her become inspired, gaining a +2 bonus to all attack, defense, and skill checks, along with a +4 bonus to Mind checks, for the duration of the spell; this bonus is lost if they spend more than 1 round outside of the affected area.
+
+
+Scintillating Pattern
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: 10’ radius                Duration: (casting check) rounds
+This spell creates a mesmerizing curtain of shifting colors. All creatures within the area of effect that are hit by the spell become fascinated by it for 1 round; this prevents them from leaving the area or taking their eyes off the pattern, which inflicts a -4 penalty to Intuition checks and prevents them from actively observing their surroundings.
+
+
+Solar Ray
+(spell, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell fires a beam of burning radiance at the target, attacking them for 5 fire damage and revealing them for (2 +/- net hits) rounds. Revealed creatures cannot benefit from Concealment, Cover, or Invisibility.
+________________
+
+
+Adept Incantations
+Brilliance
+(area spell, 2 AP)
+Range: 30’ increment                Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell increases light levels by 2 steps (Darkness -> Gloom -> Light -> Glare -> Brilliance) in the affected area for the duration of the spell.
+
+
+Luminant Purification
+(body spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell removes up to (2 +/- net hits) physical conditions from the target. Targets that wish to be affected can forfeit the Body check.
+
+
+Prismatic Wall
+(wall spell, 2 AP)
+Range: 15’        Area of Effect: special                Duration: (casting check) minutes
+This spell creates a curtain of rainbow energy that is 5’ wide, 10’ high, and up to 100’ long; at least some part of the wall must be within the base range of the spell, but it can extend beyond this range. The wall blocks vision like Fog, negates attacks depending its active color, and causes a detrimental effect to creatures passing through depending on the active color. At the start of each round, roll a random color to determine which of the following effects occurs that round (roll a 1d8 and reroll 8s):
+*1 - Red: Blocks ranged weapon attacks. Creatures passing through take 6 fire damage.
+*2 - Orange: Blocks area and touch attacks. Creatures passing through take 6 acid damage.
+*3 - Yellow: Blocks ground and cloud effects. Creatures passing through take 6 electric damage.
+*4 - Green: Blocks Body attacks. Creatures passing through are drained until they take a Rest, reducing Strength, Agility, and Intuition by 3.
+*5 - Blue: Blocks Mind attacks. Creatures passing through are stupefied until they take a Rest, reducing Knowledge, Willpower, and Charisma by 3.
+*6 - Indigo: Blocks spells. Creatures passing through are Teleported 30’ in a random horizontal direction.
+*7 - Violet: Blocks shouts. Creatures passing through are knocked prone and crippled for 1 round, preventing them from moving.
+
+
+Resplendent Revelation
+(area spell, 2 AP)
+Range: caster                Area of Effect: 30’ radius                Duration: instant
+This spell targets all illusions and phantasms in an area around the caster; she then makes a casting check against the check used to create each individual effect. Each check she succeeds instantly destroys that illusion/phantasm. 
+This spell will target illusions/phantasms that the caster is not aware are illusory, but if she fails to dispel them she does not learn of their true nature. Resplendent Revelation also reveals hidden secrets, traps, and other concealed objects near the caster; for (casting check) minutes after this spell is cast, the Difficulty to notice such things with Alertness and Investigation is reduced by 3.
+
+
+Shield of Radiance
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Shield of scintillating light in the hand of a touched creature. The shield has the following statistics and persists for the full duration of the spell: Attack: 0/0/3, Defense: +4, Damage: 5 (fire), Reach: 5’, Size: S. It adds +1 Engagement and +2 Encumbrance. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the shield; its attack checks are modified by Strength as normal for a shield. While wielding the Shield of Radiance, the character can use Block to defend against all spell attacks and, if she successfully wins a defense check against a spell, causes it to miss and then reflects it back at the caster. Area spells cannot be reflected. The wielder can sheathe and draw the shield normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+________________
+
+
+Expert Incantations
+Incandescent Ward
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell enchants a 15’ radius around the caster and does not move with her. All creatures within the area gain the ability to Counterspell, using the caster’s (casting skill dice pool) as their defense check against all spell attacks. If they already had the ability to Counterspell, they instead gain a +4 bonus to their Counterspell checks. In addition, all enchantments within the area other than Incandescent Ward have their durations reduced by 50%, and all creatures within gain +4 Resistance against any damage dealt by a spell.
+
+
+Lustrate
+(area spell, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: instant
+This spell heals the caster and all nearby creatures, causing them to restore (2 * casting check) endurance and removing any one harmful mental or spiritual ailment from them. Any ally successfully healed by this spell gains rejuvenation, which reduces the severity of the next wound applied to them by 1 step.
+
+
+Prismatic Spray
+(special spell attack, 2 AP)
+Range: caster                Area of Effect: 60’ x 30’ cone        Duration: instant
+This spell unleashes a torrent of rainbow energy from the caster’s fingertips, attacking all creatures in a 60’ long and 30’ wide cone. The effects of this spell on each target are random (roll a 1d8 and reroll 8s):
+*1 - Red: Area attack for 9 fire damage.
+*2 - Orange: Area attack for 9 acid damage.
+*3 - Yellow: Area attack for 9 electric damage.
+*4 - Green: Body attack for drain, inflicting a -4 penalty to all checks until the target takes a Rest.
+*5 - Blue: Mind attack for stupefaction, reducing the target’s AP by 1 per round until they take a Rest.
+*6 - Indigo: Mind attack for Teleportation of (60 +/- (10 * net hits))’ in a random horizontal direction.
+*7 - Violet: Body attack for paralysis, preventing the target from taking any actions and making them helpless for (1 +/- net hits) rounds.
+
+
+Solar Flare
+(area spell attack, 2 AP)
+Range: caster                Area of Effect: 30’ radius                Duration: instant
+This spell attacks all creatures within 30’ of the caster and blinds them for (4 +/- net hits) rounds, preventing them from seeing anything.
+
+
+Veil of Glory
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with armor composed of blinding light. This suit of magical Heavy Armor has the following statistics: Resistance: 6/6/6/14, Encumbrance: 9. The wearer also generates Light in a 15’ radius around herself, and Gloom to twice that distance. Any creature within the Light must make a Reflex check (against the casting check) each round or become blinded for 1 round, making them unable to see anything. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+________________
+Master Incantations
+Corona
+(area spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: 15’ radius                Duration: instant
+This spell calls down a solar burst, attacking all creatures in the affected area for 10 fire damage; any wound inflicted by this spell is always of the Burning type. All creatures Burning from this spell are revealed for as long as they are burning, preventing them from gaining Concealment, Cover, or Invisibility, and granting all attacks a +4 bonus to hit them.
+
+
+Luminant Ascension
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell can only be cast on an incapacitated or dying ally. They are granted (2 * casting check) endurance, which can exceed their normal endurance cap; the target is also allowed to act again normally, not suffering the effects of stagger. In addition, while affected by the enchantment, the target gains a +2 bonus to all checks and causes any attack that glances them to miss instead. When the enchantment ends, the target’s maximum endurance returns to normal, potentially incapacitating them if their current cap is 0; however, they will not begin dying unless they suffer further harm.
+
+
+The Coming Dawn
+(ritual spell, 1 day)
+Range: caster                Area of Effect: 500’ radius                Duration: permanent
+This spell conjures a tiny phantasmal sun in the air over the caster. It projects pure sunlight in a 500’ radius area around where the spell is cast. This spell has all the properties of true daylight, including making plants grow, burning vampires, etc. The sun will dim itself after 12 hours and then glow again 12 hours after that, reflecting a normal day/night cycle; if cast just before nightfall, this could potentially cause the affected area to never experience night. The Coming Dawn lasts indefinitely, though the caster can only have one active at a time. This ritual requires a diamond cut into a perfect sphere, worth 25g.

@@ -1,0 +1,150 @@
+﻿Illusion
+Core Element: Fire
+
+
+Illusion Cantrips
+Deceitful Aura (enchantment spell, 1 AP): This spell allows the caster to disguise her magical aura. Any Spellsight check (or similar) ability used against her has its Difficulty increased by (casting check); failure on one of these checks shows an aura of the caster’s choice rather than her true aura. This spell persists for (casting check) minutes and is Subtle.
+Phantasmagoria (phantasm spell, 1 AP/maintain 1 AP): This spell creates a phantasm of Large Size or smaller with one sensory component (visual, auditory, olfactory, tactile, or thermal) in a nearby location. The phantasm can be altered on a round-to-round basis by the caster, but the sensory component cannot. This spell persists for as long as it is maintained, has a range increment of 30’, and is Subtle.
+
+
+Incantation Summary
+(N) Allure: Enchants a creature to make them more attractive, convincing, and memorable.
+(N) Basic Illusion: Creates an unreal image in the minds of nearby creatures.
+(N) Displacement: Grants concealment to an ally.
+(N) Illusory Armor: Protects a creature with an unreal suit of armor.
+(N) Phantasmal Pain: Causes a nearby creature to suffer unreal pain.
+
+
+(A) Basic Phantasm: Creates an unreal image that exists of its own accord.
+(A) False Persona: Disguises the caster or an ally as someone else.
+(A) Illusory Weapon: Conjures an unreal weapon that can be wielded by an ally.
+(A) Misdirection: Causes scrying and other divinations used on a target to return untrue information.
+(A) Nightmare: Summons a horrible creature in the mind of one enemy; it can attack only them.
+
+
+(E) Invisibility: Makes an ally unable to be seen.
+(E) Masquerade: Disguises the caster and many allies as other creatures.
+(E) Mass Hysteria: Strikes a massive number of nearby onlookers with a shared delusion.
+(E) Mirrored Image: Surrounds a target with illusory doubles that make determining her true location difficult.
+(E) Phantom Agony: Inflicts a target with horrible, yet unreal, pain, forcing them to write in agony.
+
+
+(M) False Reality: Allows the caster to create a phantasm that she can change when she desires.
+(M) Mirage: Conjures an elaborate phantasm that can cover a large area.
+(M) Perfect Reflection: Creates a nigh-exact phantasmal duplicate of the caster.
+________________
+
+
+Novice Incantations
+Allure
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (3 * casting check) hours
+This enchantment grants a touched creature an aura of supernatural charisma. All NPCs whom she encounters for the first time have their Attitudes towards her increased by 3, to a maximum of Helpful. Any NPC who is already acquainted with her, however, notices the change and suffers -3 Attitude instead, to a minimum of Hostile. Likewise, any creature who first met her while the enchantment was active and then encounters her without it loses the Attitude gain from this spell and suffers a proportionate Attitude penalty instead.
+
+
+Basic Illusion
+(illusion spell, 2 AP)
+Range: 30’ increment        Area of Effect: special                Duration: (casting check) minutes
+This spell creates an illusion of Large Size or smaller with up to three sensory components (visual, auditory, tactile, olfactory, or thermal) within the mind of up to (casting check) creatures within range. Illusions need not be static; the caster can choose to create the the image of a running creature or the sound of a speech, for example, but all changes must be pre-programmed when the spell is cast. In addition, the illusion itself cannot move more than 30’ from the location in which the spell was cast. Once cast, this spell persists for the indicated duration, or until all affected targets successfully disbelieve it. This spell is Subtle.
+
+
+Displacement
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell affects a single ally and grants them Concealment for the duration of the enchantment.
+
+
+Illusory Armor
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with unreal armor. This suit of magical Light Armor has the following statistics: Resistance: 0/0/0/0, Encumbrance: 0. When the spell is cast, the caster chooses one damage type (Crush, Pierce, Slash, Acid, Cold, Electric, or Fire); the armor then provides Resistance: 8 to that damage type alone. In addition, the target of the affect can change which damage type they gain Resistance towards by spending 1 AP. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Phantasmal Pain
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell wracks a nearby creature with horrific pain while leaving no mark upon their bodies. The target suffers pain, which inflicts a -(4 +/- net hits) penalty to all checks.
+________________
+
+
+Adept Incantations
+Basic Phantasm
+(phantasm spell, 2 AP)
+Range: 30’ increment        Area of Effect: special                Duration: (casting check) minutes
+This spell creates a phantasm of Large Size or smaller with up to three sensory components (visual, auditory, tactile, olfactory, or thermal) within range. Phantasms need not be static; the caster can choose to create the the image of a running creature or the sound of a speech, for example, but all changes must be pre-programmed when the spell is cast. In addition, the phantasm itself cannot move more than 30’ from the location in which the spell was cast. Once cast, this spell persists for the indicated duration, regardless of who believes whether or not it is real. This spell is Subtle.
+
+
+False Persona
+(enchantment spell, 1 minute)
+Range: melee        Area of Effect: single target        Duration: (casting check) hours
+This spell changes the appearance of a touched creature to perfectly mimic that of any other Humanoid of her Size. Alertness checks cannot be used to see through the disguise, though Empathy remains effective to note discrepancies in her behavior. This spell can only be used to mimic a specific person's appearance if the caster has met them in person on more than one occasion.
+
+
+Illusory Weapon
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical and unreal weapon in the hand of a touched creature. The illusory weapon can be made in the image of any standard weapon (see the Equipment section) and will take on the statistics of that weapon as normal. The target can use her Melee or Ranged Weapons skill (whichever is appropriate), or whatever skill was used to cast the spell, when attacking with the illusory weapon; its attack checks are modified by the appropriate attribute as normal for its weapon type. At the start of each of their turns, the wielder can spend 1 AP to transform the Illusory Weapon into any other standard weapon of their choice; the weapon then takes on the statistics of that weapon. The wielder can sheathe and draw the weapon normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Misdirection
+(enchantment spell, 1 minute)
+Range: melee        Area of Effect: single target        Duration: 1 day
+This spell enchants either a single target or an area of up to 30’ radius; if the latter effect is used, this spell gains the [area] descriptor. When the spell is cast, the caster must program the illusion to show certain events or locales she desires; e.g. if she enchants a creature, she can show them lounging at home, or if she enchants an area she can show it completely empty. While enchanted, whenever a Divination ability is used on the target and succeeds, it will cause the viewer to receive the programmed feedback, rather than the truth. However, if the viewer manages to score hits equal to (base Difficulty + casting check), they pierce through the spell and can view the true events occurring at the locale.
+
+
+Nightmare
+(illusion spell, 2 AP)
+Range: 30’        Area of Effect: single target        Duration: (2 * casting check) rounds
+This spell summons a horrible hallucinatory creature in the mind of one enemy. The creature will relentlessly pursue and attack the target; it has a Hover speed of 30’ and can pass through solid objects or any other barrier (because it isn’t real). It has the following attack and defense values: Attack: 12/12/12, Damage: 10 (slash), Block: 12, Reflex: 10, Body: 8, Mind: 8. It has no endurance score and does not suffer wounds. If the target hits the creature with any attack, they instantly disbelieve the effect and the spell ends, otherwise it will continue to attack the target for the indicated duration, or until they become incapacitated (at which point the spell ends). Wounds inflicted by the creature are not real and end instantly if the target disbelieves the effect; if they fail to do so and become incapacitated, the wounds disappear instantly as well, though the target will not wake up for several hours (believing themselves to be near-death).
+________________
+
+
+Expert Incantations
+Invisibility
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell affects a single ally and grants them Invisibility for the duration of the enchantment.
+
+
+Masquerade
+(ritual spell, 1 minute)
+Range: caster        Area of Effect: 15’ radius                Duration: (3 * casting check) hours
+This spell disguises the caster and any number of allies within 15’ of her as per the Disguise function of the Larceny skill; these disguises are treated as phantasms that move with each enchanted target. The disguises are applied as part of the spell and the caster substitutes her casting check in place of the normal Larceny check. This ritual requires decorative masks (worth 10s each) for each affected creature.
+
+
+Mass Hysteria
+(illusion spell, 2 AP)
+Range: 30’ increment        Area of Effect: special                Duration: (casting check) minutes
+This spell creates an illusion of Large Size or smaller with up to four sensory components (visual, auditory, tactile, olfactory, or thermal) within the mind of any number of creatures within 30’ of the caster. Illusions need not be static; the caster can choose to create the the image of a running creature or the sound of a speech, for example, but all changes must be pre-programmed when the spell is cast. The illusion can move any distance and is not constrained by the initial confines of the spell. In addition, any creature that moves within 30’ of the illusion is automatically affected by it if they fail a Mind vs. casting check (the caster alone is immune to this effect). Once cast, this spell persists for the indicated duration, or until all affected targets successfully disbelieve it. This spell is Subtle.
+
+
+Mirrored Image
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates 9 illusory doubles of the target that share her space and mimic her actions. For example, when she casts a spell, the doubles appear to do so as well; when she moves, they move with her. Whenever an attack is made against the enchanted ally, she rolls randomly to determine whether she or one of the doubles is attacked (e.g. when the spell is first cast, she has a 1 in 10 chance of being attacked herself). Any attack made against a double, hit, glance, or miss, destroys it. Area attacks do not destroy the doubles; they simply react in the same manner as their master. This enchantment persists for the indicated duration, or until all the doubles are destroyed.
+
+
+Phantom Agony
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target                Duration: instant
+This spell causes the target to writhe in terrible pain that has no source. The target suffers agony, which persists for (4 +/- net hits) rounds. Agony causes them to suffer a random Trauma wound (roll a 1d6: 1-2 light, 3-4 moderate, 5-6 severe) at the start of each of their turns. Wounds inflicted by this spell are not real and end instantly when agony ends; if the target becomes incapacitated first, the wounds disappear instantly as well, though the target will not wake up for several hours (believing themselves to be near-death).
+________________
+
+
+Master Incantations
+False Reality
+(phantasm spell, 2 AP/maintain 2 AP)
+Range: 30’ increment        Area of Effect: special                Duration: (casting check) minutes
+This spell creates a phantasm of Large Size or smaller with up to four sensory components (visual, auditory, tactile, olfactory, or thermal) within range. Phantasms need not be static; the caster can choose to create the the image of a running creature or the sound of a speech, for example. The caster can, by spending 2 AP, choose to change the appearance, behavior, and/or senses affected by the phantasm; if she chooses not to maintain the spell on a given round, it simply acts on its most recent programming. In addition, the phantasm itself cannot move more than 60’ from the location in which the spell was cast. Once cast, this spell persists for the indicated duration, regardless of who believes whether or not it is real.
+
+
+Mirage
+(ritual spell, 1 hour)
+Range: caster        Area of Effect: 500’ radius                Duration: 1 week
+This spell enchants a huge area around the caster, causing it to appear as something else entirely. This phantasm includes all sensory components, and allows the caster to change the terrain and buildings within it to appear however she wishes; she can turn a desert into a forest, a hut into a castle, etc. Structures must be entirely within the affected area to be affected. Creatures and movable objects within the area are not affected, though they can potentially hide behind phantasmal trees/rocks created by this spell. This ritual requires a canvas painted to resemble the desired scene (worth 10g, or 1g and an (Artistry + Charisma) check (Difficulty: 4)); the spell does not consume the painting, meaning it can be used again.
+
+
+Perfect Reflection
+(phantasm spell, 2 AP)
+Range: 30’        Area of Effect: single target                Duration: (casting check) hours
+This spell creates a nigh-flawless copy of the caster at an open location within 30’. The reflection has all the normal Descriptors of the caster and also gains [Summoned]. If reduced to 0 endurance, the reflection instantly dissipates. It is not under her control, but free-willed and shares her knowledge, goals, motives, and convictions (essentially acting in the same manner she would). The reflection shares the caster’s Skills and Talents, but does not gain Discipline Ranks or profession abilities. It comes equipped with all gear carried by the caster (up to a maximum of Base Carrying Capacity), but any magical or runic equipment is replicated as a mundane version. In addition, no equipment carried by the duplicate can be separated from it; if this happens, that item instantly dissipates back into nothingness.

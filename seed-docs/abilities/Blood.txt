@@ -1,0 +1,154 @@
+﻿Blood
+Core Element: Soul (Necromancy only)
+
+
+Blood Cantrips
+Blood Sense (divination spell, 1 AP): This spell allows the caster to gain a brief awareness of blooded creatures in a 60’ radius around herself. The preciseness of her sense is based on the number of hits she scores on the casting check:
+*3 hits: General presence of blood/blooded creatures.
+*4 hits: Vague locations of blood/blooded creatures relative to caster (“Above you”).
+*5 hits: Sizes of blood spills/blooded creatures (Small, Medium, etc).
+*6+ hits: Specific locations of blood/blooded creatures relative to caster (“15’ above you”).
+Feast of the Damned (body spell attack, 1 AP): This spell can be used on a touched Beast or Humanoid creature who must be incapacitated or dying. If it hits, the target suffers a Deathblow and, if they die, the caster instantly heals any Light Wound affecting her.
+
+
+Incantation Summary
+(N) Bloodletting: Causes a living creature to begin bleeding.
+(N) Coagulation: Protects an ally against blood loss.
+(N) Purge the Blood: Removes poison and disease from a target.
+(N) Vampiric Grasp: Allows the caster to drain life from creatures she touches.
+(N) Vivification: Allows a creature to ignore the effects of fatigue and minor wounds.
+
+
+(A) Eruption of Gore: Causes the blood in a target to explode and sicken anyone nearby.
+(A) Grim Restoration: Heals an undead creature.
+(A) Sanguine Shield: Enchants an ally to protect them against corrupting effects.
+(A) Scent of Blood: Allows the caster to sense and track wounded creatures.
+(A) Vampiric Gaze: Drains the life from a distant target to heal the caster.
+
+
+(E) Blood Boil: Causes the blood in a target to burn them alive from within.
+(E) Crimson Lash: Conjures up a whip made of necromantic energy.
+(E) Revitalization: Allows a creature to ignore the effects of major wounds and incapacitation.
+(E) Sanguine Shade: Protects a vulnerable creature from the light of the sun and other allergies.
+(E) Transfusion: Sacrifices the caster’s health to heal an ally, or vice versa.
+
+
+(M) Blood Rejuvenation: Kills a living creature to restore another’s youth.
+(M) Cannibal Frenzy: Drives a target creature mad with a hunger for blood.
+(M) Exsanguination: Inflicts a target with a horrific bleeding wound.
+________________
+
+
+Novice Incantations
+Bloodletting
+(body spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell inflicts a Vein wound to the target of severity based on the attack net hits scored (0-2: light, 3-4: moderate, 5+: severe). This Bleeding effect is difficult to remove; the Difficulty of any Medicine or spell check to cure it is increased by 1.
+
+
+Coagulation
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with an enchantment that thickens the blood in their veins. This suit of magical Light Armor has the following statistics: Resistance: 4/0/0/0, Encumbrance: 1. The target reduces the severity of Bleeding, Vein, Trauma, and Internal wounds by 2 steps for the duration of the spell. The target cannot dismiss Coagulation if it proves cumbersome; she is stuck with it for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Purge the Blood
+(spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: instant
+This spell removes all poison and disease effects from the target by forcibly purging the infected blood from their body. This completely removes any Wound caused by the poison or disease. As might be expected, however, this is a highly-unpleasant process: for each poison removed, the target suffers a Moderate Trauma Wound; for each disease removed, they suffer a Severe Trauma Wound. Only willing targets can be affected by this spell.
+
+
+Vampiric Grasp
+(enchantment spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) minutes
+This spell allows the caster to drain the life from anything she touches. Whenever she successfully touches a creature (touch attack using her Unarmed skill), she deals (3 + net hits) endurance damage to the target and restores that much endurance to herself. If she hits an enemy with a normal Unarmed attack, she gains endurance based on the wound inflicted: Light - 1, Moderate - 3, Severe - 4, Mortal - 5.
+
+
+Vivification
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+For the duration of this spell, the target ignores any penalties they might suffer from fatigue and all Light and Moderate Wounds. Maximum endurance is not restored, and wounds that cause ongoing damage (such as Burning) still apply their effects, but any other penalties caused by the wounds are negated for the duration of the enchantment.
+________________
+
+
+Adept Incantations
+Eruption of Gore
+(body spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell inflicts an Internal wound to the target of severity based on the attack net hits scored (0-2: light, 3-4: moderate, 5+: severe). If a wound is applied, the target explodes in a burst of bloody viscera, inflicting a Bleeding wound of the same severity as the Internal wound and sickening anyone within 5’, causing them to suffer a -2 penalty to all defenses. Sickened lasts for a number of rounds based on the severity of the wound that was inflicted: Light - 1, Moderate - 2, Severe - 3.
+
+
+Grim Restoration
+(spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: permanent
+This spell can only be used on an Undead creature and restores a single wound dealt to them, the maximum severity of which is based on the number of hits scored on the casting check: 2 - light, 4 - moderate, 5 - severe, 6 - mortal.
+
+
+Sanguine Shield
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects an ally against effects that would corrupt their physical form. For the duration of the enchantment, they gain a +(casting check) bonus to all Body checks and are completely immune to all diseases, poisons, and similar effects.
+
+
+Scent of Blood
+(spell, 2 AP)
+Range: caster                Area of Effect: caster                Duration: (casting check) hours
+This spell allows the caster to sense nearby wounded creatures. While enchanted, the caster can sense any creature that has suffered any wound of any severity, regardless of barriers, as long as they are within 1,000’ of her. If their maximum endurance is reduced below 50% by wounds, they are fatigued, or they are bleeding, the distance is increased to 1 mile (if a target is farther than 1,000’ from the caster and begins bleeding but then treats the wound, the caster gains a brief awareness of their current position for the duration of the bleed). The caster must observe her surroundings in order to gain the benefits of this spell.
+
+
+Vampiric Gaze
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell causes (2 +/- net hits) endurance damage to the target. If they lose endurance because of this spell, the caster can heal a non-permanent wound she is suffering from based on the amount of endurance lost: 4 - light, 6 - moderate.
+________________
+
+
+Expert Incantations
+Blood Boil
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+If this spell hits the target, it causes the boiling blood affliction for (2 + net hits) rounds. Boiling blood inflicts a Moderate Internal Wound each round and, while active, also inflicts a -4 penalty to all checks, a -15’ penalty to Speed, and reduces the target’s AP per round by 1.
+
+
+Crimson Lash
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Whip made out of necromantic blood energy in the hands of a touched creature. The whip has the following statistics and persists for the full duration of the spell: Attack: 6/6/0, Defense: 0, Damage: 5 (slashing), Reach: 10’, Size: S. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the whip; its attack checks are modified by Strength or Agility (depending on how it is wielded) as normal for a 1-handed weapon. Attacks made with the Crimson Lash always deal Vein wounds; whenever it successfully inflicts a Vein wound of any severity, it gains +1 Reach Attack and +1 Melee Attack for its remaining duration. For every 3 Vein wounds it successfully inflicts , it gains +1 Damage as well. The wielder can sheathe and draw the whip normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Revitalization
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+For the duration of this spell, the target continues to be able to act even when they would normally be incapacitated; they also ignore the penalties of all wounds, regardless of severity severity. Maximum endurance is not restored, wounds that cause ongoing damage (such as Burning) still apply their effects, and wounds that destroy or sever limbs cannot be negated, but any other penalties caused by the wounds are negated for the duration of the enchantment.
+
+
+Sanguine Shade
+(enchantment spell, 1 minute)
+Range: melee                Area of Effect: single target        Duration: 1 day
+This spell protects a target creature from various allergens, most notably sunlight. While enchanted, the target, if they are vulnerable to daylight (i.e. if they are a vampire), suffers no penalties from being out in the sun or other bright light and can act normally and use all their abilities. For creatures with more normal allergies, this spell gives them relief for the duration of the spell as well.
+
+
+Transfusion
+(spell, 1 minute)
+Range: melee                Area of Effect: single target        Duration: permanent
+This spell can only be cast on a willing target and either drains the caster’s health to restore theirs, or vice versa. When cast, Transfusion reduces the duration of all the target’s non-permanent wounds by (casting check +3) days; in exchange, however, it causes a Moderate Trauma Wound in the non-healed party. If either party is immune to metabolic effects, this spell fails.
+________________
+
+
+Master Incantations
+Blood Rejuvenation
+(ritual spell, 1 day)
+Range: melee                Area of Effect: single target        Duration: permanent
+This spell rejuvenates a targeted creature, who must remain present for the entire ritual, with stolen blood. The ritual also requires a sacrificial victim of the same species as the target, who must also be present for the entire spellcasting and who instantly and irrevocably dies when it is complete. If the target is successfully killed, the target is made a number of years younger equal to the sacrifice’s Strength or Willpower, whichever is higher. The caster can grant the stolen youth to herself, if she desires. This ritual requires the murder of a sentient creature; any other material components are trivial in comparison.
+
+
+Cannibal Frenzy
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+If this spell hits the target, it drives them into an insatiable hunger for blood. They will seek out the nearest source of fresh blood and attempt to devour it, heedless of any danger. If a corpse is available, they will attempt to move towards it as quickly as possible and then spend 2 AP to feed, after which the insatiable hunger effect ends. If no corpses are within sight, the target will instead make basic attacks the nearest living target until it dies (at which point they spend a 2 AP to eat and the effect ends) or the effect ends automatically, which occurs after (2 + net hits) rounds.
+
+
+Exsanguination
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell causes a nearby creature to suffer horrific bleeding wounds. This spell inflicts a Vein Wound to the target of severity based on the attack net hits scored (glance: moderate, 0-2: severe, 3+: mortal).

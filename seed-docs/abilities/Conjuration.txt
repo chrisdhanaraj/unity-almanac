@@ -1,0 +1,150 @@
+﻿Conjuration
+Core Element: Light
+
+
+Conjuration Cantrips
+Grease (ground spell, 1 AP): This spell summons a 5’ wide patch of extremely-slippery grease. Any creature passing over the grease must make an (Acrobatics + Reflex) check, Difficulty: 3, or fall prone. If any burning creature passes over the grease, or a fire damage area-of-effect ability overlaps it, it catches fire and becomes burning ground, dealing 5 fire damage to any creature entering that area. The grease persists for (casting check) minutes; if set ablaze, it persists for (casting check) rounds instead.
+Trinket Conjuration (summoning spell, 1 AP): This spell conjures a mundane non-edible item of Normal Quality worth 1s or less and of Small Size or smaller. It appears in the caster’s hand and persists for (casting check) minutes. Only one item can be summoned via this spell at a time, and they cannot be sold.
+
+
+Incantation Summary
+(N) Banishment: Returns an unnatural creature to its home plane.
+(N) Conjure Weapons: Allows the caster to create magical weapons her allies can wield.
+(N) Instant Summons: Enchants an object to allow the caster to summon it to her from anywhere in the world.
+(N) Item Conjuration: Summons small and cheap items out of thin air.
+(N) Sending: Sends a magical message to a faraway target.
+
+
+(A) Aethereal Barrier: Protects an ally with a shield of magical energy that absorbs damage.
+(A) Conjure Steed: Summons a magical mount that the caster can ride.
+(A) Dimensional Door: Creates a short-lived portal between two nearby places.
+(A) Dominate Summon: Allows the caster to take control of summoned creatures.
+(A) Wizards’ Conference: Connects the caster with several faraway creatures and allows them to converse.
+
+
+(E) Astral Escape: Grants the caster an instant teleportation that occurs when she is in danger.
+(E) Circle of Imprisonment: Creates a magical circle that prevents unnatural creatures from exiting.
+(E) Conjure Armor: Allows the caster to create magical armor her allies can wear.
+(E) Instant Portal: Enchants a creature to allow the caster to summon them to her from anywhere in the world.
+(E) Treasure Conjuration: Summons large and valuable items out of thin air.
+
+
+(M) Gateway: Creates a long-lived portal between two faraway places.
+(M) Ritual of Summoning: Allows the caster to conjure forth powerful and dangerous Outsiders.
+(M) Plane Shift: Teleports the caster and her allies to another dimension.
+________________
+
+
+Novice Incantations
+Banishment
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell can only be cast on an Outsider or a creature with the Summoned descriptor. If the spell hits, deal 10 + net hits damage to the target, resisted by the target’s Elemental Resistance. If the result would inflict a Mortal Wound, the creature is banished back to its home dimension and ceases to exist in the Material World, effectively destroying it. If insufficient damage was dealt for a Mortal Wound, the target is instead disrupted and suffers a -(damage dealt) penalty to all Resistances.
+
+
+Conjure Weapons
+(summoning spell, 2 AP)
+Range: melee                Area of Effect: special                Duration: (casting check) minutes
+This spell conjures up (casting check) magical weapons that take the form of any standard weapon from the Equipment list. The weapons appear at the caster’s feet and can be wielded normally by anyone who picks them up. The caster must choose the types of weapons to be summoned when she casts the spell; each weapon can be different, if she desires. Ranged weapons create their own ammunition, and thrown weapons return to the wielder after the attack check is made. The weapons are obviously magical in nature and cannot be sold.
+
+
+Instant Summons
+(enchantment spell, 1 minute)
+Range: melee                Area of Effect: one object                Duration: special
+This spell enchants an object of Medium Size or smaller in the caster’s possession. Once enchanted, the caster can speak a command word (requiring 1 AP) to call the enchanted object from anywhere in the world into her hands immediately; this is considered a Teleport effect. Distance is no object, and the item appears immediately (if the caster does not have a free hand, the item appears at her feet). Once the item has been retrieved, the enchantment fades. If the item is held or otherwise carried by a creature, the summoning still functions. The spell persists indefinitely (until triggered), but can only be in effect on one item at a time.
+
+
+Item Conjuration
+(summoning spell, 2 AP)
+Range: melee                Area of Effect: one object                Duration: (casting check) hours
+This spell conjures mundane items out of thin air. The caster can create any number of Small Size or smaller items whose combined value must be less than 1g. The items can be used like normal by the caster or anyone she gives them to (or anyone who takes them). The item will always be of Average Quality. Items conjured by this spell are obviously aethereal in nature and thus cannot be sold, nor can this spell create food or drink.
+
+
+Sending
+(summoning spell, 2 AP)
+Range: caster                Area of Effect: special                Duration: instant
+This spell carries a spoken message to a faraway location. When this spell is cast, the caster may speak for up to (casting check) rounds; the message (and other ambient noise near her) is then magically transmitted to an intended location or recipient within 100 miles, who hears the message repeated at a normal speaking volume (other creatures nearby can hear the message as well). The caster must be familiar with the target/location to deliver the message. The Sending is delivered instantaneously.
+________________
+
+
+Adept Incantations
+Aethereal Barrier
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell enchants a target creature, protecting them with a magical barrier that absorbs the next (5 * casting check) damage dealt to them. Damage is absorbed by the barrier before Resistance is calculated, but any damage it absorbs is not applied to the enchanted target at all. If the spell has insufficient remaining absorption to completely negate an attack, it still blunts the blow and the remaining damage is applied to the target normally. This spell persists for the indicated duration, or until it absorbs the full amount of damage.
+
+
+Conjure Steed
+(summoning spell, 10 minutes)
+Range: melee                Area of Effect: special                Duration: 1 day
+This spell summons a magical horse made of aether under the caster’s control. It will follow the caster’s commands without question; if left to their own devices, magical steeds stand in one place and do nothing. It will not respond to the commands of any creature except the caster (who can command it to allow itself to be ridden by an ally) and will not respond to being attacked. The magical steed will not fight on its own, even if commanded, but it can be ridden during combat and will not shy away from battle. The steed can be controlled like a normal mount. It never tires and does not suffer forced march penalties no matter how long it is ridden. The Conjured Steed otherwise has the statistics of a standard Riding Horse.
+
+
+Dimensional Door
+(portal spell, 2 AP)
+Range: melee                Area of Effect: special                Duration: (casting check) rounds
+This spell can be cast once to create a portal at the caster’s location. Once this spell is cast, the caster can cast it again within (casting check) rounds for 2 AP on any other location within (casting check * 100)’ and within her line of sight. If she fails to re-cast the spell before the time allotment ends, the portal dissipates. If both ends are placed, the portal becomes functional, allowing creatures to pass through it, landing adjacent to the other end of the portal. The portal persists for (casting check) rounds; the caster can choose to end the effect early for 2 AP, if she desires.
+
+
+Dominate Summon
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: special
+This spell can only be cast on an Outsider or a creature with the Summoned descriptor. If the spell hits, the target comes under the caster’s control as if she had cast the spell used to summon it; she gains the usual level of control over the target granted to it by said spell, and all drawbacks (if any) of this spell as well. She gains control over the creature until the spell used to summon it ends, or she dismisses the effect. If the target was not summoned by a spell, the caster instead charms the target for (1 + net hits) rounds, causing its Attitude towards her to become Loyal.
+
+
+Wizards’ Conference
+(enchantment spell, 10 minutes/maintain 2 AP)
+Range: caster                Area of Effect: special                Duration: (casting check) hours
+This spell allows the caster to link her thoughts with faraway comrades, allowing them to converse in mental space. She can select up to (casting check * 2) additional participants when she casts the spell; only willing participants are included, but any individual turning down the request does not cancel the conference. When the spell is cast, all involved enter a mental space where their physical bodies are reflected, allowing them to speak, gesticulate, and deliver body language normally. Items can be shown, but only items held by an individual transfer to the conference ‘space,’ meaning they can only be exhibited and not passed around. Participating in the conference requires 2 AP per round and causes the target to become oblivious to their surroundings; if this maintenance cost is not paid, the target simply loses track of the conference until she begins concentrating again. The conference lasts for a maximum of (casting check) hours, but any individual can leave it early if they desire.
+________________
+
+
+Expert Incantations
+Astral Escape
+(enchantment spell, 1 hour)
+Range: caster                Area of Effect: caster                Duration: special
+This spell enchants an area, allowing the caster to teleport there when in danger. When she casts this spell, she enchants a target location. At any point thereafter, she can activate this spell again for 2 AP in order to Teleport instantaneously to the enchanted location, at which point the enchantment fades. This spell lasts indefinitely until triggered, but the resources used to cast it cannot be regained while the enchantment is active.
+
+
+Circle of Imprisonment
+(enchantment spell, 1 hour)
+Range: melee                Area of Effect: 15’ radius                Duration: variable
+This spell creates a magical circle that prevents unnatural creatures within from escaping. Once the circle is cast, it remains inactive until the caster chooses to activate it as a free action reaction. Once active, any Outsider or Summoned creature within the circle can make a single Mind check (against the casting check) to escape. If this check fails, they are trapped within for the remainder of the effect. Applicable targets outside the circle must make the same Mind check to enter the circle, after which they must make a second Mind check to escape. If the caster successfully traps a creature within the Circle of Imprisonment, she gains a +4 bonus to all checks made to interact with it in any fashion, for as long as it remains within. This spell can remain active as long as the caster desires, but any resources spent to cast it cannot be recovered while it is active.
+
+
+Conjure Armor
+(summoning spell, 1 minute)
+Range: melee                Area of Effect: special                Duration: (casting check) minutes
+This spell conjures up (casting check) magical suits of armor that take the form of any standard armor from the Equipment list. The suits of armor can either appear at the caster’s feet, or already equipped on willing targets adjacent to her. The caster must choose the types of armor to be summoned when she casts the spell; each suit of armor can be different, if she desires. The armor is obviously magical in nature and cannot be sold.
+
+
+Instant Portal
+(enchantment spell, 1 hour)
+Range: melee                Area of Effect: one object                Duration: special
+This spell enchants a willing creature of Medium Size or smaller. Once enchanted, the caster can speak a command word (requiring 1 AP) to call the enchanted creature from anywhere in the world into a space adjacent to her immediately; this is considered a Teleport effect. Distance is no object, and the creature appears immediately; if they do not wish to be summoned at that time, they are allowed a Mind check against the casting check to resist the effect. Once the target has be summoned, the enchantment fades. The spell persists indefinitely (until triggered), but can only be in effect on one creature at a time.
+
+
+Treasure Conjuration
+(summoning spell, 1 minute)
+Range: melee                Area of Effect: one object                Duration: (casting check) hours
+This spell conjures valuable items out of thin air. The caster can create any number of Huge Size or smaller items whose combined value must be less than 25g. The items can be used like normal by the caster or anyone she gives them to (or anyone who takes them). Higher-Quality items can be summoned, but the cost increases accordingly like normal. Items conjured by this spell are obviously aethereal in nature and thus cannot be sold, nor can this spell create food or drink.
+________________
+
+
+Master Incantations
+Gateway
+(ritual spell, 1 day)
+Range: melee                Area of Effect: 15’ radius                Duration: variable
+This spell allows the caster to create a gateway between her current location and a faraway place. She can create a gate to any place she has visited at least once and can visualize clearly (if the area changes dramatically since she last visited, such as a volcano erupting, the spell will fail). When the spell is complete, the gate appears and any creature can pass through it for 2 AP to move from one side to the other. As long as it remains active, the caster cannot recover the resources spent to cast the spell; however, she can close the gate by spending 1 minute channeling while adjacent to it;. Creatures within the gate when it closes are shunted harmlessly to one side or the other (50% chance of each). This ritual requires 1g worth of diamond dust, drawn into a ritual circle as part of the spellcast.
+
+
+Ritual of Summoning
+(ritual spell, 1 hour)
+Range: melee                Area of Effect: one creature        Duration: permanent
+This spell allows the caster to summon up any Outsider creature whose name she knows. The creature is allowed a Mind check to resist; if it fails, it appears in an open space adjacent to her (if she’s smart, she will have cast a Circle of Imprisonment there first). The Outsider may or may not be friendly depending on its proclivities and is stuck on the Material Plane permanently until the caster or another sees fit to banish it in some fashion. This ritual requires 1g worth of various material components used to entice the outsider to appear; as with the Occultism skill, the character may research and provide specific objects as ‘bait’ in order to increase her chances (potentially granting her a bonus).
+
+
+Plane Shift
+(ritual spell, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: instant
+This spell, when cast, transports the caster and any number of other willing creatures within 15’ of her to another plane of existence. The caster must either visualize the location she wishes to teleport to clearly (i.e. she must have been there at least once previously), or have some sort of guide or cosmic focus that she can direct her teleportation towards. In either case, Plane Shift causes the caster and allies to appear (50 - (casting check *10)) miles displaced from the intended destination. This ritual requires 5g worth of onyx dust, drawn into a ritual circle as part of the spellcast. This spell is considered a Teleport.

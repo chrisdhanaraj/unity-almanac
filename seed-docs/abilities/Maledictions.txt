@@ -1,0 +1,155 @@
+﻿Maledictions
+Core Element: Darkness
+
+
+Malediction Cantrips
+Minor Malediction (mind spell attack, 1 AP): This spell has a range increment of 15’; if it hits, it inflicts malediction upon the target, inflicting a -2 penalty to the next check they make. This spell is Subtle.
+Weaken Knees (mind spell attack, 1 AP): This spell has a range increment of 15’; if it hits, it knocks the target prone. This spell is Subtle.
+
+
+Incantation Summary
+(N) Command: Forces a creature to obey a one-word command.
+(N) Executioner’s Axe: Summons a magical axe that seeks only death.
+(N) Harden the Heart: Makes a creature less open to negotiations.
+(N) Maledictive Brand: Curses creatures around the caster to make them unable to hide.
+(N) Uncertainty: Causes a target to become unable to make decisions.
+
+
+(A) Denunciation: Isolates a target from their allies.
+(A) Indifference: Makes a target aloof and uncaring.
+(A) Ire: Makes a creature more hostile to a specified target.
+(A) Maledictive Exposure: Curses creatures around the caster to make them more vulnerable.
+(A) Mortal Weakness: Enchants a creature to increase the burden of their wounds.
+
+
+(E) Curse: Hexes a target with extreme bad luck.
+(E) Edict: Forces a creature to obey a spoken command.
+(E) Incarceration: Curses creatures around the caster to make them unable to move.
+(E) Judgment: Brands a creature to compel them to act in a certain fashion.
+(E) Shroud of the Condemned: Summons magical armor to briefly protect an ally before their demise.
+
+
+(M) Death Sentence: Condemns an unlucky target to a slow, wasting demise.
+(M) Execration: Curses creatures around the caster, striking them blind, deaf, and dumb.
+(M) The First Stone: Forces two creatures to begin fighting.
+________________
+
+
+Novice Incantations
+Command
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: one round
+This spell forces an enemy to obey a one-word command. If the spell hits, the caster can select one of the following commands (or, if she wants something different, work it out with the GM), which the target must obey on their following turn. The effect ends at the end of the target’s next turn, or when they successfully complete the command, whichever is sooner.
+*”Away”: The target walks away from the caster at normal movement speed for 1 AP.
+*”Come”: The target walks towards the caster at normal movement speed for 1 AP.
+*”Down”: The target falls prone (1 AP) and cannot stand up for 1 round.
+*”Drop”: The target drops whatever it is holding (0 AP) and cannot pick up anything new for 1 round.
+*”Stay”: The target holds still (0 AP) and cannot move for 1 round.
+
+
+Executioner’s Axe
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Axe of smouldering hatred in the hand of a touched creature. This two-handed axe has the following statistics and persists for the full duration of the spell: Attack: 6/0/0, Defense: 0, Damage: 12 (slashing), Reach: 5’, Size: M. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the axe; its attack checks are modified by Strength as normal for a 2-handed weapon. The Executioner’s Axe gains a +4 bonus to hit fatigued creatures and, whenever it incapacitates a target, deals a Deathblow to them. The wielder can sheathe and draw the axe normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Harden the Heart
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: 1 day
+This spell attacks one creature within 30’ of the caster. All creatures are treated as being (2 +/- net hits) Attitude levels lower with the target, to a minimum of Hostile, for the purposes of negotiating with that NPC for tasks. In addition, the NPC considers all creatures to be in the Task-waiting-interval period. This spell is Subtle.
+
+
+Maledictive Brand
+(body spell attack, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: instant
+This spell curses all creatures around the target, branding them for (4 +/- (2 * net hits)) rounds. While branded, they suffer a -4 penalty to Deceit and Stealth checks and cannot benefit from Concealment, Cover, or Invisibility.
+
+
+Uncertainty
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell curses a target with uncertainty for (2 +/- net hits) hours; while under this effect, whenever they wish to make any decision, they must make a Mind check against the casting check or spend 1 round fretting over the choice and accomplish nothing (after which they can attempt to make up their mind again). This includes both in-combat decisions, like who to attack, and mundane decisions, like what to have for lunch.
+________________
+
+
+Adept Incantations
+Denunciation
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell denounces the target for (2 +/- net hits) minutes; this effect prevents any beneficial shout, spell, status effect, or other beneficial effect from being applied to them or used on them by an ally for the duration. Preexisiting boons are not removed, and they are still free to buff themselves if desired.
+
+
+Indifference
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell curses a target with indifference for (2 +/- net hits) hours; while under this effect, whenever they wish to interact with any other creature, they must make a Mind check against the casting check or decide it isn’t worth their time and go do something else instead. This includes both in-combat interaction, like attacking an enemy or helping an ally, and mundane decisions, like talking to a waiter to order lunch. This spell is Subtle.
+
+
+Ire
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: special
+This spell targets a creature and then attacks all creatures within 30’ of them. These creatures have their Attitude towards the initial target reduced by (2 +/- net hits) steps, to a minimum of Hostile. This Attitude change persists for 1 day, at which point the effects decrease by 1 per day until the effect is completely negated. Any other Attitude changes that occur in the interim are unaffected by this spell. A given creature can only have its Attitude towards a specified target affected by this spell once. Creatures engaged in combat are unaffected by this spell. This spell is Subtle.
+
+
+Maledictive Exposure
+(body spell attack, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: instant
+This spell curses all creatures around the target, exposing them for (4 +/- (2 * net hits)) rounds. While exposed, they suffer a -3 penalty to all Resistances.
+
+
+Mortal Weakness
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell increases the pain of a target’s wounds. If it hits, the target suffers mortality for (1 + net hits) minutes, which causes all their wounds to be treated as one severity higher for the purposes of penalties applied to the target. Endurance reduction does not change, and any wound that would kill the target instead applies a stacking -4 penalty to all checks. If a wound would destroy or remove some body part, it just becomes limp and useless for the duration of the spell.
+________________
+
+
+Expert Incantations
+Curse
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell curses a target for (8 +/- (2 * net hits)) hours; while cursed, they treat only 6s as successes on their skill checks, rather than 5s and 6s normally.
+
+
+Edict
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: (casting check) rounds
+This spell forces an enemy to obey a command no longer than (2 * casting check) words in length. If the spell hits, the caster can speak the command, which the target must obey for the duration of the spell, or they finish the command, whichever happens sooner. The command must be clear and exact; general and/or vague commands have no effect and the spell ends immediately. Commands that are obviously suicidal are also ignored, causing the spell to end immediately.
+
+
+Incarceration
+(body spell attack, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: instant
+This spell curses all creatures around the target, incarcerating them for (4 +/- (2 * net hits)) rounds. While incarcerated, they cannot move of their own volition; forced-movement effects still function on them normally.
+
+
+Judgment
+(ritual spell, 1 minute)
+Range: melee                Area of Effect: single target        Duration: (casting check) weeks
+This spell marks an enemy to force them to act in a certain manner. The target is allowed a Mind vs. casting check to resist this spell; if they are hit, they become compelled to act in a fashion specified by the caster. The orders cannot be suicidal or certain to result in the target’s death, and must affect the target’s behavior in some fashion; they cannot be commanded to perform specific tasks (thus, “Do not steal,” is a legitimate command, while “Fetch me a shrubbery,” is not). The command must be no longer than 10 words in length. If the target fails to obey the terms of the Judgment, they suffer a stacking drain that reduces all their attributes by 1 for each day they fail to obey. Once they begin obeying the command again, the drain is reduced by 1 per day; this drain cannot otherwise be removed unless the Judgment is removed. The Judgment is considered an Enchantment and has a +4 bonus to resist being removed. Note that this spell enforces the letter of the command, rather than the spirit, meaning that a clever target can subvert poorly-worded orders. This ritual requires 1g worth of ritual dye, which is used to draw the brand on the target (in some conspicuous place, such as the forehead, chest, or hand).
+
+
+Shroud of the Condemned
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with sinister magical armor, resembling nothing so much as a burial shroud. This suit of magical Heavy Armor has the following statistics: Resistance: 10/10/10/5, Encumbrance: 10. The armor also prevents any metabolic or physical condition, good or ill, from affecting the target (preexisting status effects are not removed), and prevents them from being incapacitated regardless of wounds suffered or endurance lost. When the spell ends, the target’s endurance is reduced to 0. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+________________
+
+
+Master Incantations
+Death Sentence
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell dooms a target to a slow wasting demise. If it hits, the target suffers the death sentence, which reduces their maximum endurance and all attributes by 1 per day. If their maximum endurance is reduced to 0 while under this effect, they are dealt a Deathblow.
+
+
+Execration
+(body spell attack, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: instant
+This spell curses all creatures around the target, making them blind, deaf, and silenced for (4 +/- (2 * net hits)) rounds. Blindness makes them unable to see, deafness makes them unable to hear, and silence prevents them from speaking or making any other sound. Each of these effects must be removed separately.
+
+
+The First Stone
+(mind spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: two targets                Duration: (casting check) minutes
+This spell targets two creatures, both of whom must be within 30’ of each other. If either target fails the Mind check, their Attitude towards the other is immediately dropped to Violent and they will attempt to initiate physical conflict. If both fail, they will fight normally; if only one fails, they will attack the surely-very-confused other party. This Attitude change persists for (casting check) minutes, or until one of the two creatures becomes incapacitated. When the spell ends, all Attitude adjustment reverts back to normal (though if only one creature was affected, the other may have their attitude lowered by the random engagement of hostilities). Creatures already engaged in combat are unaffected by this spell. This spell is Subtle.

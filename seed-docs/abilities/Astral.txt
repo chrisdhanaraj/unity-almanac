@@ -1,0 +1,150 @@
+﻿Astral
+Core Element: Air
+
+
+Astral Cantrips
+Warp Space (spell, 1 AP): The caster teleports a small nearby item into her hand. The item must be of Small Size or smaller, must not be held, carried, or otherwise attended by another creature, and requires the caster to succeed a casting check (Difficulty: 3) to function. This spell has a range increment of 30’.
+Weightlessness (enchantment spell, 1 AP/maintain 1 AP): While the caster maintains this spell, she floats a short distance off the ground (approximately 1’ - 3’). This allows her to ignore Difficult Terrain and Ground effects, but also reduces her Speed by half. Her distance to the ground remains the same regardless of changes in the terrain, but she cannot use this spell to move up inclines she could not normally walk up. She also reduces falling damage taken by half while this spell is active.
+
+
+Incantation Summary
+(N) Astral Inversion: Allows the caster to briefly hide in astral space, where she cannot be found.
+(N) Blink: Teleports the caster a short distance.
+(N) Dimensional Anchor: Prevents a target creature from teleporting or becoming incorporeal.
+(N) Sidereal Ray: Fires a beam of sunlight or moonlight at an enemy.
+(N) Starfire Blade: Creates a magical weapon of burning starfire.
+
+
+(A) Aethereal Seal: Prevents others from teleporting into or magically divining an area.
+(A) Astral Guidance: Allows the caster to navigate by the light of the stars.
+(A) Celestine Fire: Creates a swirling nebula of sunfire or moonfire.
+(A) Cosmic Attunement: Grants the caster increased awareness of events around her.
+(A) Starlight Bulwark: Protects a creature with a barrier of glowing stars.
+
+
+(E) Aethereal Step: Causes an ally to teleport whenever they move.
+(E) Dimensional Push: Teleports another creature, willing or not, a short distance.
+(E) Distort Reality: Enchants a creature to cause them to phase in and out of existence.
+(E) Implosion: Warp space within a creature’s body to kill them messily.
+(E) Teleport: Allows the caster to travel instantaneously between distant locations.
+
+
+(M) Aethereal Metamorphosis: Transforms the caster into a being of pure magic.
+(M) Astral Projection: Allows communication between far-distant creatures.
+(M) Starfall: Conjures a meteor to fall from the sky and impact after a short delay.
+________________
+
+
+Novice Incantations
+Astral Inversion
+(teleport spell, 2 AP)
+Range: caster        Area of Effect: caster                Duration: (casting check) rounds
+When she casts this spell, the caster disappears into a small pocket of astral space. While hiding, she cannot move or cast spells (the extradimensional space warps magic to a degree spells are useless), but can otherwise act normally. She cannot detect or interact with the real world in any way, instead floating motionless in an endless starry void. Likewise, creatures in the real world cannot see or detect her in any way. When the spell ends, the caster immediately reappears in the location at which she cast the spell. The caster can choose to end the spell early, if she desires. This spell does not inflict Teleportation Shock.
+
+
+Blink
+(teleport spell, 2 AP)
+Range: caster        Area of Effect: caster                Duration: instant
+The caster instantly teleports to a location within 120’ and in her line of sight.
+
+
+Dimensional Anchor
+(mind spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell shackles a target to their current aethereal location, anchoring them for (2 +/- net hits) minutes. While anchored, they cannot use any Teleport ability, nor can they become Incorporeal.
+
+
+Sidereal Ray
+(ranged spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell shoots a beam of celestial radiance at the target. If used during the day, it fires a ray of sunfire that deals 6 fire damage and, on hit, reveals the target, preventing them from benefiting from Cover or Concealment. If used at night, it fires a ray of moonfire that deals 6 cold damage and, on-hit, weakens the target, reducing all damage and healing they cause by 3.
+
+
+Starfire Blade
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Heavy Blade of glowing starlight in the hand of a touched creature. This large sword has the following statistics and persists for the full duration of the spell: Attack: 6/2/0, Defense: 4, Damage: 10 (special), Reach: 5’, Size: M. The target can use her Melee Weapons skill, or whatever skill was used to cast the spell, when attacking with the starfire blade; its attack checks are modified by Strength as normal for a 2-handed weapon. The Starfire Blade deals fire damage if the spell was cast during the day, or cold damage if the spell was cast at night. In addition, if cast during the day, the Blade projects Light in a 15’ radius around itself; this is treated as natural sunlight. If the spell was cast at night, the Blade instead deals +4 damage to Unnatural creatures. The wielder can sheathe and draw the sword normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+________________
+
+
+Adept Incantations
+Aethereal Seal
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: 60’ radius                Duration: (casting check) hours
+This spell seals a large area around the caster against aethereal intrusion. For the duration of the enchantment, all Teleport abilities that originate and/or terminate within the affected area automatically fail and do nothing. Likewise, all Divination abilities that would target the affected area or be used from within it also automatically fail and do nothing.
+
+
+Astral Guidance
+(ritual spell, 8 hours)
+Range: caster        Area of Effect: caster                Duration: instant
+This spell allows the caster to navigate by the light of the stars; when she completes this spell, she makes a casting check and uses that result for a Bushcraft check to determine travel speed for a journey (against the normal Difficulty based on the biome). If she scores any net hits on this check, her group’s travel speed is increased by 10% per net hit scored. This spell gains a +4 bonus to the casting check if cast at night, and a -4 penalty if cast during the day. The ritual requires a star chart penned onto a sheet of paper or parchment (worth 50s).
+
+
+Celestine Fire
+(cloud spell, 2 AP)
+Range: 30’ increment        Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell creates a swirling nebular cloud of cosmic fire that blocks vision as though it was Fog. If cast during the day, any creature within the cloud suffers a light Burning wound and is blinded as long as they continue burning, preventing them from seeing anything. If cast at night, any creature within the cloud suffers a light Frostbite wound and loses 1 enchantment active on them at random each round they continue suffering from the wound.
+
+
+Cosmic Attunement
+(enchantment spell, 2 AP)
+Range: caster        Area of Effect: caster                Duration: (casting check) hours
+This spell attunes the caster to the natural alignment of the astral. If cast during the day, she gains a +4 bonus to Alertness and Investigation checks, gains Keen Vision, and cannot be blinded. If cast at night, she instead gains a +4 bonus to non-casting check Astrology and Spellsight checks, gains Darkvision, and her spells cannot be interrupted.
+
+
+Starlight Bulwark
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with glowing armor formed of slowly-gyrating star formations. This suit of magical Medium Armor has the following statistics: Resistance: 3/3/3/9, Encumbrance: 5. The armor also projects Light in a 10’ radius around itself, grants the wearer a +4 bonus to all defense checks against Unnatural creatures, and prevents them from Teleporting (willingly or unwillingly). By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+________________
+
+
+Expert Incantations
+Aethereal Step
+(enchantment spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell enchants a single ally. For the duration of the spell, whenever they would spend AP to move, they can instead Teleport a distance equal to their Speed. However, in order to do so, they must have line of sight to the location to which they wish to move. They can still choose to walk normally rather than teleport, if they desire. This spell does not cause Teleportation Shock.
+
+
+Dimensional Push
+(touch spell teleport attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell forces a nearby creature through a briefly-formed interdimensional portal. The spell Teleports the target (10 +/- (10 * net hits))’ in a direction of the caster’s choice. Willing parties can forfeit the defense check if they wish to be teleported.
+
+
+Distort Reality
+(enchantment spell, 2 AP/maintain 1 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell enchants a touched ally and causes them to phase in and out of reality. At the start of each of their turns, they have a 50% chance to become Incorporeal until the start of their next turn. If they are not Incorporeal, they are still treated as having Concealment for that round. By spending the maintenance cost, the caster can choose which of the two effects to force onto the target that round, but they must be within 30’ for her to do so.
+
+
+Implosion
+(area spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: single target        Duration: instant
+This spell turns a target creature inside-out, inflicting a Trauma wound to them of severity based on the attack net hits scored (0-1: light, 2: moderate, 3: severe, 4+: mortal). Any creature incapacitated by this wound is dealt a Deathblow. If the target is immune to Trauma wounds (generally, just Unliving creatures), this spell deals a Crushing wound to them instead.
+
+
+Teleport
+(ritual teleport spell, 1 minute)
+Range: caster        Area of Effect: caster                Duration: instant
+This spell allows the caster to travel instantaneously from one place to another. She can teleport to any place she has visited at least once and can visualize clearly (if the area changes dramatically since she last visited, such as a volcano erupting, the spell will fail). When the spell is complete, the caster instantly disappears and reappears in the desired location. This ritual requires 50s worth of diamond dust, drawn into a ritual circle as part of the spellcast.
+________________
+
+
+Master Incantations
+Aethereal Metamorphosis
+(transformation spell, 2 AP)
+Range: caster        Area of Effect: caster                Duration: (2 * casting check) rounds
+This spell infuses the caster’s body with pure magical energy. While transformed, she gains a Hover speed equal to her normal Speed, gains spellpower for the duration, granting her a +6 bonus to all Magic checks, and reduces the casting time of all spells by 1 AP (to a minimum of 1 AP). In addition, she can perform all Spellsight actions for 0 AP, but no more than once per round, and scores 6 automatic hits on the check. However, whenever she casts a spell while under the effects of this enchantment, she loses endurance equal to the spell’s Rank.
+
+
+Astral Projection
+(ritual spell, 1 minute)
+Range: caster        Area of Effect: caster                Duration: (10 * casting check) minutes
+This spell allows the caster to connect her mind to up to 12 other creatures of her choice, all of whom she must have met in person at least once. Only willing targets are affected; those who wish to avoid the effects of the spell can do so automatically. Once the spell is cast, the caster and all willing targets create aethereal projections of themselves at the locations of all other participants, allowing them to speak and converse with one another as if they were all present. This does not allow them to perceive the surroundings of other participants in the spell; they can only see the physical forms of their colleagues. This ritual requires a small silver lantern (worth 15g); this object must remain lit for the duration of the spell but is otherwise unharmed by the casting.
+
+
+Starfall
+(area spell attack, 2 AP)
+Range: 30’ increment        Area of Effect: 15’ radius                Duration: instant
+This spell calls forth a comet or a meteor from the heavens to strikes a target location. On the start of the caster’s next turn after this spell is cast, the falling star impacts the chosen area, attacking all creatures there. If cast during the day, a meteor impacts the area, dealing 14 fire damage to all creatures there and knocking those hit prone. If cast at night, a comet impacts the area, dealing 10 cold damage to all creatures there and causing those hit to become stunned, reducing their AP by 2 for (1 + net hits) rounds. Creatures are allowed an (Alertness + Intuition) check (Difficulty: casting check -1) to notice the falling star’s descent early (thus giving them a chance to move out of the way).

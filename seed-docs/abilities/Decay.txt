@@ -1,0 +1,150 @@
+﻿Decay
+Core Element: Life
+
+
+Decay Cantrips
+Decompose (spell, 1 AP): This spell can be cast on a nonliving body or food item to cause nature to reclaim it. A corpse immediately becomes overgrown with fungus and small plants, making it impossible to bring the victim back to life or to use the corpse for any other purpose (such as Necromancy spells). The corpse turns to compost within 24 hours and leaves no trace behind. A food item spoils immediately and turns into nothing more than sludge after a few hours.
+Wilt (body spell attack, 1 AP): This spell causes a touched plant of Small Size or smaller or a touched animal of Tiny Size or smaller to wither and die if it fails the Body check. You monster.
+
+
+Incantation Summary
+(N) Befoul: Pollutes a large amount of food and drink.
+(N) Fungal Aura: Surrounds a creature with a poisonous cloud of fungal spores.
+(N) Laryngitis: Infects a creature with a disease that inhibits speech.
+(N) Rot: Damages an enemy over time.
+(N) Venom Bolt: Afflicts an enemy with a virulent venom.
+
+
+(A) Autumnal Decay: Damages and saps the strength from creatures in an area.
+(A) Blinding Toxin: Envenoms an enemy to blind them.
+(A) Fetid Carapace: Protects a creature with disgusting magical armor.
+(A) Miasma: Infects a creature with a disease that makes them exhausted and weak.
+(A) Wood Blight: Creates a zone of decay that weakens creatures within.
+
+
+(E) Blackbow of Ruin: Summons a magical bow that causes rapid decomposition in those it hits.
+(E) Contaminate: Causes a large natural area to become corrupt and dead.
+(E) Fever Dream: Infects a creature with a disease that causes them to hallucinate.
+(E) Necrotization: Rots a creature from within, killing them quickly.
+(E) Paralytic Poison: Poisons an enemy to make it difficult for them to move.
+
+
+(M) Apple of Delight: Corrupts a meal to kill anyone who partakes of it.
+(M) Deadly Spores: Bombards an area with poisonous spores.
+(M) Green Death: Infects a creature with a deadly plague that spreads rapidly.
+________________
+
+
+Novice Incantations
+Befoul
+(spell, 1 minute)
+Range: melee                Area of Effect: special                Duration: permanent
+This spell causes up to (2 * casting check) touched edible objects or one plant of Large Size or smaller to become corrupted. Affected foodstuffs become putrescent, foul tasting and smelling, and obviously inedible. Any creature that persists in eating gains no nourishment and must make a Body check (against the casting check) or become nauseated, inflicting a -4 penalty to all checks and reducing their AP by 1. Affected plants quickly become diseased and brown, dying over the course of 1d6 hours. Plant-like Primordial creatures, such as dryads and wood elementals, can be attacked by this spell (treat as a Body spell attack that must be used from melee range, any Spacing); it deals 8 acid damage to them, rather than instant death.
+
+
+Fungal Aura
+(enchantment spell, 2 AP)
+Range: melee                Area of Effect: single target        Duration: (casting check) minutes
+This spell surrounds a target with a cloud of poisonous spores. At the start of each of their turns, they attack all creatures within 15’ of themselves and disorient those within for (2 +/- net hits) rounds. Disoriented creatures cannot make opportunity attacks and have their Engagements reduced to 0.
+
+
+Laryngitis
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+If this spell hits, it causes the target to become diseased; while diseased, they cannot speak, cast spells, or use shout abilities due to a lack of ability to speak. At the start of each of their turns, any creature adjacent to them must make a Body check (against the casting check) or become diseased as well. This spell is Subtle.
+
+
+Rot
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell causes a target to rot for (2 +/- net hits) rounds. While rotting, they suffer a Light Trauma Wound each round and, if they would be incapacitated while under its effects, suffer a Deathblow. Any creature killed by this spell immediately decomposes.
+
+
+Venom Bolt
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell, if it hits, inflicts a Light Poison Wound on the target; if it scores 2+ net hits, it instead inflicts a Moderate Poison Wound. This special wound reduces maximum endurance as normal based on its severity and has the normal recovery time. The wound is metabolic and inflicts a penalty to all checks until it heals based on the severity: Light -2, Moderate -4.
+________________
+
+
+Adept Incantations
+Autumnal Decay
+(area spell attack, 2 AP)
+Range: caster                Area of Effect: 15’ radius                Duration: instant
+This spell attacks all creatures and all objects made of organic material in a 15’ radius around the caster. All affected targets begin decaying for (2 +/- net hits) rounds. While decaying, creatures take 5 acid damage per round and have their total Resistance to all damage types reduced by half. Unattended objects are automatically affected by this spell, while attended objects are allowed a Reflex check (on the part of their owner) to avoid its effects.
+
+
+Blinding Toxin
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell, if it hits, inflicts a Minor Poison Wound on the target; if it scores 2+ net hits, it instead inflicts a Moderate Poison Wound; if it scores 4+ net hits, it instead inflicts a Severe Poison Wound. This special wound reduces maximum endurance as normal based on its severity and has the normal recovery time. The wound is metabolic and applies a penalty to Intuition-based checks based on the Severity: Minor -4, Moderate -8, Severe causes the target to become blinded, preventing them from seeing anything.
+
+
+Fetid Carapace
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell protects a touched creature with magical, and quite disgusting, armor. This suit of magical Medium Armor has the following statistics: Resistance: 2/5/8/6, Encumbrance: 6. At the start of each of the wearer’s turns, all creatures adjacent to her are attacked (casting check vs. Body) and nauseated for (1 +/- net hits) rounds; nausea incurs a -4 penalty to all checks and reduces AP by 1. By spending 2 AP, the target can either dismiss or resummon the armor for the duration of the spell. Any target already wearing armor cannot be affected by this spell.
+
+
+Miasma
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+If this spell hits, it causes the target to become diseased; while diseased, they cannot recover endurance, suffer a -15’ penalty to Speed, and a -2 penalty to all Strength and Agility checks. At the start of each of their turns, any creature adjacent to them must make a Body check (against the casting check) or become diseased as well. This spell is Subtle.
+
+
+Wood Blight
+(ground spell, 2 AP)
+Range: 30’ increment                Area of Effect: 15’ radius                Duration: (casting check) minutes
+This spell causes an area to begin to decay. All plant life within the area becomes blighted and will die if the spell lasts its full duration, while ambient animal life will flee immediately. Any creature who enters the area or begins their turn there is attacked (casting check vs. Body) and becomes weakened for (2 +/- net hits) minutes; weakened inflicts a -2 penalty to all checks and a -2 penalty to damage dealt.
+________________
+
+
+Expert Incantations
+Blackbow of Ruin
+(summoning spell, 2 AP)
+Range: melee        Area of Effect: single target        Duration: (casting check) minutes
+This spell creates a magical Bow that fires arrows brimming with corruption in the hand of a touched creature. The bow has the following statistics and persists for the full duration of the spell: Damage: 5 (acid), Range: 45’, Reload: 1 AP, Size: S, Melee Stats: (treat as Small-Size Club). The target can use her Ranged Weapons skill, or whatever skill was used to cast the spell, when attacking with the blackbow; its attack checks are modified by Intuition as normal for a ranged weapon. The Blackbow of Ruin gains a +2 bonus to hit targets in short range; in addition, any target hit by its attacks begins decaying for (2 +/- net hits) rounds and suffers 4 acid damage per round. If the target is incapacitated while decaying, they are dealt a Deathblow and, if killed, instantly dissolve to an indistinguishable mass. The wielder can sheathe and draw the bow normally; while “sheathed,” it disappears back into the aether and cannot be seen or interacted with.
+
+
+Contaminate
+(ground spell, 1 minute)
+Range: caster                Area of Effect: 120’                Duration: permanent
+This spell corrupts a huge area around the caster, causing plant life there to wither and die over the course of several hours, and all natural creatures to flee. No living things will grow within the spell’s area of effect, and any living creature that enters the area suffers a stacking drain each round they remain there, reducing their attributes by 1 per stack. In addition, all healing, medicine, and other restorative abilities are completely ineffective within the Contamination, and any creature incapacitated in the area suffers a Deathblow.
+
+
+Fever Dream
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell diseases a target, causing them to suffer hallucinations chosen by the caster. This is considered an illusion with every sensory component; the caster can choose how the hallucination appears when she casts the spell, but cannot change it once the spell has been cast. At the start of each of their turns, any creature adjacent to them must make a Body check (against the casting check) or become diseased as well. If Fever Dream spreads to other creatures, they will witness the same illusion as the initial target. This spell is Subtle.
+
+
+Necrotization
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+If this spell hits, it causes the target to begin necrotizing for (2 + net hits) rounds; while necrotizing, the target suffers Corrosion wounds of increasing severity: on the first round of the effect, they suffer a Light Wound; on the second, a Moderate Wound; on the third, a Severe Wound; on the fourth and every round thereafter, they suffer a Mortal Wound. If this spell incapacitates the target, their body completely decays and crumbles into mush.
+
+
+Paralytic Poison
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+This spell, if it hits, inflicts a Moderate Poison Wound on the target; if it scores 2+ net hits, it instead inflicts a Severe Poison Wound. This special wound reduces maximum endurance as normal based on its severity and has the normal recovery time. The wound is metabolic, doubles any penalties to Encumbrance the target might be suffering, and applies a penalty to Speed and Agility based on the severity: Moderate -10’ Speed and -2 Agility; Severe -20’ Speed and -4 Agility.
+________________
+
+
+Master Incantations
+Apple of Delight
+(enchantment spell, 1 minute)
+Range: melee                Area of Effect: special                Duration: permanent
+This spell corrupts one or more edible objects (at the caster’s option, it can infect a single item, such as an apple, or an entire banquet table worth of foodstuffs). Any creature that eats the food must make a Body check. If they fail, they become poisoned, which has no immediate effect. After 1 hour, they become sickened and suffer a -2 penalty to all checks. 1 hour after that, they must make a second Body check or suffer nausea, inflicting a -4 penalty to all checks and reducing AP by 1. On the 4th hour, they must make a 3rd Body check or fall unconscious. On the 5th hour, they must make a final (4th) Body check or die instantly. If an affected creature succeeds any of the Body checks, the poison halts its progression and ends after 1 day. This enchantment persists on the food for 1 day and is extremely difficult to notice (-(casting check) penalty to checks made to detect it); if it expires, the food can be eaten without harm.
+
+
+Deadly Spores
+(area spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: 10’ radius                Duration: instant
+Deadly. Spores. This spell bombards an area with highly-toxic fungal spores. All creatures in the area are attacked for 8 acid damage; those hit also suffer a Moderate Poison Wound. If the attack scores 2+ net hits, the spell applies a Severe Poison Wound instead; if the spell scores 4+ net hits, it applies a Mortal Poison Wound instead. This special wound reduces maximum endurance as normal based on its severity and has the normal recovery time. These wounds are metabolic and inflict a penalty to all Strength, Agility, and Intuition checks based on the severity: moderate -2, severe -4, mortal -6.
+
+
+Green Death
+(body spell attack, 2 AP)
+Range: 30’ increment                Area of Effect: single target        Duration: instant
+If this spell hits, it causes the target to become diseased; while diseased, they suffer a stacking -1 penalty to all checks and -1 maximum endurance per hour. If this reduces their maximum endurance to 0, they are dealt a Deathblow. At the start of each of their turns, any creature within 15’ of them must make a Body check (against the casting check) or become diseased as well. This spell is Subtle.
