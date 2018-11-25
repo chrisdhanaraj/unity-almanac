@@ -1,0 +1,6 @@
+[
+  "Novice",
+  "Adept",
+  "Expert",
+  "Master"
+]

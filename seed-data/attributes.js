@@ -21,7 +21,6 @@
   "Reflex Spell Attack",
   "Divination Spell",
   "Cloud Enchantment Spell",
-  "1 Week",
   "Transmutation Spell",
   "Illusion Spell",
   "Phantasm Spell",

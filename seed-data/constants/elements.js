@@ -154,5 +154,17 @@ export const schools = {
   Transmutation: {
     name: "Transmutation",
     element: elements.Water.name
+  },
+  Blood: {
+    name: "Blood",
+    element: null
+  },
+  Bone: {
+    name: "Bone",
+    element: null
+  },
+  Flesh: {
+    name: "Flesh",
+    element: null
   }
 };

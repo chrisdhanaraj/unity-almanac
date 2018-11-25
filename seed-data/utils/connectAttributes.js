@@ -11,9 +11,3 @@ export const connectAttributes = attributes => {
     connect: formattedAttributes
   };
 };
-
-export const standardSpellAttributes = tier => ({
-  tier,
-  costType: CostType.AP,
-  costAmount: 2
-});

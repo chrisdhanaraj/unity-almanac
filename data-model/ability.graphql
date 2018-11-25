@@ -1,0 +1,47 @@
+type Element {
+  id: ID! @unique
+  name: String! @unique
+  description: String
+  schools: [School!]!
+}
+
+type School {
+  id: ID! @unique
+  name: String! @unique
+  description: String
+  spells: [Ability!]!
+  element: Element
+}
+
+type Ability {
+  id: ID! @unique
+  name: String!
+  description: String!
+  attributes: [Attribute!]!
+  tier: String
+  element: Element
+  school: School
+  costType: String
+  costAmount: Int
+  costUnit: String
+  maintainCostType: String
+  maintainCostAmount: Int
+  maintainCostUnit: String
+  secondaryCostAmount: Int
+  secondaryCostUnit: String
+  rangeType: String
+  rangeAmount: Int
+  rangeIncrement: Int
+  areaOfEffectType: String
+  areaOfEffectRadius: Int
+  areaOfEffectLine: String
+  areaOfEffectCone: String
+  durationAmount: String
+  durationType: String
+}
+
+type Attribute {
+  id: ID! @unique
+  name: String! @unique
+  description: String
+}

@@ -56,10 +56,10 @@ export const TierConstants = [
 ];
 
 export const Tier = {
-  "Novice Incantations": "NOVICE",
-  "Adept Incantations": "ADEPT",
-  "Expert Incantations": "EXPERT",
-  "Master Incantations": "MASTER"
+  "Novice Incantations": "Novice",
+  "Adept Incantations": "Adept",
+  "Expert Incantations": "Expert",
+  "Master Incantations": "Master"
 };
 
 export const TimeConstants = [
@@ -70,22 +70,26 @@ export const TimeConstants = [
   "day",
   "days",
   "second",
-  "seconds"
+  "seconds",
+  "week",
+  "weeks",
+  "day",
+  "days"
 ];
 
 export const RangeType = {
-  range: "RANGE",
-  melee: "MELEE",
-  increment: "INCREMENT",
-  caster: "CASTER",
-  special: "SPECIAL"
+  range: "Range",
+  melee: "Melee",
+  increment: "Increment",
+  caster: "Caster",
+  special: "Special"
 };
 
 export const AreaType = {
-  "single target": "SINGLE_TARGET",
-  caster: "CASTER",
-  radius: "RADIUS",
-  special: "SPECIAL"
+  "single target": "Single Target",
+  caster: "Caster",
+  radius: "Radius",
+  special: "Special"
 };
 
 export const StandardAreaValues = [

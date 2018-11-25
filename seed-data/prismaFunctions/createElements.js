@@ -10,7 +10,7 @@ const createElements = async () => {
     promiseArray.push(prisma.createElement(element));
   });
 
-  await Promise.all(promiseArray);
+  return Promise.all(promiseArray);
 };
 
 export default createElements;

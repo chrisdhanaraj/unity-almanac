@@ -1,5 +1,6 @@
-endpoint: http://localhost:4466
-datamodel: datamodel.prisma
+endpoint: https://unity-almanac-23b3ebc1b8.herokuapp.com/unity-almanac/dev
+datamodel:
+  - ./data-model/ability.graphql
 generate:
   - generator: javascript-client
     output: ./generated/prisma-client/

@@ -11,7 +11,7 @@ const createAttributes = async () => {
     );
   });
 
-  await Promise.all(promiseArray);
+  return Promise.all(promiseArray);
 };
 
 export default createAttributes;

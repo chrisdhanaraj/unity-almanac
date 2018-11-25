@@ -7,19 +7,26 @@ const createSchools = async () => {
   Object.keys(schools).forEach(key => {
     const school = schools[key];
 
+    const newSchool = {
+      name: school.name
+    };
+
+    if (school.element !== null) {
+      newSchool.element = {
+        connect: {
+          name: school.element
+        }
+      };
+    }
+
     promiseArray.push(
       prisma.createSchool({
-        name: school.name,
-        element: {
-          connect: {
-            name: school.element
-          }
-        }
+        ...newSchool
       })
     );
   });
 
-  await Promise.all(promiseArray);
+  return Promise.all(promiseArray);
 };
 
 export default createSchools;

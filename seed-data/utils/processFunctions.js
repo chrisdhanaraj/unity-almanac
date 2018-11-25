@@ -1,4 +1,4 @@
-import { startCase, snakeCase, upperCase } from "lodash";
+import { startCase } from "lodash";
 import {
   TimeConstants,
   RangeType,
@@ -11,48 +11,6 @@ function lineIncludesAttribute(line) {
   return AttributesSet.some(attrib => {
     return line.toLowerCase().includes(`(${attrib.toLowerCase()},`);
   });
-}
-
-function processTime(timeLine, name) {
-  const properties = {};
-
-  properties.costType = "Time";
-
-  if (timeLine.includes("maintain")) {
-    const maintainValue = timeLine.slice(0, timeLine.indexOf("/"));
-    const [amount, unit] = maintainValue.split(" ");
-
-    properties.maintainCostAmount = +amount;
-    properties.costUnit = unit;
-  } else if (timeLine.includes("/")) {
-    const multipleTimes = timeLine.split("/");
-
-    const [primaryAmount, primaryUnit] = multipleTimes[0];
-    const [secondaryAmount, secondaryUnit] = multipleTimes[1];
-
-    properties.costAmount = primaryAmount;
-    properties.costUnit = primaryUnit;
-    properties.secondaryCostAmount = secondaryAmount;
-    properties.secondaryCostUnit = secondaryUnit;
-  } else {
-    const timeArr = timeLine.split(" ");
-    const [amount, unit] = timeArr;
-
-    if (
-      unit === "minute" ||
-      unit === "minutes" ||
-      unit === "hour" ||
-      unit === "hours" ||
-      unit === "day"
-    ) {
-      properties.costAmount = +amount;
-      properties.costUnit = unit;
-    } else {
-      // console.log("No time unit", amount, unit, name);
-    }
-  }
-
-  return properties;
 }
 
 function processRange(rangeValue) {
@@ -81,22 +39,22 @@ function processArea(areaValue, name) {
   const content = {};
 
   if (StandardAreaValues.includes(areaValue)) {
-    content.areaOfEffectType = upperCase(snakeCase(areaValue));
+    content.areaOfEffectType = startCase(areaValue);
   } else if (areaValue.includes("radius")) {
-    content.areaOfEffectType = upperCase("radius");
+    content.areaOfEffectType = startCase("radius");
     content.areaOfEffectRadius = +areaValue.slice(
       0,
       areaValue.indexOf("radius") - 2
     );
   } else if (areaValue.includes("line")) {
-    content.areaOfEffectType = upperCase("line");
+    content.areaOfEffectType = startCase("line");
     content.areaOfEffectLine = areaValue.slice(
       0,
       areaValue.indexOf("line") - 2
     );
   } else if (areaValue.includes("’")) {
-    content.areaOfEffectType = upperCase("radius");
-    content.areaOfEffectLine = +areaValue.slice(0, areaValue.indexOf("’"));
+    content.areaOfEffectType = startCase("radius");
+    content.areaOfEffectRadius = +areaValue.slice(0, areaValue.indexOf("’"));
   } else {
     // console.log("unknown area value", areaValue, name);
   }
@@ -138,6 +96,57 @@ function processRangeAoEDuration(lineContent, name) {
   };
 }
 
+function processAP({ lineContent, maintain = false }) {
+  const apArr = lineContent.split(" ");
+  const costObject = {};
+
+  if (maintain) {
+    return {
+      maintainCostType: "AP",
+      maintainCostAmount: +apArr[0]
+    };
+  }
+
+  return {
+    costType: "AP",
+    costAmount: +apArr[0]
+  };
+}
+
+function processTime({ lineContent, maintain = false, name }) {
+  const properties = {};
+
+  properties[maintain ? "maintainCostType" : "costType"] = "Time";
+
+  if (lineContent.includes("/")) {
+    const multipleTimes = lineContent.split("/");
+
+    const [primaryAmount, primaryUnit] = multipleTimes[0].split(" ");
+    const [secondaryAmount, secondaryUnit] = multipleTimes[1].split(" ");
+
+    properties[maintain ? "maintainCostAmount" : "costAmount"] = +primaryAmount;
+    properties[maintain ? "maintainCostUnit" : "costUnit"] = primaryUnit;
+    properties[
+      maintain ? "maintainSecondaryCostAmount" : "secondaryCostAmount"
+    ] = +secondaryAmount;
+    properties[
+      maintain ? "maintainSecondaryCostUnit" : "secondaryCostUnit"
+    ] = secondaryUnit;
+  } else {
+    const timeArr = lineContent.split(" ");
+    const [amount, unit] = timeArr;
+
+    if (TimeConstants.some(time => unit.toLowerCase().includes(time))) {
+      properties[maintain ? "maintainCostAmount" : "costAmount"] = +amount;
+      properties[maintain ? "maintainCostUnit" : "costUnit"] = unit;
+    } else {
+      console.log("No time unit", amount, unit, name);
+    }
+  }
+
+  return properties;
+}
+
 function processAttributesAndCost(lineContent, name) {
   let formattedContent = lineContent.replace("(", "");
   formattedContent = formattedContent.replace(")", "");
@@ -146,15 +155,49 @@ function processAttributesAndCost(lineContent, name) {
 
   const properties = content.reduce(
     (properties, prop) => {
-      if (TimeConstants.some(time => prop.toLowerCase().includes(time))) {
+      if (prop.includes("maintain")) {
+        let [initial, maintain] = prop.split("/");
+        maintain = maintain.replace("maintain", "").trim();
+        const initialCost = initial.includes("AP")
+          ? processAP({
+              lineContent: initial
+            })
+          : processTime({
+              lineContent: initial
+            });
+
+        const maintainCost = maintain.includes("AP")
+          ? processAP({
+              lineContent: maintain,
+              maintain: true
+            })
+          : processTime({
+              lineContent: maintain,
+              maintain: true
+            });
+
         properties = {
           ...properties,
-          ...processTime(prop, name)
+          ...initialCost,
+          ...maintainCost
+        };
+      } else if (
+        TimeConstants.some(time => prop.toLowerCase().includes(time))
+      ) {
+        properties = {
+          ...properties,
+          ...processTime({
+            lineContent: prop,
+            name
+          })
         };
       } else if (prop.includes("AP")) {
-        const apArr = prop.split(" ");
-        properties.costType = "AP";
-        properties.costAmount = +apArr[0];
+        properties = {
+          ...properties,
+          ...processAP({
+            lineContent: prop
+          })
+        };
       } else {
         // attribute
         properties.attributes.push(startCase(prop));
@@ -163,9 +206,7 @@ function processAttributesAndCost(lineContent, name) {
       return properties;
     },
     {
-      attributes: [],
-      costType: "",
-      costAmount: ""
+      attributes: []
     }
   );
 

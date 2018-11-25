@@ -31,19 +31,19 @@ const processSchool = data => {
           currentTier = Tier[lineContent];
         } else {
           switch (currentTier) {
-            case "NOVICE": {
+            case "Novice": {
               noviceSpells.push(lineContent);
               break;
             }
-            case "ADEPT": {
+            case "Adept": {
               adeptSpells.push(lineContent);
               break;
             }
-            case "EXPERT": {
+            case "Expert": {
               expertSpells.push(lineContent);
               break;
             }
-            case "MASTER": {
+            case "Master": {
               masterSpells.push(lineContent);
               break;
             }
@@ -60,14 +60,12 @@ const processSchool = data => {
     ? null
     : schools[abilityCategory].element;
 
-  const school = VampirismSet.includes(abilityCategory)
-    ? null
-    : schools[abilityCategory].name;
+  const school = schools[abilityCategory].name;
 
-  const novice = processSpellTier(noviceSpells, "NOVICE", element, school);
-  const adept = processSpellTier(adeptSpells, "ADEPT", element, school);
-  const expert = processSpellTier(expertSpells, "EXPERT", element, school);
-  const master = processSpellTier(masterSpells, "MASTER", element, school);
+  const novice = processSpellTier(noviceSpells, "Novice", element, school);
+  const adept = processSpellTier(adeptSpells, "Adept", element, school);
+  const expert = processSpellTier(expertSpells, "Expert", element, school);
+  const master = processSpellTier(masterSpells, "Master", element, school);
 
   const category = [...novice, ...adept, ...expert, ...master];
 

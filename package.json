@@ -5,15 +5,16 @@
   "author": "chrisdhanaraj <adhanaraj@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "prisma": "^1.18.0"
+    "prisma": "^1.21.0"
   },
   "dependencies": {
     "@babel/core": "^7.1.2",
     "@babel/node": "^7.0.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
     "@babel/preset-env": "^7.1.0",
+    "global": "^4.3.2",
     "globby": "^8.0.1",
-    "graphql": "0.13",
+    "graphql": "^14.0.2",
     "prisma-client-lib": "^1.18.0"
   }
 }
